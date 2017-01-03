@@ -1,0 +1,160 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: zyepheng
+  name: 隋語拼音
+  version: “2016.05.01”
+  author:
+    - 磁界 <@Zyengrio.twitter.com>
+
+  description: |
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: əzyxwvutsrqpoŋnmlkjihgfedcba^
+  initials: zvtsqpŋnmlkjgdcb
+  delimiter: " '"
+  algebra:
+    - derive/ŋ/v/
+    - derive/ə/w/
+    - abbrev/^([bcdfgjklmnŋpqstvz]).+$/$1/
+    - abbrev/^([ptkcszqg]h).+$/$1/
+    - abbrev/^([d]z).+$/$1
+    - derive/g([aeouə])/g$1/
+    - derive/gr([aeouə])/gr$1/
+    - derive/dî/di/
+    - derive/dî/dih/
+    - derive/dî/dee/
+    - derive/dî/deeh/
+    - derive/dz/zz/
+    - derive/ji/j/
+    - derive/ei/e/
+    - derive/shi/sh/
+    - derive/zhi/zh/
+    - derive/iəŋ/iv/
+    - derive/iək/ik/
+    - derive/ou/wu/
+    - derive/ou/u/
+    - derive/r([iy])/$1/
+    - derive/^([a-z]+)[1-3]$/$1/
+    - xlit 123 rxh
+    - derive/([ptk])4/$1/
+#    - 'xlit 1234 -/\'
+
+translator:
+  dictionary: zyepheng
+  spelling_hints: 14
+  preedit_format:
+    - xform dii dî
+    - xform dee dî
+    - xform v ŋ
+    - xform w ə
+    - xform ([aeoə])([iu])([rxh]) $1$3$2
+    - xform ([y])([i])([rxh]) $1$3$2
+    - xform ([aeiouyə])([mnptk])([rxh]) $1$3$2
+    - xform ([aeiouyə])ŋ([rxh]) $1$2ŋ
+    - xform ar a
+    - xform ax á
+    - xform ah à
+    - xform er e
+    - xform ex é
+    - xform eh è
+    - xform or o
+    - xform ox ó
+    - xform oh ò
+    - xform yr y
+    - xform yx ý
+    - xform yh ỳ
+    - xform ər ə
+    - xform əx ə́
+    - xform əh ə̀
+    - xform ir i
+    - xform ix í
+    - xform ih ì
+    - xform ur u
+    - xform ux ú
+    - xform uh ù
+  comment_format:
+    - xform ([aeoə])([iu])([123]) $1$3$2
+    - xform ([aeiouyə])([mnptk])([123]) $1$3$2
+    - xform ([aeiouyə])ŋ([123]) $1$2ŋ
+    - xform a1 a
+    - xform a2 á
+    - xform a3 à
+    - xform e1 e
+    - xform e2 é
+    - xform e3 è
+    - xform o1 o
+    - xform o2 ó
+    - xform o3 ò
+    - xform y1 y
+    - xform y2 ý
+    - xform y3 ỳ
+    - xform ə1 ə
+    - xform ə2 ə́
+    - xform ə3 ə̀
+    - xform i1 i
+    - xform i2 í
+    - xform i3 ì
+    - xform u1 u
+    - xform u2 ú
+    - xform u3 ù
+    - xform ([ptk])4 $1
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
