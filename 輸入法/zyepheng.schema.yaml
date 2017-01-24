@@ -113,6 +113,7 @@ translator:
     - xform uh ù
   comment_format:
     - xform ([aeoə])([iu])([123]) $1$3$2
+    - xform ([y])([i])([123]) $1$3$2
     - xform ([aeiouyə])([mnptk])([123]) $1$3$2
     - xform ([aeiouyə])ŋ([123]) $1$2ŋ
     - xform a1 a
