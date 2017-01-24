@@ -15,44 +15,44 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-東	toŋ1	
-菄	toŋ1	
-鶇	toŋ1	
-倲	toŋ1	
-涷	toŋ1	
-蝀	toŋ1	
-凍	toŋ1	
-鯟	toŋ1	
-崠	toŋ1	
-埬	toŋ1	
-同	doŋ1	
-仝	doŋ1	
-童	doŋ1	
-僮	doŋ1	
-銅	doŋ1	
-桐	doŋ1	
-峒	doŋ1	
-硐	doŋ1	
-筒	doŋ1	
-瞳	doŋ1	
-罿	doŋ1	
-犝	doŋ1	
-筩	doŋ1	
-潼	doŋ1	
-曈	doŋ1	
-洞	doŋ1	
-侗	doŋ1	
-橦	doŋ1	
-烔	doŋ1	
-挏	doŋ1	
-酮	doŋ1	
-鮦	doŋ1	
-眮	doŋ1	
-蕫	doŋ1	
-穜	doŋ1	
-衕	doŋ1	
-哃	doŋ1	
-絧	doŋ1	
+東	tuŋ1	
+菄	tuŋ1	
+鶇	tuŋ1	
+倲	tuŋ1	
+涷	tuŋ1	
+蝀	tuŋ1	
+凍	tuŋ1	
+鯟	tuŋ1	
+崠	tuŋ1	
+埬	tuŋ1	
+同	duŋ1	
+仝	duŋ1	
+童	duŋ1	
+僮	duŋ1	
+銅	duŋ1	
+桐	duŋ1	
+峒	duŋ1	
+硐	duŋ1	
+筒	duŋ1	
+瞳	duŋ1	
+罿	duŋ1	
+犝	duŋ1	
+筩	duŋ1	
+潼	duŋ1	
+曈	duŋ1	
+洞	duŋ1	
+侗	duŋ1	
+橦	duŋ1	
+烔	duŋ1	
+挏	duŋ1	
+酮	duŋ1	
+鮦	duŋ1	
+眮	duŋ1	
+蕫	duŋ1	
+穜	duŋ1	
+衕	duŋ1	
+哃	duŋ1	
+絧	duŋ1	
 中	tryuŋ1	99%
 衷	tryuŋ1	
 忠	tryuŋ1	
@@ -62,15 +62,15 @@ use_preset_vocabulary: true
 盅	dryuŋ1	
 爞	dryuŋ1	
 翀	dryuŋ1	
-終	tyoŋ1	
-衆	tyoŋ1	
-潨	tyoŋ1	
-螽	tyoŋ1	
-鼨	tyoŋ1	
-蔠	tyoŋ1	
-柊	tyoŋ1	
-鴤	tyoŋ1	
-泈	tyoŋ1	
+終	tyuŋ1	
+衆	tyuŋ1	
+潨	tyuŋ1	
+螽	tyuŋ1	
+鼨	tyuŋ1	
+蔠	tyuŋ1	
+柊	tyuŋ1	
+鴤	tyuŋ1	
+泈	tyuŋ1	
 忡	thryuŋ1	
 浺	thryuŋ1	
 盅	thryuŋ1	
@@ -81,20 +81,20 @@ use_preset_vocabulary: true
 娀	syuŋ1	
 菘	syuŋ1	
 硹	syuŋ1	
-戎	nyoŋ1	
-茙	nyoŋ1	
-駥	nyoŋ1	
-狨	nyoŋ1	
-絨	nyoŋ1	
+戎	nyuŋ1	
+茙	nyuŋ1	
+駥	nyuŋ1	
+狨	nyuŋ1	
+絨	nyuŋ1	
 弓	kyuŋ1	
 躳	kyuŋ1	
 躬	kyuŋ1	
 宮	kyuŋ1	
 宫	kyuŋ1	
 匑	kyuŋ1	
-融	jyoŋ1	
-肜	jyoŋ1	
-瀜	jyoŋ1	
+融	jyuŋ1	
+肜	jyuŋ1	
+瀜	jyuŋ1	
 雄	ghyuŋ1	
 熊	ghyuŋ1	
 瞢	myuŋ1	
@@ -124,176 +124,176 @@ use_preset_vocabulary: true
 灃	phyuŋ1	
 寷	phyuŋ1	
 麷	phyuŋ1	
-充	thyoŋ1	
-珫	thyoŋ1	
-茺	thyoŋ1	
+充	thyuŋ1	
+珫	thyuŋ1	
+茺	thyuŋ1	
 隆	lyuŋ1	
 癃	lyuŋ1	
 窿	lyuŋ1	
 霳	lyuŋ1	
-空	khoŋ1	
-箜	khoŋ1	
-崆	khoŋ1	
-椌	khoŋ1	
-硿	khoŋ1	
-悾	khoŋ1	
-埪	khoŋ1	
-倥	khoŋ1	
-涳	khoŋ1	
-鵼	khoŋ1	
-公	koŋ1	
-功	koŋ1	
-工	koŋ1	
-疘	koŋ1	
-蚣	koŋ1	
-玒	koŋ1	
-釭	koŋ1	
-魟	koŋ1	
-攻	koŋ1	
-愩	koŋ1	
-碽	koŋ1	
-篢	koŋ1	
-蒙	moŋ1	
-冡	moŋ1	
-濛	moŋ1	
-艨	moŋ1	
-朦	moŋ1	
-矇	moŋ1	
-饛	moŋ1	
-檬	moŋ1	
-鸏	moŋ1	
-幪	moŋ1	
-罞	moŋ1	
-髳	moŋ1	
-蠓	moŋ1	
-雺	moŋ1	
-霿	moŋ1	
-霚	moŋ1	
-朦	moŋ1	
-懜	moŋ1	
-霥	moŋ1	
-籠	loŋ1	
-豅	loŋ1	
-朧	loŋ1	
-龓	loŋ1	
-瀧	loŋ1	
-聾	loŋ1	
-礱	loŋ1	
-嚨	loŋ1	
-蘢	loŋ1	
-櫳	loŋ1	
-巃	loŋ1	
-襱	loŋ1	
-瓏	loŋ1	
-曨	loŋ1	
-鸗	loŋ1	
-蠪	loŋ1	
-屸	loŋ1	
-洪	ghoŋ1	
-鉷	ghoŋ1	
-訌	ghoŋ1	
-紅	ghoŋ1	
-虹	ghoŋ1	
-仜	ghoŋ1	
-鴻	ghoŋ1	
-葒	ghoŋ1	
-葓	ghoŋ1	
-谼	ghoŋ1	
-烘	ghoŋ1	
-洚	ghoŋ1	
-渱	ghoŋ1	
-魟	ghoŋ1	
-叢	dzoŋ1	
-藂	dzoŋ1	
-潨	dzoŋ1	
-翁	qoŋ1	
-螉	qoŋ1	
-蓊	qoŋ1	
-怱	choŋ1	
-忩	choŋ1	
-葱	choŋ1	
-楤	choŋ1	
-聦	choŋ1	
-聰	choŋ1	
-繱	choŋ1	
-璁	choŋ1	
-騘	choŋ1	
-蟌	choŋ1	
-囱	choŋ1	
-鍯	choŋ1	
-熜	choŋ1	
-通	thoŋ1	
-蓪	thoŋ1	
-侗	thoŋ1	
-恫	thoŋ1	
-痌	thoŋ1	
-曈	thoŋ1	
-俑	thoŋ1	
-葼	coŋ1	
-鬷	coŋ1	
-嵕	coŋ1	
-猣	coŋ1	
-豵	coŋ1	
-鯼	coŋ1	
-椶	coŋ1	
-騣	coŋ1	
-嵸	coŋ1	
-艐	coŋ1	
-蝬	coŋ1	
-堫	coŋ1	
-翪	coŋ1	
-緵	coŋ1	
-稯	coŋ1	
-鬉	coŋ1	
-蓬	boŋ1	
-篷	boŋ1	
-髼	boŋ1	
-蜂	boŋ1	
-芃	boŋ1	
-韸	boŋ1	
-烘	qhoŋ1	
-叿	qhoŋ1	
-魟	qhoŋ1	
-谾	qhoŋ1	
-檧	soŋ1	
-憽	soŋ1	
-冬	tuŋ1	
-苳	tuŋ1	
-笗	tuŋ1	
-彤	duŋ1	
-疼	duŋ1	
-佟	duŋ1	
-炵	duŋ1	
-鼕	duŋ1	
-爞	duŋ1	
-痋	duŋ1	
-鉵	duŋ1	
-浵	duŋ1	
-庝	duŋ1	
-鉖	duŋ1	
-赨	duŋ1	
-賨	dzuŋ1	
-琮	dzuŋ1	
-悰	dzuŋ1	
-潨	dzuŋ1	
-淙	dzuŋ1	
-慒	dzuŋ1	
-鬃	dzuŋ1	
-孮	dzuŋ1	
-誴	dzuŋ1	
-農	nuŋ1	
-辳	nuŋ1	
-噥	nuŋ1	
-憹	nuŋ1	
-儂	nuŋ1	
-膿	nuŋ1	
-攻	kuŋ1	
+空	khuŋ1	
+箜	khuŋ1	
+崆	khuŋ1	
+椌	khuŋ1	
+硿	khuŋ1	
+悾	khuŋ1	
+埪	khuŋ1	
+倥	khuŋ1	
+涳	khuŋ1	
+鵼	khuŋ1	
+公	kuŋ1	
+功	kuŋ1	
+工	kuŋ1	
+疘	kuŋ1	
+蚣	kuŋ1	
+玒	kuŋ1	
 釭	kuŋ1	
+魟	kuŋ1	
+攻	kuŋ1	
+愩	kuŋ1	
+碽	kuŋ1	
+篢	kuŋ1	
+蒙	muŋ1	
+冡	muŋ1	
+濛	muŋ1	
+艨	muŋ1	
+朦	muŋ1	
+矇	muŋ1	
+饛	muŋ1	
+檬	muŋ1	
+鸏	muŋ1	
+幪	muŋ1	
+罞	muŋ1	
+髳	muŋ1	
+蠓	muŋ1	
+雺	muŋ1	
+霿	muŋ1	
+霚	muŋ1	
+朦	muŋ1	
+懜	muŋ1	
+霥	muŋ1	
+籠	luŋ1	
+豅	luŋ1	
+朧	luŋ1	
+龓	luŋ1	
+瀧	luŋ1	
+聾	luŋ1	
+礱	luŋ1	
+嚨	luŋ1	
+蘢	luŋ1	
+櫳	luŋ1	
+巃	luŋ1	
+襱	luŋ1	
+瓏	luŋ1	
+曨	luŋ1	
+鸗	luŋ1	
+蠪	luŋ1	
+屸	luŋ1	
+洪	ghuŋ1	
+鉷	ghuŋ1	
+訌	ghuŋ1	
+紅	ghuŋ1	
+虹	ghuŋ1	
+仜	ghuŋ1	
+鴻	ghuŋ1	
+葒	ghuŋ1	
+葓	ghuŋ1	
+谼	ghuŋ1	
+烘	ghuŋ1	
 洚	ghuŋ1	
-宗	cuŋ1	
-倧	cuŋ1	
-鬆	suŋ1	
-炵	thuŋ1	
+渱	ghuŋ1	
+魟	ghuŋ1	
+叢	dzuŋ1	
+藂	dzuŋ1	
+潨	dzuŋ1	
+翁	quŋ1	
+螉	quŋ1	
+蓊	quŋ1	
+怱	chuŋ1	
+忩	chuŋ1	
+葱	chuŋ1	
+楤	chuŋ1	
+聦	chuŋ1	
+聰	chuŋ1	
+繱	chuŋ1	
+璁	chuŋ1	
+騘	chuŋ1	
+蟌	chuŋ1	
+囱	chuŋ1	
+鍯	chuŋ1	
+熜	chuŋ1	
+通	thuŋ1	
+蓪	thuŋ1	
+侗	thuŋ1	
+恫	thuŋ1	
+痌	thuŋ1	
+曈	thuŋ1	
+俑	thuŋ1	
+葼	cuŋ1	
+鬷	cuŋ1	
+嵕	cuŋ1	
+猣	cuŋ1	
+豵	cuŋ1	
+鯼	cuŋ1	
+椶	cuŋ1	
+騣	cuŋ1	
+嵸	cuŋ1	
+艐	cuŋ1	
+蝬	cuŋ1	
+堫	cuŋ1	
+翪	cuŋ1	
+緵	cuŋ1	
+稯	cuŋ1	
+鬉	cuŋ1	
+蓬	buŋ1	
+篷	buŋ1	
+髼	buŋ1	
+蜂	buŋ1	
+芃	buŋ1	
+韸	buŋ1	
+烘	qhuŋ1	
+叿	qhuŋ1	
+魟	qhuŋ1	
+谾	qhuŋ1	
+檧	suŋ1	
+憽	suŋ1	
+冬	toŋ1	
+苳	toŋ1	
+笗	toŋ1	
+彤	doŋ1	
+疼	doŋ1	
+佟	doŋ1	
+炵	doŋ1	
+鼕	doŋ1	
+爞	doŋ1	
+痋	doŋ1	
+鉵	doŋ1	
+浵	doŋ1	
+庝	doŋ1	
+鉖	doŋ1	
+赨	doŋ1	
+賨	dzoŋ1	
+琮	dzoŋ1	
+悰	dzoŋ1	
+潨	dzoŋ1	
+淙	dzoŋ1	
+慒	dzoŋ1	
+鬃	dzoŋ1	
+孮	dzoŋ1	
+誴	dzoŋ1	
+農	noŋ1	
+辳	noŋ1	
+噥	noŋ1	
+憹	noŋ1	
+儂	noŋ1	
+膿	noŋ1	
+攻	koŋ1	
+釭	koŋ1	
+洚	ghoŋ1	
+宗	coŋ1	
+倧	coŋ1	
+鬆	soŋ1	
+炵	thoŋ1	
 鍾	tyoŋ1	
 鐘	tyoŋ1	
 蚣	tyoŋ1	
@@ -3027,100 +3027,100 @@ use_preset_vocabulary: true
 斦	ŋiən1	
 狺	ŋiən1	
 鄞	ŋiən1	
-元	ŋyan1	
-原	ŋyan1	
-邍	ŋyan1	
-源	ŋyan1	
-厵	ŋyan1	
-杬	ŋyan1	
-嫄	ŋyan1	
-沅	ŋyan1	
-騵	ŋyan1	
-黿	ŋyan1	
-羱	ŋyan1	
-蚖	ŋyan1	
-芫	ŋyan1	
-邧	ŋyan1	
-榞	ŋyan1	
-謜	ŋyan1	
-獂	ŋyan1	
-阮	ŋyan1	
-蒝	ŋyan1	
-袁	ghyan1	
-爰	ghyan1	
-垣	ghyan1	
-園	ghyan1	
-援	ghyan1	
-榬	ghyan1	
-轅	ghyan1	
-鶢	ghyan1	
-媛	ghyan1	
-洹	ghyan1	
-溒	ghyan1	
-蝯	ghyan1	
-猨	ghyan1	
-猿	ghyan1	
-煩	bian1	
-番	bian1	
-蹯	bian1	
-繁	bian1	
-蘩	bian1	
-薠	bian1	
-樊	bian1	
-繙	bian1	
-燔	bian1	
-膰	bian1	
-瀿	bian1	
-羳	bian1	
-鷭	bian1	
-蟠	bian1	
-蕃	bian1	
-蠜	bian1	
-礬	bian1	
-鐇	bian1	
-璠	bian1	
-笲	bian1	
-襎	bian1	
-袢	bian1	
-棥	bian1	
-緐	bian1	
-墦	bian1	
-旛	bian1	
-藩	bian1	
-飜	phian1	
-翻	phian1	
-旛	phian1	
-番	phian1	
-幡	phian1	
-轓	phian1	
-繙	phian1	
-反	phian1	
-暄	qhyan1	
-煖	qhyan1	
-喛	qhyan1	
-萱	qhyan1	
-諼	qhyan1	
-塤	qhyan1	
-壎	qhyan1	
-吅	qhyan1	
-貆	qhyan1	
-喧	qhyan1	
-諠	qhyan1	
-愋	qhyan1	
-讙	qhyan1	
-翧	qhyan1	
-蝖	qhyan1	
-鴛	qyan1	
-冤	qyan1	
-鵷	qyan1	
-惌	qyan1	
-宛	qyan1	
-蜿	qyan1	
-蒬	qyan1	
-怨	qyan1	
-葾	qyan1	
-裷	qyan1	
-眢	qyan1	
+元	ŋyon1	
+原	ŋyon1	
+邍	ŋyon1	
+源	ŋyon1	
+厵	ŋyon1	
+杬	ŋyon1	
+嫄	ŋyon1	
+沅	ŋyon1	
+騵	ŋyon1	
+黿	ŋyon1	
+羱	ŋyon1	
+蚖	ŋyon1	
+芫	ŋyon1	
+邧	ŋyon1	
+榞	ŋyon1	
+謜	ŋyon1	
+獂	ŋyon1	
+阮	ŋyon1	
+蒝	ŋyon1	
+袁	ghyon1	
+爰	ghyon1	
+垣	ghyon1	
+園	ghyon1	
+援	ghyon1	
+榬	ghyon1	
+轅	ghyon1	
+鶢	ghyon1	
+媛	ghyon1	
+洹	ghyon1	
+溒	ghyon1	
+蝯	ghyon1	
+猨	ghyon1	
+猿	ghyon1	
+煩	byon1	
+番	byon1	
+蹯	byon1	
+繁	byon1	
+蘩	byon1	
+薠	byon1	
+樊	byon1	
+繙	byon1	
+燔	byon1	
+膰	byon1	
+瀿	byon1	
+羳	byon1	
+鷭	byon1	
+蟠	byon1	
+蕃	byon1	
+蠜	byon1	
+礬	byon1	
+鐇	byon1	
+璠	byon1	
+笲	byon1	
+襎	byon1	
+袢	byon1	
+棥	byon1	
+緐	byon1	
+墦	byon1	
+旛	byon1	
+藩	byon1	
+飜	phyon1	
+翻	phyon1	
+旛	phyon1	
+番	phyon1	
+幡	phyon1	
+轓	phyon1	
+繙	phyon1	
+反	phyon1	
+暄	qhyon1	
+煖	qhyon1	
+喛	qhyon1	
+萱	qhyon1	
+諼	qhyon1	
+塤	qhyon1	
+壎	qhyon1	
+吅	qhyon1	
+貆	qhyon1	
+喧	qhyon1	
+諠	qhyon1	
+愋	qhyon1	
+讙	qhyon1	
+翧	qhyon1	
+蝖	qhyon1	
+鴛	qyon1	
+冤	qyon1	
+鵷	qyon1	
+惌	qyon1	
+宛	qyon1	
+蜿	qyon1	
+蒬	qyon1	
+怨	qyon1	
+葾	qyon1	
+裷	qyon1	
+眢	qyon1	
 言	ŋian1	
 琂	ŋian1	
 甗	ŋian1	
@@ -3136,14 +3136,14 @@ use_preset_vocabulary: true
 騝	kian1	
 蔫	qian1	
 焉	qian1	
-蕃	pian1	
-藩	pian1	
-轓	pian1	
-鱕	pian1	
-籓	pian1	
-鐇	pian1	
+蕃	pyon1	
+藩	pyon1	
+轓	pyon1	
+鱕	pyon1	
+籓	pyon1	
+鐇	pyon1	
 赶	gian1	
-樠	mian1	
+樠	myon1	
 魂	ghun1	
 餛	ghun1	
 餫	ghun1	
@@ -6018,13 +6018,13 @@ use_preset_vocabulary: true
 膺	qiəŋ1	
 應	qiəŋ1	
 鷹	qiəŋ1	
-凭	briəŋ1	
-馮	briəŋ1	
-憑	briəŋ1	
-淜	briəŋ1	
-冫	priəŋ1	
-冰	priəŋ1	
-掤	priəŋ1	
+凭	bryəŋ1	
+馮	bryəŋ1	
+憑	bryəŋ1	
+淜	bryəŋ1	
+冫	pryəŋ1	
+冰	pryəŋ1	
+掤	pryəŋ1	
 蠅	jiəŋ1	
 繩	zhiəŋ1	
 譝	zhiəŋ1	
@@ -6070,7 +6070,7 @@ use_preset_vocabulary: true
 庱	thriəŋ1	
 睖	thriəŋ1	
 磳	dzriəŋ1	
-砯	phriəŋ1	
+砯	phryəŋ1	
 登	təŋ1	
 璒	təŋ1	
 燈	təŋ1	
@@ -6427,140 +6427,140 @@ use_preset_vocabulary: true
 鴾	myu1	
 蛑	myu1	
 繆	myu1	
-侯	ghou1	
-矦	ghou1	
-帿	ghou1	
-鄇	ghou1	
-鍭	ghou1	
-銗	ghou1	
-猴	ghou1	
-糇	ghou1	
-翭	ghou1	
-翵	ghou1	
-餱	ghou1	
-喉	ghou1	
-篌	ghou1	
-鯸	ghou1	
-瘊	ghou1	
-葔	ghou1	
-骺	ghou1	
-睺	ghou1	
-謳	qou1	
-嘔	qou1	
-歐	qou1	
-甌	qou1	
-區	qou1	
-漚	qou1	
-鷗	qou1	
-瞘	qou1	
-櫙	qou1	
-蓲	qou1	
-醧	qou1	
-剾	qou1	
-鏂	qou1	
-膒	qou1	
-羺	nou1	
-獳	nou1	
-樓	lou1	
-婁	lou1	
-蔞	lou1	
-僂	lou1	
-艛	lou1	
-耬	lou1	
-髏	lou1	
-膢	lou1	
-廔	lou1	
-剅	lou1	
-摟	lou1	
-嘍	lou1	
-瞜	lou1	
-螻	lou1	
-簍	lou1	
-鞻	lou1	
-慺	lou1	
-鷜	lou1	
-褸	lou1	
-遱	lou1	
-謱	lou1	
-涑	sou1	
-鏉	sou1	
-摗	sou1	
-彄	khou1	
-摳	khou1	
-剾	khou1	
-韝	khou1	
-滱	khou1	
-夠	khou1	
-齁	qhou1	
-緅	cou1	
-陬	cou1	
-棷	cou1	
-掫	cou1	
-偷	thou1	
-鍮	thou1	
-鋀	thou1	
-媮	thou1	
-頭	dou1	
-投	dou1	
-骰	dou1	
-坄	dou1	
-牏	dou1	
-揄	dou1	
-窬	dou1	
-緰	dou1	
-歈	dou1	
-齵	ŋou1	
-鉤	kou1	
-溝	kou1	
-褠	kou1	
-韝	kou1	
-緱	kou1	
-篝	kou1	
-冓	kou1	
-枸	kou1	
-句	kou1	
-軥	kou1	
-夠	kou1	
-鴝	kou1	
-兜	tou1	
-侸	tou1	
-吺	tou1	
-篼	tou1	
-剅	tou1	
-郖	tou1	
-鯫	dzou1	
-裒	bou1	
-捊	bou1	
-抔	bou1	
-掊	bou1	
-箁	bou1	
-呣	mou1	
-幽	qiəu1	
-泑	qiəu1	
-呦	qiəu1	
-怮	qiəu1	
-虯	giəu1	
-觩	giəu1	
-璆	giəu1	
-觓	giəu1	
-鷚	giəu1	
-蟉	giəu1	
-彪	priəu1	
-髟	priəu1	
-驫	priəu1	
-鏐	liəu1	
-蟉	liəu1	
-樛	kiəu1	
-朻	kiəu1	
-淲	briəu1	
-瀌	briəu1	
-稵	ciəu1	
-犙	sriəu1	
-聱	ŋiəu1	
-飍	qhiəu1	
-烋	qhiəu1	
-繆	mriəu1	
-鷚	mriəu1	
+侯	ghu1	
+矦	ghu1	
+帿	ghu1	
+鄇	ghu1	
+鍭	ghu1	
+銗	ghu1	
+猴	ghu1	
+糇	ghu1	
+翭	ghu1	
+翵	ghu1	
+餱	ghu1	
+喉	ghu1	
+篌	ghu1	
+鯸	ghu1	
+瘊	ghu1	
+葔	ghu1	
+骺	ghu1	
+睺	ghu1	
+謳	qu1	
+嘔	qu1	
+歐	qu1	
+甌	qu1	
+區	qu1	
+漚	qu1	
+鷗	qu1	
+瞘	qu1	
+櫙	qu1	
+蓲	qu1	
+醧	qu1	
+剾	qu1	
+鏂	qu1	
+膒	qu1	
+羺	nu1	
+獳	nu1	
+樓	lu1	
+婁	lu1	
+蔞	lu1	
+僂	lu1	
+艛	lu1	
+耬	lu1	
+髏	lu1	
+膢	lu1	
+廔	lu1	
+剅	lu1	
+摟	lu1	
+嘍	lu1	
+瞜	lu1	
+螻	lu1	
+簍	lu1	
+鞻	lu1	
+慺	lu1	
+鷜	lu1	
+褸	lu1	
+遱	lu1	
+謱	lu1	
+涑	su1	
+鏉	su1	
+摗	su1	
+彄	khu1	
+摳	khu1	
+剾	khu1	
+韝	khu1	
+滱	khu1	
+夠	khu1	
+齁	qhu1	
+緅	cu1	
+陬	cu1	
+棷	cu1	
+掫	cu1	
+偷	thu1	
+鍮	thu1	
+鋀	thu1	
+媮	thu1	
+頭	du1	
+投	du1	
+骰	du1	
+坄	du1	
+牏	du1	
+揄	du1	
+窬	du1	
+緰	du1	
+歈	du1	
+齵	ŋu1	
+鉤	ku1	
+溝	ku1	
+褠	ku1	
+韝	ku1	
+緱	ku1	
+篝	ku1	
+冓	ku1	
+枸	ku1	
+句	ku1	
+軥	ku1	
+夠	ku1	
+鴝	ku1	
+兜	tu1	
+侸	tu1	
+吺	tu1	
+篼	tu1	
+剅	tu1	
+郖	tu1	
+鯫	dzu1	
+裒	bu1	
+捊	bu1	
+抔	bu1	
+掊	bu1	
+箁	bu1	
+呣	mu1	
+幽	qiu1	
+泑	qriu1	
+呦	qriu1	
+怮	qriu1	
+虯	griu1	
+觩	griu1	
+璆	griu1	
+觓	griu1	
+鷚	griu1	
+蟉	griu1	
+彪	priu1	
+髟	piu1	
+驫	piu1	
+鏐	liu1	
+蟉	liu1	
+樛	kriu1	
+朻	kriu1	
+淲	briu1	
+瀌	briu1	
+稵	ciu1	
+犙	sriu1	
+聱	ŋiu1	
+飍	qhiu1	
+烋	qhriu1	
+繆	mriu1	
+鷚	mriu1	
 侵	chim1	
 駸	chim1	
 浸	chim1	
@@ -7055,68 +7055,68 @@ use_preset_vocabulary: true
 氾	byom1	
 颿	byom1	
 柉	byom1	
-董	toŋ2	
-蝀	toŋ2	
-箽	toŋ2	
-懂	toŋ2	
-蕫	toŋ2	
-蠓	moŋ2	
-鸏	moŋ2	
-濛	moŋ2	
-朦	moŋ2	
-曚	moŋ2	
-懵	moŋ2	
-孔	khoŋ2	
-倥	khoŋ2	
-檧	soŋ2	
-侗	thoŋ2	
-桶	thoŋ2	
-曈	thoŋ2	
-捅	thoŋ2	
-緫	coŋ2	
-總	coŋ2	
-揔	coŋ2	
-惣	coŋ2	
-嵸	coŋ2	
-蓯	coŋ2	
-鬷	coŋ2	
-猣	coŋ2	
-翪	coŋ2	
-熜	coŋ2	
-燪	coŋ2	
-偬	coŋ2	
-澒	ghoŋ2	
-鴻	ghoŋ2	
-汞	ghoŋ2	
-蓊	qoŋ2	
-滃	qoŋ2	
-暡	qoŋ2	
-郺	qoŋ2	
-勜	qoŋ2	
-塕	qoŋ2	
-琫	poŋ2	
-菶	poŋ2	
-俸	poŋ2	
-曨	loŋ2	
-襱	loŋ2	
-巃	loŋ2	
-竉	loŋ2	
-籠	loŋ2	
-攏	loŋ2	
-儱	loŋ2	
-龓	loŋ2	
-嗊	qhoŋ2	
-動	doŋ2	
-酮	doŋ2	
-姛	doŋ2	
-眮	doŋ2	
-詷	doŋ2	
-桶	doŋ2	
-挏	doŋ2	
-硐	doŋ2	
-菶	boŋ2	
-唪	boŋ2	
-埲	boŋ2	
+董	tuŋ2	
+蝀	tuŋ2	
+箽	tuŋ2	
+懂	tuŋ2	
+蕫	tuŋ2	
+蠓	muŋ2	
+鸏	muŋ2	
+濛	muŋ2	
+朦	muŋ2	
+曚	muŋ2	
+懵	muŋ2	
+孔	khuŋ2	
+倥	khuŋ2	
+檧	suŋ2	
+侗	thuŋ2	
+桶	thuŋ2	
+曈	thuŋ2	
+捅	thuŋ2	
+緫	cuŋ2	
+總	cuŋ2	
+揔	cuŋ2	
+惣	cuŋ2	
+嵸	cuŋ2	
+蓯	cuŋ2	
+鬷	cuŋ2	
+猣	cuŋ2	
+翪	cuŋ2	
+熜	cuŋ2	
+燪	cuŋ2	
+偬	cuŋ2	
+澒	ghuŋ2	
+鴻	ghuŋ2	
+汞	ghuŋ2	
+蓊	quŋ2	
+滃	quŋ2	
+暡	quŋ2	
+郺	quŋ2	
+勜	quŋ2	
+塕	quŋ2	
+琫	puŋ2	
+菶	puŋ2	
+俸	puŋ2	
+曨	luŋ2	
+襱	luŋ2	
+巃	luŋ2	
+竉	luŋ2	
+籠	luŋ2	
+攏	luŋ2	
+儱	luŋ2	
+龓	luŋ2	
+嗊	qhuŋ2	
+動	duŋ2	
+酮	duŋ2	
+姛	duŋ2	
+眮	duŋ2	
+詷	duŋ2	
+桶	duŋ2	
+挏	duŋ2	
+硐	duŋ2	
+菶	buŋ2	
+唪	buŋ2	
+埲	buŋ2	
 腫	tyoŋ2	
 種	tyoŋ2	
 踵	tyoŋ2	
@@ -7180,7 +7180,7 @@ use_preset_vocabulary: true
 詾	qhyoŋ2	
 兇	qhyoŋ2	
 覂	pyoŋ2	
-湩	tuŋ2	
+湩	toŋ2	
 喠	thyoŋ2	
 幒	tyoŋ2	
 講	kroŋ2	
@@ -8455,9 +8455,9 @@ use_preset_vocabulary: true
 齔	chrin2	
 齓	chrin2	
 听	ŋiən2	
-阮	ŋyan2	
-邧	ŋyan2	
-遠	ghyan2	
+阮	ŋyon2	
+邧	ŋyon2	
+遠	ghyon2	
 偃	qian2	
 鶠	qian2	
 郾	qian2	
@@ -8478,44 +8478,44 @@ use_preset_vocabulary: true
 屵	ŋian2	
 幰	qhian2	
 攇	qhian2	
-晚	mian2	
-娩	mian2	
-挽	mian2	
-輓	mian2	
-娩	mian2	
-脕	mian2	
-反	pian2	
-阪	pian2	
-坂	pian2	
-返	pian2	
-橎	pian2	
-圈	gyan2	
-菌	gyan2	
-卷	gyan2	
-婉	qyan2	
-菀	qyan2	
-苑	qyan2	
-踠	qyan2	
-蜿	qyan2	
-畹	qyan2	
-琬	qyan2	
-宛	qyan2	
-惌	qyan2	
-倇	qyan2	
-夗	qyan2	
-晼	qyan2	
-睕	qyan2	
-綣	khyan2	
-虇	khyan2	
-裷	khyan2	
-暅	qhyan2	
-咺	qhyan2	
-烜	qhyan2	
-愃	qhyan2	
-諼	qhyan2	
-飯	bian2	
-軬	bian2	
-笲	bian2	
+晚	myon2	
+娩	myon2	
+挽	myon2	
+輓	myon2	
+娩	myon2	
+脕	myon2	
+反	pyon2	
+阪	pyon2	
+坂	pyon2	
+返	pyon2	
+橎	pyon2	
+圈	gyon2	
+菌	gyon2	
+卷	gyon2	
+婉	qyon2	
+菀	qyon2	
+苑	qyon2	
+踠	qyon2	
+蜿	qyon2	
+畹	qyon2	
+琬	qyon2	
+宛	qyon2	
+惌	qyon2	
+倇	qyon2	
+夗	qyon2	
+晼	qyon2	
+睕	qyon2	
+綣	khyon2	
+虇	khyon2	
+裷	khyon2	
+暅	qhyon2	
+咺	qhyon2	
+烜	qhyon2	
+愃	qhyon2	
+諼	qhyon2	
+飯	byon2	
+軬	byon2	
+笲	byon2	
 混	ghun2	
 鯶	ghun2	
 渾	ghun2	
@@ -10022,114 +10022,114 @@ use_preset_vocabulary: true
 掫	cryu2	
 搊	cryu2	
 秠	phyu2	
-厚	ghou2	
-垕	ghou2	
-後	ghou2	
-后	ghou2	
-郈	ghou2	
-母	mou2	
-牡	mou2	
-某	mou2	
-拇	mou2	
-胟	mou2	
-畝	mou2	
-畮	mou2	
-畞	mou2	
-莽	mou2	
-踇	mou2	
-鵡	mou2	
-部	bou2	
-培	bou2	
-犃	bou2	
-瓿	bou2	
-篰	bou2	
-蔀	bou2	
-婄	bou2	
-斗	tou2	
-枓	tou2	
-蚪	tou2	
-阧	tou2	
-陡	tou2	
-抖	tou2	
-襡	tou2	
-飳	thou2	
-妵	thou2	
-黈	thou2	
-蘣	thou2	
-斢	thou2	
-鈄	thou2	
-苟	kou2	
-玽	kou2	
-狗	kou2	
-垢	kou2	
-笱	kou2	
-耇	kou2	
-詬	kou2	
-枸	kou2	
-茩	kou2	
-岣	kou2	
-豿	kou2	
-藕	ŋou2	
-蕅	ŋou2	
-偶	ŋou2	
-耦	ŋou2	
-髃	ŋou2	
-掊	pou2	
-陾	nou2	
-啂	nou2	
-叜	sou2	
-叟	sou2	
-傁	sou2	
-嗾	sou2	
-瞍	sou2	
-謏	sou2	
-擻	sou2	
-藪	sou2	
-籔	sou2	
-廀	sou2	
-廋	sou2	
-棷	sou2	
-駷	sou2	
-操	sou2	
-吼	qhou2	
-吽	qhou2	
-呴	qhou2	
-蚼	qhou2	
-剖	phou2	
-婄	phou2	
-蔀	phou2	
-歐	qou2	
-嘔	qou2	
-毆	qou2	
-塸	qou2	
-塿	lou2	
-嘍	lou2	
-簍	lou2	
-甊	lou2	
-嶁	lou2	
-謱	lou2	
-漊	lou2	
-走	cou2	
-口	khou2	
-扣	khou2	
-釦	khou2	
-叩	khou2	
-竘	khou2	
-揄	dou2	
-襡	dou2	
-趣	chou2	
-取	chou2	
-棷	chou2	
-黝	qiəu2	
-怮	qiəu2	
-蚴	qiəu2	
-泑	qiəu2	
-眑	qiəu2	
-糾	kiəu2	
-赳	kiəu2	
-朻	kiəu2	
-鬮	kiəu2	
-蟉	giəu2	
+厚	ghu2	
+垕	ghu2	
+後	ghu2	
+后	ghu2	
+郈	ghu2	
+母	mu2	
+牡	mu2	
+某	mu2	
+拇	mu2	
+胟	mu2	
+畝	mu2	
+畮	mu2	
+畞	mu2	
+莽	mu2	
+踇	mu2	
+鵡	mu2	
+部	bu2	
+培	bu2	
+犃	bu2	
+瓿	bu2	
+篰	bu2	
+蔀	bu2	
+婄	bu2	
+斗	tu2	
+枓	tu2	
+蚪	tu2	
+阧	tu2	
+陡	tu2	
+抖	tu2	
+襡	tu2	
+飳	thu2	
+妵	thu2	
+黈	thu2	
+蘣	thu2	
+斢	thu2	
+鈄	thu2	
+苟	ku2	
+玽	ku2	
+狗	ku2	
+垢	ku2	
+笱	ku2	
+耇	ku2	
+詬	ku2	
+枸	ku2	
+茩	ku2	
+岣	ku2	
+豿	ku2	
+藕	ŋu2	
+蕅	ŋu2	
+偶	ŋu2	
+耦	ŋu2	
+髃	ŋu2	
+掊	pu2	
+陾	nu2	
+啂	nu2	
+叜	su2	
+叟	su2	
+傁	su2	
+嗾	su2	
+瞍	su2	
+謏	su2	
+擻	su2	
+藪	su2	
+籔	su2	
+廀	su2	
+廋	su2	
+棷	su2	
+駷	su2	
+操	su2	
+吼	qhu2	
+吽	qhu2	
+呴	qhu2	
+蚼	qhu2	
+剖	phu2	
+婄	phu2	
+蔀	phu2	
+歐	qu2	
+嘔	qu2	
+毆	qu2	
+塸	qu2	
+塿	lu2	
+嘍	lu2	
+簍	lu2	
+甊	lu2	
+嶁	lu2	
+謱	lu2	
+漊	lu2	
+走	cu2	
+口	khu2	
+扣	khu2	
+釦	khu2	
+叩	khu2	
+竘	khu2	
+揄	du2	
+襡	du2	
+趣	chu2	
+取	chu2	
+棷	chu2	
+黝	qriu2	
+怮	qriu2	
+蚴	qriu2	
+泑	qriu2	
+眑	qriu2	
+糾	kriu2	
+赳	kriu2	
+朻	kriu2	
+鬮	kiu2	
+蟉	griu2	
 寑	chim2	
 寢	chim2	
 梫	chim2	
@@ -10456,53 +10456,53 @@ use_preset_vocabulary: true
 錽	myom2	
 凵	khyom2	
 釩	phyom2	
-送	soŋ3	
-鬆	soŋ3	
-凇	soŋ3	
+送	suŋ3	
+鬆	suŋ3	
+凇	suŋ3	
 鳳	byuŋ3	
-貢	koŋ3	
-贛	koŋ3	
-虹	koŋ3	
-羾	koŋ3	
-弄	loŋ3	
-梇	loŋ3	
-礱	loŋ3	
-哢	loŋ3	
-涷	toŋ3	
-凍	toŋ3	
-棟	toŋ3	
-湩	toŋ3	
-控	khoŋ3	
-倥	khoŋ3	
-悾	khoŋ3	
-鞚	khoŋ3	
-空	khoŋ3	
-糉	coŋ3	
-粽	coŋ3	
-偬	coŋ3	
-鯼	coŋ3	
-緵	coŋ3	
-瓮	qoŋ3	
-甕	qoŋ3	
-罋	qoŋ3	
-齆	qoŋ3	
-謥	choŋ3	
-愡	choŋ3	
-憁	choŋ3	
-洞	doŋ3	
-恫	doŋ3	
-眮	doŋ3	
-絧	doŋ3	
-峒	doŋ3	
-詷	doŋ3	
-胴	doŋ3	
-慟	doŋ3	
-筒	doŋ3	
-駧	doŋ3	
-衕	doŋ3	
-迵	doŋ3	
-戙	doŋ3	
-痛	thoŋ3	
+貢	kuŋ3	
+贛	kuŋ3	
+虹	kuŋ3	
+羾	kuŋ3	
+弄	luŋ3	
+梇	luŋ3	
+礱	luŋ3	
+哢	luŋ3	
+涷	tuŋ3	
+凍	tuŋ3	
+棟	tuŋ3	
+湩	tuŋ3	
+控	khuŋ3	
+倥	khuŋ3	
+悾	khuŋ3	
+鞚	khuŋ3	
+空	khuŋ3	
+糉	cuŋ3	
+粽	cuŋ3	
+偬	cuŋ3	
+鯼	cuŋ3	
+緵	cuŋ3	
+瓮	quŋ3	
+甕	quŋ3	
+罋	quŋ3	
+齆	quŋ3	
+謥	chuŋ3	
+愡	chuŋ3	
+憁	chuŋ3	
+洞	duŋ3	
+恫	duŋ3	
+眮	duŋ3	
+絧	duŋ3	
+峒	duŋ3	
+詷	duŋ3	
+胴	duŋ3	
+慟	duŋ3	
+筒	duŋ3	
+駧	duŋ3	
+衕	duŋ3	
+迵	duŋ3	
+戙	duŋ3	
+痛	thuŋ3	
 仲	dryuŋ3	
 蟲	dryuŋ3	
 諷	pyuŋ3	
@@ -10511,30 +10511,30 @@ use_preset_vocabulary: true
 夢	myuŋ3	
 瞢	myuŋ3	
 鄸	myuŋ3	
-幪	moŋ3	
-霿	moŋ3	
-艨	moŋ3	
+幪	muŋ3	
+霿	muŋ3	
+艨	muŋ3	
 趥	chyuŋ3	
 賵	phyuŋ3	
 中	tryuŋ3	1%
 衷	tryuŋ3	
-哄	ghoŋ3	
-烘	ghoŋ3	
-港	ghoŋ3	
-鬨	ghoŋ3	
-閧	ghoŋ3	
-蕻	ghoŋ3	
-齈	noŋ3	
-癑	noŋ3	
-衆	tyoŋ3	
-銃	thyoŋ3	
-烘	qhoŋ3	
-戇	qhoŋ3	
-宋	suŋ3	
-綜	cuŋ3	
-錝	cuŋ3	
-統	thuŋ3	
-雺	muŋ3	
+哄	ghuŋ3	
+烘	ghuŋ3	
+港	ghuŋ3	
+鬨	ghuŋ3	
+閧	ghuŋ3	
+蕻	ghuŋ3	
+齈	nuŋ3	
+癑	nuŋ3	
+衆	tyuŋ3	
+銃	thyuŋ3	
+烘	qhuŋ3	
+戇	qhuŋ3	
+宋	soŋ3	
+綜	coŋ3	
+錝	coŋ3	
+統	thoŋ3	
+雺	moŋ3	
 用	jyoŋ3	
 頌	zyoŋ3	
 誦	zyoŋ3	
@@ -12158,24 +12158,24 @@ use_preset_vocabulary: true
 酨	dzəi3	
 栽	dzəi3	
 儗	qhəi3	
-廢	piai3	
-癈	piai3	
-橃	piai3	
-祓	piai3	
-砩	piai3	
-肺	phiai3	
-杮	phiai3	
-穢	qyai3	
-薉	qyai3	
-濊	qyai3	
-獩	qyai3	
-饖	qyai3	
-吠	biai3	
-茷	biai3	
-鼣	biai3	
-喙	qhyai3	
-餯	qhyai3	
-顪	qhyai3	
+廢	pyoi3	
+癈	pyoi3	
+橃	pyoi3	
+祓	pyoi3	
+砩	pyoi3	
+肺	phyoi3	
+杮	phyoi3	
+穢	qyoi3	
+薉	qyoi3	
+濊	qyoi3	
+獩	qyoi3	
+饖	qyoi3	
+吠	byoi3	
+茷	byoi3	
+鼣	byoi3	
+喙	qhyoi3	
+餯	qhyoi3	
+顪	qhyoi3	
 刈	ŋiai3	
 乂	ŋiai3	
 艾	ŋiai3	
@@ -12398,37 +12398,37 @@ use_preset_vocabulary: true
 隱	qiən3	
 檼	qiən3	
 垽	ŋiən3	
-願	ŋyan3	
-傆	ŋyan3	
-愿	ŋyan3	
-怨	qyan3	
-販	pian3	
-畈	pian3	
-券	khyan3	
-劵	khyan3	
-絭	khyan3	
-勸	khyan3	
-虇	khyan3	
-綣	khyan3	
-韏	khyan3	
-万	mian3	
-萬	mian3	
-輓	mian3	
-蔓	mian3	
-曼	mian3	
-蟃	mian3	
-鰻	mian3	
-娩	mian3	
-獌	mian3	
-贎	mian3	
-脕	mian3	
-鬗	mian3	
-飯	bian3	
-閞	bian3	
-嬔	phian3	
-婏	phian3	
-奿	phian3	
-汳	phian3	
+願	ŋyon3	
+傆	ŋyon3	
+愿	ŋyon3	
+怨	qyon3	
+販	pyon3	
+畈	pyon3	
+券	khyon3	
+劵	khyon3	
+絭	khyon3	
+勸	khyon3	
+虇	khyon3	
+綣	khyon3	
+韏	khyon3	
+万	myon3	
+萬	myon3	
+輓	myon3	
+蔓	myon3	
+曼	myon3	
+蟃	myon3	
+鰻	myon3	
+娩	myon3	
+獌	myon3	
+贎	myon3	
+脕	myon3	
+鬗	myon3	
+飯	byon3	
+閞	byon3	
+嬔	phyon3	
+婏	phyon3	
+奿	phyon3	
+汳	phyon3	
 建	kian3	
 旔	kian3	
 堰	qian3	
@@ -12441,15 +12441,15 @@ use_preset_vocabulary: true
 獻	qhian3	
 憲	qhian3	
 瀗	qhian3	
-楥	qhyan3	
-楦	qhyan3	
-韗	qhyan3	
+楥	qhyon3	
+楦	qhyon3	
+韗	qhyon3	
 健	gian3	
 腱	gian3	
-遠	ghyan3	
+遠	ghyon3	
 鬳	ŋian3	
-圈	gyan3	
-絭	kyan3	
+圈	gyon3	
+絭	kyon3	
 慁	ghun3	
 溷	ghun3	
 俒	ghun3	
@@ -13843,8 +13843,8 @@ use_preset_vocabulary: true
 蕂	shiəŋ3	
 榺	shiəŋ3	
 瞪	driəŋ3	
-凭	briəŋ3	
-靐	briəŋ3	
+凭	bryəŋ3	
+靐	bryəŋ3	
 稱	thiəŋ3	
 秤	thiəŋ3	
 凝	ŋiəŋ3	
@@ -14001,114 +14001,114 @@ use_preset_vocabulary: true
 煣	nyu3	
 鞣	nyu3	
 苺	myu3	
-候	ghou3	
-鮜	ghou3	
-鄇	ghou3	
-逅	ghou3	
-訽	ghou3	
-睺	ghou3	
-后	ghou3	
-後	ghou3	
-堠	ghou3	
-鱟	ghou3	
-鍭	ghou3	
-厚	ghou3	
-寇	khou3	
-滱	khou3	
-怐	khou3	
-扣	khou3	
-簆	khou3	
-詬	khou3	
-茂	mou3	
-貿	mou3	
-鄮	mou3	
-戊	mou3	
-愗	mou3	
-袤	mou3	
-楙	mou3	
-懋	mou3	
-瞀	mou3	
-姆	mou3	
-苺	mou3	
-冃	mou3	
-雺	mou3	
-仆	phou3	
-踣	phou3	
-豧	phou3	
-豆	dou3	
-竇	dou3	
-窬	dou3	
-逗	dou3	
-酘	dou3	
-荳	dou3	
-脰	dou3	
-郖	dou3	
-梪	dou3	
-餖	dou3	
-浢	dou3	
-毭	dou3	
-鬥	tou3	
-鬭	tou3	
-鬪	tou3	
-闘	tou3	
-噣	tou3	
-斣	tou3	
-襡	tou3	
-槈	nou3	
-鎒	nou3	
-耨	nou3	
-擩	nou3	
-譳	nou3	
-瘶	sou3	
-嗽	sou3	
-欶	sou3	
-漱	sou3	
-鏉	sou3	
-謏	sou3	
-嗾	sou3	
-奏	cou3	
-走	cou3	
-透	thou3	
-咅	thou3	
-漚	qou3	
-遘	kou3	
-構	kou3	
-媾	kou3	
-覯	kou3	
-姤	kou3	
-購	kou3	
-雊	kou3	
-句	kou3	
-軥	kou3	
-搆	kou3	
-怐	kou3	
-煹	kou3	
-冓	kou3	
-輳	chou3	
-腠	chou3	
-湊	chou3	
-嗾	chou3	
-蔟	chou3	
-楱	chou3	
-陋	lou3	
-漏	lou3	
-鏤	lou3	
-屚	lou3	
-瘻	lou3	
-蔄	lou3	
-僂	lou3	
-蔻	qhou3	
-豞	qhou3	
-詬	qhou3	
-訽	qhou3	
-吼	qhou3	
-佝	qhou3	
-怐	qhou3	
-偶	ŋou3	
-楱	dzou3	
-幼	qiəu3	
-謬	mriəu3	
-繆	mriəu3	
+候	ghu3	
+鮜	ghu3	
+鄇	ghu3	
+逅	ghu3	
+訽	ghu3	
+睺	ghu3	
+后	ghu3	
+後	ghu3	
+堠	ghu3	
+鱟	ghu3	
+鍭	ghu3	
+厚	ghu3	
+寇	khu3	
+滱	khu3	
+怐	khu3	
+扣	khu3	
+簆	khu3	
+詬	khu3	
+茂	mu3	
+貿	mu3	
+鄮	mu3	
+戊	mu3	
+愗	mu3	
+袤	mu3	
+楙	mu3	
+懋	mu3	
+瞀	mu3	
+姆	mu3	
+苺	mu3	
+冃	mu3	
+雺	mu3	
+仆	phu3	
+踣	phu3	
+豧	phu3	
+豆	du3	
+竇	du3	
+窬	du3	
+逗	du3	
+酘	du3	
+荳	du3	
+脰	du3	
+郖	du3	
+梪	du3	
+餖	du3	
+浢	du3	
+毭	du3	
+鬥	tu3	
+鬭	tu3	
+鬪	tu3	
+闘	tu3	
+噣	tu3	
+斣	tu3	
+襡	tu3	
+槈	nu3	
+鎒	nu3	
+耨	nu3	
+擩	nu3	
+譳	nu3	
+瘶	su3	
+嗽	su3	
+欶	su3	
+漱	su3	
+鏉	su3	
+謏	su3	
+嗾	su3	
+奏	cu3	
+走	cu3	
+透	thu3	
+咅	thu3	
+漚	qu3	
+遘	ku3	
+構	ku3	
+媾	ku3	
+覯	ku3	
+姤	ku3	
+購	ku3	
+雊	ku3	
+句	ku3	
+軥	ku3	
+搆	ku3	
+怐	ku3	
+煹	ku3	
+冓	ku3	
+輳	chu3	
+腠	chu3	
+湊	chu3	
+嗾	chu3	
+蔟	chu3	
+楱	chu3	
+陋	lu3	
+漏	lu3	
+鏤	lu3	
+屚	lu3	
+瘻	lu3	
+蔄	lu3	
+僂	lu3	
+蔻	qhu3	
+豞	qhu3	
+詬	qhu3	
+訽	qhu3	
+吼	qhu3	
+佝	qhu3	
+怐	qhu3	
+偶	ŋu3	
+楱	dzu3	
+幼	qriu3	
+謬	mriu3	
+繆	mriu3	
 沁	chim3	
 吣	chim3	
 浸	cim3	
@@ -14323,141 +14323,141 @@ use_preset_vocabulary: true
 淹	qiam3	
 裺	qiam3	
 覎	qiam3	
-屋	qok4	
-剭	qok4	
-獨	dok4	
-黷	dok4	
-讟	dok4	
-髑	dok4	
-殰	dok4	
-讀	dok4	
-櫝	dok4	
-牘	dok4	
-儥	dok4	
-贕	dok4	
-碡	dok4	
-皾	dok4	
-襡	dok4	
-韣	dok4	
-瓄	dok4	
-瀆	dok4	
-豄	dok4	
-韇	dok4	
-嬻	dok4	
-犢	dok4	
-罜	dok4	
-匵	dok4	
-穀	kok4	
-糓	kok4	
-轂	kok4	
-榖	kok4	
-瀔	kok4	
-谷	kok4	
-瑴	kok4	
-唂	kok4	
-縠	ghok4	
-槲	ghok4	
-斛	ghok4	
-礐	ghok4	
-觳	ghok4	
-蔛	ghok4	
-焀	ghok4	
-哭	khok4	
-秃	thok4	
-鵚	thok4	
-豰	tok4	
-啄	tok4	
-竺	tok4	
-剢	tok4	
-速	sok4	
-遬	sok4	
-蔌	sok4	
-餗	sok4	
-樕	sok4	
-梀	sok4	
-藗	sok4	
-殐	sok4	
-嗽	sok4	
-棴	sok4	
-涑	sok4	
-禄	lok4	
-鹿	lok4	
-漉	lok4	
-渌	lok4	
-觻	lok4	
-睩	lok4	
-龣	lok4	
-轆	lok4	
-琭	lok4	
-簏	lok4	
-箓	lok4	
-螰	lok4	
-麓	lok4	
-碌	lok4	
-盝	lok4	
-騼	lok4	
-磟	lok4	
-簶	lok4	
-谷	lok4	
-娽	lok4	
-摝	lok4	
-廘	lok4	
-角	lok4	
-甪	lok4	
-录	lok4	
-濼	lok4	
-鏕	lok4	
-趢	lok4	
-蔍	lok4	
-鄜	lok4	
-嗀	qhok4	
-豰	qhok4	
-熇	qhok4	
-嚛	qhok4	
-族	dzok4	
-銼	dzok4	
-鑿	dzok4	
-瘯	chok4	
-蔟	chok4	
-趗	chok4	
-梀	chok4	
-簇	chok4	
-鏃	cok4	
-鎐	cok4	
-暴	bok4	
-曝	bok4	
-瀑	bok4	
-樸	bok4	
-僕	bok4	
-菐	bok4	
-穙	bok4	
-扑	phok4	
-醭	phok4	
-濼	phok4	
-墣	phok4	
-攴	phok4	
-撲	phok4	
-骲	phok4	
-卜	pok4	
-濮	pok4	
-轐	pok4	
-樸	pok4	
-獛	pok4	
-蹼	pok4	
-纀	pok4	
-襆	pok4	
-鳪	pok4	
-木	mok4	
-沐	mok4	
-朷	mok4	
-毣	mok4	
-鶩	mok4	
-霂	mok4	
-蓩	mok4	
-艒	mok4	
-鞪	mok4	
-楘	mok4	
-蚞	mok4	
+屋	quk4	
+剭	quk4	
+獨	duk4	
+黷	duk4	
+讟	duk4	
+髑	duk4	
+殰	duk4	
+讀	duk4	
+櫝	duk4	
+牘	duk4	
+儥	duk4	
+贕	duk4	
+碡	duk4	
+皾	duk4	
+襡	duk4	
+韣	duk4	
+瓄	duk4	
+瀆	duk4	
+豄	duk4	
+韇	duk4	
+嬻	duk4	
+犢	duk4	
+罜	duk4	
+匵	duk4	
+穀	kuk4	
+糓	kuk4	
+轂	kuk4	
+榖	kuk4	
+瀔	kuk4	
+谷	kuk4	
+瑴	kuk4	
+唂	kuk4	
+縠	ghuk4	
+槲	ghuk4	
+斛	ghuk4	
+礐	ghuk4	
+觳	ghuk4	
+蔛	ghuk4	
+焀	ghuk4	
+哭	khuk4	
+秃	thuk4	
+鵚	thuk4	
+豰	tuk4	
+啄	tuk4	
+竺	tuk4	
+剢	tuk4	
+速	suk4	
+遬	suk4	
+蔌	suk4	
+餗	suk4	
+樕	suk4	
+梀	suk4	
+藗	suk4	
+殐	suk4	
+嗽	suk4	
+棴	suk4	
+涑	suk4	
+禄	luk4	
+鹿	luk4	
+漉	luk4	
+渌	luk4	
+觻	luk4	
+睩	luk4	
+龣	luk4	
+轆	luk4	
+琭	luk4	
+簏	luk4	
+箓	luk4	
+螰	luk4	
+麓	luk4	
+碌	luk4	
+盝	luk4	
+騼	luk4	
+磟	luk4	
+簶	luk4	
+谷	luk4	
+娽	luk4	
+摝	luk4	
+廘	luk4	
+角	luk4	
+甪	luk4	
+录	luk4	
+濼	luk4	
+鏕	luk4	
+趢	luk4	
+蔍	luk4	
+鄜	luk4	
+嗀	qhuk4	
+豰	qhuk4	
+熇	qhuk4	
+嚛	qhuk4	
+族	dzuk4	
+銼	dzuk4	
+鑿	dzuk4	
+瘯	chuk4	
+蔟	chuk4	
+趗	chuk4	
+梀	chuk4	
+簇	chuk4	
+鏃	cuk4	
+鎐	cuk4	
+暴	buk4	
+曝	buk4	
+瀑	buk4	
+樸	buk4	
+僕	buk4	
+菐	buk4	
+穙	buk4	
+扑	phuk4	
+醭	phuk4	
+濼	phuk4	
+墣	phuk4	
+攴	phuk4	
+撲	phuk4	
+骲	phuk4	
+卜	puk4	
+濮	puk4	
+轐	puk4	
+樸	puk4	
+獛	puk4	
+蹼	puk4	
+纀	puk4	
+襆	puk4	
+鳪	puk4	
+木	muk4	
+沐	muk4	
+朷	muk4	
+毣	muk4	
+鶩	muk4	
+霂	muk4	
+蓩	muk4	
+艒	muk4	
+鞪	muk4	
+楘	muk4	
+蚞	muk4	
 福	pyuk4	
 腹	pyuk4	
 複	pyuk4	
@@ -14544,33 +14544,33 @@ use_preset_vocabulary: true
 麴	khyuk4	
 麯	khyuk4	
 鞠	khyuk4	
-熟	dyok4	
-孰	dyok4	
-淑	dyok4	
-塾	dyok4	
-璹	dyok4	
-婌	dyok4	
-俶	thyok4	
-柷	thyok4	
-琡	thyok4	
-埱	thyok4	
-育	jyok4	
-毓	jyok4	
-鬻	jyok4	
-粥	jyok4	
-儥	jyok4	
-棛	jyok4	
-錥	jyok4	
-煜	jyok4	
-焴	jyok4	
-昱	jyok4	
-蒮	jyok4	
-淯	jyok4	
-蜟	jyok4	
-堉	jyok4	
-喅	jyok4	
-逳	jyok4	
-蘛	jyok4	
+熟	dyuk4	
+孰	dyuk4	
+淑	dyuk4	
+塾	dyuk4	
+璹	dyuk4	
+婌	dyuk4	
+俶	thyuk4	
+柷	thyuk4	
+琡	thyuk4	
+埱	thyuk4	
+育	jyuk4	
+毓	jyuk4	
+鬻	jyuk4	
+粥	jyuk4	
+儥	jyuk4	
+棛	jyuk4	
+錥	jyuk4	
+煜	jyuk4	
+焴	jyuk4	
+昱	jyuk4	
+蒮	jyuk4	
+淯	jyuk4	
+蜟	jyuk4	
+堉	jyuk4	
+喅	jyuk4	
+逳	jyuk4	
+蘛	jyuk4	
 驧	gyuk4	
 趜	gyuk4	
 鵴	gyuk4	
@@ -14580,14 +14580,14 @@ use_preset_vocabulary: true
 鼀	chyuk4	
 蹴	chyuk4	
 殧	chyuk4	
-肉	nyok4	
-衄	nyok4	
-鮞	nyok4	
-粥	tyok4	
-喌	tyok4	
-祝	tyok4	
-柷	tyok4	
-琡	tyok4	
+肉	nyuk4	
+衄	nyuk4	
+鮞	nyuk4	
+粥	tyuk4	
+喌	tyuk4	
+祝	tyuk4	
+柷	tyuk4	
+琡	tyuk4	
 叔	shyuk4	
 儵	shyuk4	
 倐	shyuk4	
@@ -14679,57 +14679,57 @@ use_preset_vocabulary: true
 鄐	thryuk4	
 矗	thryuk4	
 砡	ŋyuk4	
-沃	quk4	
-鋈	quk4	
-鱟	quk4	
-觷	quk4	
-毒	duk4	
-蝳	duk4	
-瑇	duk4	
-纛	duk4	
-碡	duk4	
-篤	tuk4	
-竺	tuk4	
-督	tuk4	
-錖	tuk4	
-裻	tuk4	
-酷	khuk4	
-焅	khuk4	
-嚳	khuk4	
-硞	khuk4	
-鵠	ghuk4	
-翯	ghuk4	
-隺	ghuk4	
-頶	ghuk4	
-礐	ghuk4	
-僕	buk4	
-瞨	buk4	
-鏷	buk4	
-轐	buk4	
-洬	suk4	
-裻	suk4	
-梏	kuk4	
-牿	kuk4	
-告	kuk4	
-郜	kuk4	
-祰	kuk4	
-瑁	muk4	
-媢	muk4	
-艒	muk4	
-萺	muk4	
-熇	qhuk4	
-臛	qhuk4	
-嚛	qhuk4	
-歊	qhuk4	
-褥	nuk4	
-傉	nuk4	
-耨	nuk4	
-搙	nuk4	
-傶	cuk4	
-錊	cuk4	
-襮	puk4	
-犦	puk4	
-濼	luk4	
+沃	qok4	
+鋈	qok4	
+鱟	qok4	
+觷	qok4	
+毒	dok4	
+蝳	dok4	
+瑇	dok4	
+纛	dok4	
+碡	dok4	
+篤	tok4	
+竺	tok4	
+督	tok4	
+錖	tok4	
+裻	tok4	
+酷	khok4	
+焅	khok4	
+嚳	khok4	
+硞	khok4	
+鵠	ghok4	
+翯	ghok4	
+隺	ghok4	
+頶	ghok4	
+礐	ghok4	
+僕	bok4	
+瞨	bok4	
+鏷	bok4	
+轐	bok4	
+洬	sok4	
+裻	sok4	
+梏	kok4	
+牿	kok4	
+告	kok4	
+郜	kok4	
+祰	kok4	
+瑁	mok4	
+媢	mok4	
+艒	mok4	
+萺	mok4	
+熇	qhok4	
+臛	qhok4	
+嚛	qhok4	
+歊	qhok4	
+褥	nok4	
+傉	nok4	
+耨	nok4	
+搙	nok4	
+傶	cok4	
+錊	cok4	
+襮	pok4	
+犦	pok4	
+濼	lok4	
 燭	tyok4	
 屬	tyok4	
 属	tyok4	
@@ -15309,72 +15309,72 @@ use_preset_vocabulary: true
 乞	khiət4	
 芞	khiət4	
 契	khiət4	
-月	ŋyat4	
-刖	ŋyat4	
-跀	ŋyat4	
-軏	ŋyat4	
-抈	ŋyat4	
-扤	ŋyat4	
-枂	ŋyat4	
-钥	ŋyat4	
-玥	ŋyat4	
-伐	biat4	
-筏	biat4	
-栰	biat4	
-罰	biat4	
-閥	biat4	
-垡	biat4	
-橃	biat4	
-瞂	biat4	
-拔	biat4	
-茷	biat4	
-藅	biat4	
-坺	biat4	
-越	ghyat4	
-粵	ghyat4	
-粤	ghyat4	
-戉	ghyat4	
-鉞	ghyat4	
-樾	ghyat4	
-蚏	ghyat4	
-曰	ghyat4	
-璏	ghyat4	
-熭	ghyat4	
-泧	ghyat4	
-厥	kyat4	
-氒	kyat4	
-蹶	kyat4	
-瘚	kyat4	
-劂	kyat4	
-蕨	kyat4	
-蟨	kyat4	
-蟩	kyat4	
-橜	kyat4	
-欮	kyat4	
-撅	kyat4	
-鱖	kyat4	
-孒	kyat4	
-孓	kyat4	
-噦	qyat4	
-黦	qyat4	
-鷢	gyat4	
-橜	gyat4	
-撅	gyat4	
-蹷	gyat4	
-掘	gyat4	
-赶	gyat4	
-憠	gyat4	
-亅	gyat4	
-闕	khyat4	
-髮	piat4	
-發	piat4	
-颰	piat4	
-冹	piat4	
-韤	miat4	
-韈	miat4	
-襪	miat4	
-泧	qhyat4	
-狘	qhyat4	
+月	ŋyot4	
+刖	ŋyot4	
+跀	ŋyot4	
+軏	ŋyot4	
+抈	ŋyot4	
+扤	ŋyot4	
+枂	ŋyot4	
+钥	ŋyot4	
+玥	ŋyot4	
+伐	byot4	
+筏	byot4	
+栰	byot4	
+罰	byot4	
+閥	byot4	
+垡	byot4	
+橃	byot4	
+瞂	byot4	
+拔	byot4	
+茷	byot4	
+藅	byot4	
+坺	byot4	
+越	ghyot4	
+粵	ghyot4	
+粤	ghyot4	
+戉	ghyot4	
+鉞	ghyot4	
+樾	ghyot4	
+蚏	ghyot4	
+曰	ghyot4	
+璏	ghyot4	
+熭	ghyot4	
+泧	ghyot4	
+厥	kyot4	
+氒	kyot4	
+蹶	kyot4	
+瘚	kyot4	
+劂	kyot4	
+蕨	kyot4	
+蟨	kyot4	
+蟩	kyot4	
+橜	kyot4	
+欮	kyot4	
+撅	kyot4	
+鱖	kyot4	
+孒	kyot4	
+孓	kyot4	
+噦	qyot4	
+黦	qyot4	
+鷢	gyot4	
+橜	gyot4	
+撅	gyot4	
+蹷	gyot4	
+掘	gyot4	
+赶	gyot4	
+憠	gyot4	
+亅	gyot4	
+闕	khyot4	
+髮	pyot4	
+發	pyot4	
+颰	pyot4	
+冹	pyot4	
+韤	myot4	
+韈	myot4	
+襪	myot4	
+泧	qhyot4	
+狘	qhyot4	
 謁	qiat4	
 閼	qiat4	
 暍	qiat4	
@@ -17076,46 +17076,46 @@ use_preset_vocabulary: true
 堲	ciək4	
 唧	ciək4	
 揤	ciək4	
-逼	priək4	
-偪	priək4	
-皕	priək4	
-幅	priək4	
-楅	priək4	
-湢	priək4	
-皀	priək4	
-域	ghyək4	
-蜮	ghyək4	
-罭	ghyək4	
-棫	ghyək4	
-琙	ghyək4	
-緎	ghyək4	
-魊	ghyək4	
-淢	ghyək4	
-洫	qhyək4	
-侐	qhyək4	
-閾	qhyək4	
-緎	qhyək4	
-淢	qhyək4	
-堛	phriək4	
-愊	phriək4	
-踾	phriək4	
-揊	phriək4	
-稫	phriək4	
-副	phriək4	
-畐	phriək4	
-疈	phriək4	
+逼	pryək4	
+偪	pryək4	
+皕	pryək4	
+幅	pryək4	
+楅	pryək4	
+湢	pryək4	
+皀	pryək4	
+域	ghryək4	
+蜮	ghryək4	
+罭	ghryək4	
+棫	ghryək4	
+琙	ghryək4	
+緎	ghryək4	
+魊	ghryək4	
+淢	ghryək4	
+洫	qhryək4	
+侐	qhryək4	
+閾	qhryək4	
+緎	qhryək4	
+淢	qhryək4	
+堛	phryək4	
+愊	phryək4	
+踾	phryək4	
+揊	phryək4	
+稫	phryək4	
+副	phryək4	
+畐	phryək4	
+疈	phryək4	
 稄	criək4	
 昃	criək4	
 仄	criək4	
 萴	criək4	
 側	criək4	
 夨	criək4	
-愎	briək4	
-腷	briək4	
-煏	briək4	
-馥	briək4	
-踾	briək4	
-鶝	briək4	
+愎	bryək4	
+腷	bryək4	
+煏	bryək4	
+馥	bryək4	
+踾	bryək4	
+鶝	bryək4	
 嶷	ŋiək4	
 薿	ŋiək4	
 懝	ŋiək4	
@@ -17711,646 +17711,3 @@ use_preset_vocabulary: true
 灋	pyop4	
 猲	khyop4	
 姂	khyop4	
-
-阿房	qa1 baŋ1	
-愛好	qəi3 qhau3	
-懊悔	qau3 qhui2	
-懊惱	qau2 nau2	
-菝葜	bret4 khret4	
-白種	brak4 tyoŋ2	
-百年樹人	prak4 nen1 dyo2 nin1	
-般師	pran1 sri1	
-般運	pan1 ghyun3	
-傍晚	baŋ3 mian2	
-寶藏	pau2 dzaŋ3	
-抱養	bau2 jiaŋ2	
-暴風雨	bau3 pyuŋ1 ghyo2	
-暴露	bok4 lo3	
-暴雨	bau3 ghyo2	
-北燕	pək4 qen1	
-背棄	bui3 khi3	
-倍數	bui2 sryo3	
-悖論	but4 lun3	
-悖逆	but4 ŋriek4	
-鼻冠	bi3 kuan3	
-比鄰	bi3 lin1	
-薜荔	bei3 lei3	
-避難	bie3 nan3	
-編号	pen1 ghau3	
-邊塞	pen1 səi3	
-扁鵲	ben2 chiak4	
-扁舟	phien1 tyu1	
-便便	bien1 bien1	
-變易	prien3 jiek4	
-標識	pieu1 tiə3	
-并州	pieŋ1 tyu1	
-並行	beŋ2 ghraŋ1	
-不悖	pyut4 but4	
-不錯	pyut4 chak4	
-不禁	pyut4 krim1	
-不要	pyut4 qieu3	
-不亦說乎	pyut4 jiek4 jyet4 gho1	
-步行	bo3 ghraŋ1	
-步數	bo3 sryo3	
-部隊	bo2 dui3	
-部曲	bo2 khyok4	
-部署	bou2 dio3	
-部伍	bo2 ŋo2	
-參差	chrim1 chrie1	
-參鼓1 	chəm3 ko2	
-參觀	chəm1 kuan1	
-參商	srim1 shiaŋ1	
-參數	chəm1 sryo3	
-參宿	srim1 syu3	
-參與	chəm1 jio3	
-慘重	chəm2 dryoŋ2	
-藏緬	dzaŋ3 mien2	
-藏書	dzaŋ1 shio1	
-藏彝	dzaŋ3 ji1	
-藏族	dzaŋ3 dzok4	
-操持	chau3 driə1	
-操行	chau3 ghraŋ3	
-操姓	chau3 sieŋ3	
-操作	chau1 cak4	
-曹參	dzau1 chəm1	
-曹操	dzau1 chau3	
-測量	chriək4 liaŋ1	
-㠁嵯	chrim1 chrie1	
-曾參	cəŋ1 srim1	
-曾經	dzəŋ1 keŋ1	
-曾姓	cəŋ1 sieŋ3	
-茶几	dra1 kri2	
-差別	chra1 priet4	
-差池	chrie1 drie1	
-差錯	chra1 chak4	
-差使	chre1 sriə2	
-差異	chra1 jiə3	
-差異	chre1 jiə3	
-長調	driaŋ3 deu3	
-長假	driaŋ1 kra3	
-長孫	triaŋ2 sun1	
-長興	driaŋ1 qhiəŋ1	
-長幼	triaŋ2 qry3	
-長子	triaŋ2 ciə2	
-朝鮮	trieu1 sien1	
-尺度	thiek4 do3	
-充分	thyoŋ1 byun3	
-充值	thyoŋ1 driək4	
-出差	thyt4 chrəi1	
-出差	thyt4 chre1	
-出發	thyt4 piat4	
-出使	thyt4 sriə3	
-儲藏	drio1 dzaŋ1	
-處理	thio2 liə2	
-處女	thio2 nrio2	
-處暑	thio2 shio2	
-處於	thio2 qio1	
-處在	thio2 dzəi2	
-處置	thio2 triə3	
-處子	thio2 ciə2	
-揣度	chrye2 dak4	
-春夏	thyn1 ghrəi1	
-此處	chie2 thio3	
-次數	chi3 sryo3	
-次要	chi3 qieu3	
-從容	chyoŋ1 jyoŋ1	
-從子	dzyoŋ3 ciə2	
-促使	chyok4 sriə2	
-崔嵬	dzui1 ŋui1	
-忖度	chun2 dak4	
-錯開	chak4 khəi1	
-錯亂	chak4 luan3	
-錯誤	chak4 ŋo3	
-錯雜	chak4 dzəp4	
-錯綜	chak4 cuŋ3	
-答應	təp4 qiəŋ3	
-大汗	dai3 ghan1	
-大將	dai3 ciaŋ3	
-大使	dai3 sriə3	
-大汶口	dai3 myun3 khou2	
-大燕	dai3 qen1	
-代謝率	dəi3 zia3 lyt4	
-單調	tan1 deu3	
-單挑	tan1 deu2	
-單于	dien1 ghyo1	
-旦復旦兮	tan3 byu3 tan3 ghei1	
-但使	dan2 sriə2	
-彈出	dan1 thyt4	
-彈劾	dan1 ghək4	
-澹臺	dam1 dəi1	
-當舖	taŋ3 pho3	
-當值	taŋ1 driə3	
-當作	taŋ1 cak4	
-倒車	tau3 thia1	
-德操	tək4 chau3	
-德行	tək4 ghraŋ3	
-等差	təŋ2 chrie1	
-遞相	dei2 siaŋ1	
-點當	tem2 taŋ3	
-電荷	den3 gha2	
-電腦	den3 nau2	
-殿後	ten3 ghou2	
-殿軍	ten3 kyun1	
-調飢	tryu1 kri1	
-調節	deu1 cet4	
-調解	deu1 kre2	
-調理	deu1 liə2	
-調琴	deu1 grim1	
-調情	deu1 dzieŋ1	
-調性	deu3 sieŋ3	
-調音	deu1 qrim1	
-調整	deu1 tieŋ2	
-調值	deu3 driək4	
-喋血	tep4 qhuet4	
-丁丁	teŋ1 teŋ1	
-丁丁	treŋ1 treŋ1	
-東莞	toŋ1 kuan1	
-侗水	doŋ3 shyi2	
-侗族	doŋ3 dzok4	
-度支	dak4 tie1	
-斷絕	duan2 dzyet4	
-斷絕	tuan2 dzyet4	
-斷了	duan2 leu2	
-斷其後路	tuan2 giə1 ghou2 lo3	
-對應	tui3 qiəŋ3	
-多少	ta1 shieu2	
-多數	ta1 sryo3	
-多種	ta1 tyoŋ2	
-惡少	qak4 shieu3	
-番号	phian1 ghau3	
-番禺	phan1 ŋyo1	
-反覆	pian2 phyuk4	
-反應	pian2 qiəŋ3	
-芳菲	phiaŋ1 phyui1	
-菲薄	phyui2 bak4	
-費縣	pri3 ghuen3	
-費姓	byui3 sieŋ3	
-分别	pyun1 priet4	
-分行	pyun1 ghaŋ1	
-分子	byun3 ciə2	
-分子	pyun1 ciə2	
-佛敎	byut4 krau3	
-附和	byo3 ghua3	
-附近	byo3 giən2	
-附着	byo3 driak4	
-負荷	byu2 gha2	
-傅說	pyo3 jyet4	
-復旦	byuk4 tan3	
-複雜	pyuk4 dzəp4	
-覆蓋	phyu3 kai3	
-覆滅	phyuk4 miet4	
-改悔	kəi2 qhui3	
-概率	kəi3 lyt4	
-高句驪	kau1 kou1 lie1	
-高要	kau1 qieu1	
-臯陶	kau1 jieu1	
-各種	kak4 tyoŋ2	
-給予	krip4 jio2	
-哽咽	kraŋ2 qet4	
-工行	koŋ1 ghaŋ1	
-公使	koŋ1 sriə3	
-宮殿	kyuŋ1 den3	
-宮商角徵羽	kyuŋ1 shiaŋ1 krok4 triə2 ghyo3	
-供奉	kyoŋ1 byoŋ2	
-枸杞	kou2 khiə2	
-谷蠡	lok4 lie1	
-固相	ko3 siaŋ3	
-莞爾	ghruan2 nie2	
-冠詞	kuan3 ziə1	
-冠軍	kuan3 kyun1	
-冠以	kuan3 jiə2	
-貫穿	kuan1 thyen1	
-龜兹	khyu1 dziə1	
-過錯	kua3 chak4	
-過去	kua3 khio3	
-過失	kua3 shit4	
-海相	qhəi2 siaŋ3	
-邯鄲	ghan1 tan1	
-函谷關	ghrem1 kok4 kruan1	
-函數	ghəm1 sryo3	
-寒假	ghan1 kra3	
-行動	ghraŋ1 doŋ2	
-行列	ghaŋ1 liet4	
-行爲	ghraŋ1 ghrye1	
-行伍	ghaŋ1 ŋo2	
-行走	ghraŋ1 cou2	
-好處	qhau2 thio3	
-号角	ghau3 krok4	
-号令	ghau3 lieŋ3	
-号碼	ghau3 mra2	
-号召	ghau3 drieu3	
-欱酒	qhəp4 cyu2	
-欱水	qhəp4 shyi2	
-何種	gha1 tyoŋ2	
-荷花	gha1 qhrua1	
-菏澤	ka1 drak4	
-黑種	qhək4 tyoŋ2	
-很少	ghən2 shieu2	
-洪洞	ghoŋ1 doŋ1	
-紅種人	ghoŋ1 tyoŋ2 nin1	
-後藏	ghou2 dzaŋ3	
-後悔	ghou2 qhui2	
-後來	ghou2 ləi1	
-後燕	ghou2 qen1	
-花費	qhrua1 phyui3	
-華山	ghrua3 sren1	
-華夏	ghrua1 ghra2	
-滑稽	kut4 kei1	
-崋山	ghrua3 sren1	
-歡樂	qhuan1 lak4	
-皇上	ghuaŋ1 diaŋ3	
-黃種	ghuaŋ1 tyoŋ2	
-回覆	ghui1 phyuk4	
-回鶻	ghui1 ghut4	
-悔過	qhui3 kua3	
-會稽	kuai3 kei1	
-會計	kuai3 kei3	
-稽攷	kei1 khau2	
-稽首	khei2 shyu2	
-即使	ciək4 sriə2	
-亟待	kiək4 dəi2	
-幾乎	kiəi1 gho1	
-幾種	kiəi2 tyoŋ2	
-計畫	kei3 ghrue3	
-計畫	kei3 ghruek4	
-計劃	kei3 ghruek4	
-濟南	cei2 nəm1	
-濟寧	cei2 neŋ1	
-濟水	cei2 shyi2	
-假期	kra3 giə1	
-假日	kra3 nit4	
-假使	kra2 sriə2	
-監利	kram3 li3	
-簡易	kren2 jie3	
-將進酒	chiaŋ1 cin3 cyu2	
-將領	ciaŋ3 lieŋ2	
-將帥	ciaŋ3 sryi3	
-降兵	ghroŋ1 prieŋ1	
-降伏	ghroŋ1 byuk4	
-降服	ghroŋ1 byuk4	
-降落	kroŋ3 lak4	
-交易	krau1 jiek4	
-交質	krau1 tri3	
-敎的	krau1 tek4	
-敎會	krau1 ghuai3	
-敎會	krau3 ghuai3	
-敎課	krau1 khua3	
-敎數學	krau1 sryo3 ghrok4	
-敎徒	krau3 do1	
-敎學	krau3 ghrok4	
-敎語文	krau1 ŋio2 myun1	
-敎育部	krau3 jyok4 bou2	
-孑孓	kriet4 kyoŋ2	
-節省	cet4 srieŋ2	
-今上	krim1 diaŋ3	
-進藏	cin3 dzaŋ3	
-進度	cin3 do3	
-進行	cin3 ghraŋ1	
-進化論	cin3 qhrua3 lun3	
-經過	keŋ1 kua1	
-景行	krieŋ2 ghraŋ3	
-咎繇	kau1 jieu1	
-救援	kyu3 ghryen3	
-居住	kio1 dryo3	
-沮渠	cio1 gio1	
-句當	kou3 taŋ3	
-句讀	kyo3 dou3	
-決斷	kuet4 tuan3	
-看家	khan1 kra1	
-看守	khan1 shyu2	
-亢宿	kaŋ1 syu3	
-可汗	kha2 ghan1	
-懇切	khən2 chei3	
-空當	khoŋ3 taŋ1	
-空缺	khoŋ3 khyet4	
-空閑	khoŋ3 ghren1	
-空閒	khoŋ1 kren1	
-口号	khou2 ghau3	
-來使	ləi1 sriə3	
-嫪毐	lau3 qəi2	
-離別	lie1 briet4	
-離别	lie1 briet4	
-理論	liə2 lun3	
-連坐	lien1 dzua2	
-兩種	liaŋ2 tyoŋ2	
-料理	leu1 liə2	
-令狐	leŋ1 gho1	
-壟斷	lyoŋ2 duan2	
-論語	lun1 ŋio2	
-落魄	lak4 thak4	
-旅舍	lio2 shia3	
-莽蒼	maŋ2 chaŋ2	
-貿易	mou3 jiek4	
-面相	mien3 siaŋ3	
-名將	mieŋ1 ciaŋ3	
-命令	mrieŋ3 lieŋ3	
-靺鞨	mat4 ghat4	
-某種	mou2 tyoŋ2	
-南下	nəm1 ghra3	
-南燕	nəm1 qen1	
-難易	nan1 jie3	
-年長	nen1 triaŋ2	
-牛蒡	ŋyu1 paŋ2	
-排行	brəi1 ghaŋ3	
-攀援	phran1 ghyan1	
-判斷	phan3 tuan3	
-旁觀	baŋ1 kuan1	
-旁聽	baŋ1 theŋ1	
-跑調	brau1 deu3	
-配種	phui3 tyoŋ2	
-偏少	phien1 shieu2	
-飄過	phieu1 kua1	
-頻率	bin1 lyt4	
-平調	brieŋ1 deu3	
-平反	brieŋ1 phian1	
-平翹	brieŋ1 gieu3	
-評論	brieŋ1 lun3	
-僕射	buk4 jia3	
-樸素	phrok4 so3	
-騎車	grie1 thia1	
-氣相	khiəi3 siaŋ3	
-前藏	dzen1 dzaŋ3	
-前燕	dzen1 qen1	
-翹楚	gieu1 chrio2	
-翹起	gieu3 khiə2	
-翹舌	gieu3 zhiet4	
-翹首	gieu1 shyu2	
-切割	chet4 kat4	
-切普	chet4 pho2	
-切實	chei3 zhit4	
-切韻	chet4 ghyun3	
-青藏	cheŋ1 dzaŋ3	
-青少	cheŋ1 shieu3	
-青少年	cheŋ1 shieu3 nen1	
-清華	chieŋ1 ghrua1	
-情調	dzieŋ1 deu3	
-區別	khyo1 priet4	
-曲調	khyok4 deu3	
-人質	nin1 tri3	
-人種	nin1 tyoŋ2	
-容易	jyoŋ1 jie3	
-三台	sam1 thəi1	
-殺降	sret4 ghroŋ1	
-商賈	shiaŋ1 ko2	
-上諭	diaŋ3 jyo3	
-芍藥	diak4 jiak4	
-少衝	shieu3 thyoŋ1	
-少兒	shieu3 nie1	
-少量	shieu2 liaŋ3	
-少年	shieu3 nen1	
-少商	shieu3 shiaŋ1	
-少數	shieu2 sryo3	
-少陽	shieu3 jiaŋ1	
-少陰	shieu3 qrim1	
-少有	shieu2 ghyu2	
-身分	shin1 byun3	
-審時度勢	shim2 diə1 dak4 shiei3	
-聲調	shieŋ1 deu3	
-聖上	shieŋ3 diaŋ3	
-十年樹木	dip4 nen1 dyo2 mok4	
-食其	jiə3 kiə1	
-使館	sriə3 kuan3	
-使節	sriə3 cet4	
-使用	sriə2 jyoŋ3	
-試劑	shiə3 dzei3	
-書函	shio1 ghrem1	
-書畫	shio1 ghrue3	
-輸送	shyo3 soŋ3	
-輸贏	shyo1 jieŋ1	
-暑假	shio2 kra3	
-庶幾	shio3 kiəi1	
-數百	srok4 prak4	
-數量	sryo3 liaŋ3	
-數數	sryo2 sryo3	
-數學	sryo3 ghrok4	
-數字	sryo3 dziə3	
-樹幹	dyo3 kan3	
-樹立	dyo2 lip4	
-樹上	dyo3 diaŋ2	
-睡覺	dye3 krau3	
-說服	shyei3 byuk4	
-說過	shyet4 kua3	
-說客	shyei3 khrak4	
-素質	so3 tit4	
-台州	thəi1 tyu1	
-太監	thai3 kram3	
-太守	thai3 shyu3	
-湯湯	shiaŋ1 shiaŋ1	
-天台	then1 thəi1	
-挑撥	theu1 pat4	
-挑達	thau1 that4	
-挑選	theu1 syen2	
-挑戰	deu2 tien3	
-通量	thoŋ1 liaŋ3	
-同好	doŋ1 qhau3	
-同種	doŋ1 tyoŋ2	
-投行	dou1 ghaŋ1	
-投降	dou1 ghroŋ1	
-土著	tho2 driak4	
-吐谷渾	tho2 jyok4 ghun1	
-推出	thyi1 thyt4	
-推倒	thui1 tau2	
-推導	thyi1 dau3	
-推廣	thui1 kuaŋ2	
-推行	thui1 ghraŋ1	
-推薦	thyi1 cen3	
-推舉	thyi1 kio2	
-推理	thyi1 liə2	
-推普	thui1 pho2	
-推普機	thui1 pho2 kiəi1	
-推敲	thui1 khrau1	
-推心置腹	thui1 sim1 triə3 pyuk4	
-推選	thyi1 syen2	
-吞咽	thən1 qen3	
-吞嚥	thən1 qen3	
-万俟	mək4 giə1	
-爲此	ghrye3 chie2	
-爲何	ghrye3 gha1	
-爲了	ghrye3 leu2	
-爲難	ghrye1 nan1	
-爲什麼	ghrye3 dip4 ma1	
-爲首	ghrye1 shyu2	
-爲主	ghrye1 tyo2	
-蜲蛇	qrye1 jie1	
-汶川	mrin1 thyen1	
-嗚呼	qo1 qho1	
-無射	myo1 jiek4	
-物種	myut4 tyoŋ2	
-西藏	sei1 dzaŋ3	
-西夏	sei1 ghra2	
-西燕	sei1 qen1	
-喜好	qhiə2 qhau3	
-下海	ghra3 qhəi2	
-下載	ghra2 dzəi3	
-夏朝	ghra2 drieu1	
-夏季	ghra3 kyi3	
-夏天	ghra3 then1	
-相比	siaŋ1 pi2	
-相變	siaŋ3 prien3	
-相處	siaŋ1 thio2	
-相互	siaŋ1 gho3	
-相機	siaŋ3 kiəi1	
-相面	siaŋ3 mien3	
-相片	siaŋ3 phen3	
-相撲	siaŋ1 phok4	
-相鼠	siaŋ3 shio2	
-相同	siaŋ1 doŋ1	
-想要	siaŋ2 qieu3	
-孝弟	qhrau3 dei3	
-孝悌	qhrau3 dei3	
-效率	ghrau3 lyt4	
-信函	sin3 ghrem1	
-姓曾	sieŋ3 cəŋ1	
-休假	qhyu1 kra3	
-休屠	qhyu1 drio1	
-宿舍	syuk4 shia3	
-栒邑	syn1 qrip4	
-咽部	qen1 bou2	
-咽喉	qen1 ghou1	
-咽音	qen1 qrim1	
-厭惡	qiem3 qo3	
-燕國	qen1 kuək4	
-燕山	qen1 sren1	
-燕王	qen1 ghyaŋ1	
-燕子	qen3 ciə2	
-要不	qieu3 pyut4	
-要不然	qieu3 pyut4 nien1	
-要服	qieu1 byuk4	
-要請	qieu1 chieŋ2	
-要求	qieu1 gyu1	
-要事	qieu3 dzriə3	
-要挾	qieu1 ghep4	
-要約	qieu1 qiak4	
-液相	jiek4 siaŋ3	
-一般	qit4 pran1	
-一刀切	qit4 tau1 chet4	
-一覺	qit4 krau3	
-一切	qit4 chei3	
-一些	qit4 sia1	
-一種	qit4 tyoŋ2	
-狋氏	gryen1 cieŋ1	
-以爲	jiə2 ghrye1	
-易經	jiek4 keŋ1	
-因爲	qin1 ghrye3	
-音樂	qrim1 ŋrok4	
-銀行	ŋrin1 ghaŋ1	
-應當	qiəŋ1 taŋ1	
-應對	qiəŋ3 tui3	
-應爲	qiəŋ1 ghrye1	
-應姓	qiəŋ1 sieŋ3	
-郵遞	ghyu1 dei3	
-遊說	jyu1 shyei3	
-有空	ghyu2 khoŋ3	
-於戲	qo1 qho1	
-餘汗	jio1 kan1	
-雨燕	ghyo2 qen3	
-與會	jio3 ghuai3	
-語種	ŋio2 tyoŋ2	
-閼氏	qen1 tie1	
-冤句	qyan1 gyo1	
-援交	ghryen3 krau1	
-援引	ghyan1 jin2	
-月氏	ŋyat4 tie1	
-樂山	lak4 sren1	
-運輸	ghyun3 shyo3	
-運載	ghyun3 dzəi3	
-宰相	cəi2 siaŋ3	
-宰予	cəi2 jio1	
-造訪	chau3 phiaŋ3	
-占卜	tiem1 pok4	
-帳号	triaŋ3 ghau3	
-招行	tieu1 ghaŋ1	
-招降	tieu1 ghroŋ1	
-召工	dieu3 koŋ1	
-召喚	drieu3 qhuan3	
-照相	tieu3 siaŋ3	
-這些	tiek4 sia1	
-着裝	triak4 criaŋ1	
-眞相	tin1 siaŋ3	
-蒸乾	tiəŋ1 kan1	
-正好	tieŋ3 qhau2	
-正朔	tieŋ1 srok4	
-正月	tieŋ1 ŋyat4	
-正在	tieŋ3 dzəi2	
-政治	tieŋ3 driə3	
-支援	tie1 ghryen3	
-只讀	tie2 dok4	
-知識分子	trie1 shiək4 byun3 ciə2	
-直下	driək4 ghra3	
-值得	driək4 tək4	
-值錢	driək4 dzien1	
-值日	driə3 nit4	
-至少	ti3 shieu2	
-志操	tiə3 chau3	
-質量	tit4 liaŋ3	
-質樸	tit4 phrok4	
-質押	tri3 qrap4	
-質子	tit4 ciə2	
-質子	tri3 ciə2	
-中的	tryuŋ3 tek4	
-中行	tryuŋ1 ghaŋ1	
-中肯	tryuŋ3 khəŋ2	
-中意	tryuŋ3 qiə3	
-種樹	tyoŋ3 dyo3	
-種田	tyoŋ3 den1	
-種姓	tyoŋ2 sieŋ3	
-種植	tyoŋ3 diək4	
-種子	tyoŋ2 ciə2	
-種族	tyoŋ2 dzok4	
-重出	dryoŋ1 thyt4	
-重點	dryoŋ2 tem2	
-重複	dryoŋ1 byu3	
-重合	dryoŋ1 ghəp4	
-重量	dryoŋ2 liaŋ3	
-重紐	dryoŋ1 nryu2	
-重鈕	dryoŋ1 nryu2	
-重慶	dryoŋ1 khrieŋ3	
-重視	dryoŋ2 di3	
-重心	dryoŋ2 sim1	
-重新	dryoŋ1 sin1	
-重要	dryoŋ2 qieu3	
-重音	dryoŋ2 qrim1	
-重韻	dryoŋ1 ghyun3	
-重組	dryoŋ1 co2	
-周易	tyu1 jiek4	
-主要	tyo2 qieu3	
-住手	tryo3 shyu2	
-住宿	dryo3 syuk4	
-注疏	tyo3 srio3	
-注重	tyo3 dryoŋ2	
-著名	trio3 mieŋ1	
-轉成	tryen2 dieŋ1	
-轉發	tryen2 piat4	
-轉告	tryen2 kau3	
-轉換	tryen2 ghuan3	
-轉交	tryen2 krau1	
-轉了	tryen2 leu2	
-轉盤	tryen3 ban1	
-轉寫	tryen2 sia2	
-轉載	tryen2 dzəi3	
-轉帳	tryen2 triaŋ3	
-子女	ciə2 nrio2	
-自首	dzi3 shyu3	
-宗敎	cuŋ1 krau3	
-椶種	coŋ1 tyoŋ2	
-總要	coŋ2 qieu3	
-最好	cuai3 qhau2	
-最少	cuai3 shieu2	
-尊重	cun1 dryoŋ2	
-作爲	cak4 ghrye1	
-
-廣韻	kuaŋ2 ghyun3	
-賀正	gha3 tieŋ1	
-平聲	brieŋ1 shieŋ1	
-上聲	diaŋ2 shieŋ1	
-去聲	khio3 shieŋ1	
-入聲	nip4 shieŋ1	
-看門	khan1 mun1	
-看護	khan1 gho3	
-唱和 thiaŋ3 ghua3	
-曲高和寡 khyok4 kau1 ghua3 krua2	
-大漢和辭典	dai3 qhan3 ghua1 ziə1 ten2	
-龍龕手鑑 	lyoŋ1 khəm1 shyu2 kram3	
-康熙字典	khaŋ1 qhiə1 dziə3 ten2	
-說文解字 shyet4 myun1 kre2 dziə3	
-擴張	khuak4 triaŋ1	
