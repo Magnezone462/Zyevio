@@ -6,7 +6,7 @@ schema:
   name: 隋語拼音
   version: “2016.05.01”
   author:
-    - 磁界 <@Zyengrio.twitter.com>
+    - 磁界 <@Zyengrio.twitter.com>
 
   description: |
   dependencies:
@@ -82,7 +82,7 @@ translator:
   dictionary: zyepheng
   spelling_hints: 14
   preedit_format:
-    - xform dii dî
+    - xform dii dî
     - xform dee dî
     - xform v ŋ
     - xform w ə
@@ -97,7 +97,7 @@ translator:
     - xform er e
     - xform ex é
     - xform eh è
-    - xform or o
+    - xform or o
     - xform ox ó
     - xform oh ò
     - xform yr y
@@ -108,7 +108,7 @@ translator:
     - xform əh ə̀
     - xform ir i
     - xform ix í
-    - xform ih ì
+    - xform ih ì
     - xform ur u
     - xform ux ú
     - xform uh ù
@@ -124,7 +124,7 @@ translator:
     - xform e1 e
     - xform e2 é
     - xform e3 è
-    - xform o1 o
+    - xform o1 o
     - xform o2 ó
     - xform o3 ò
     - xform y1 y
@@ -135,7 +135,7 @@ translator:
     - xform ə3 ə̀
     - xform i1 i
     - xform i2 í
-    - xform i3 ì
+    - xform i3 ì
     - xform u1 u
     - xform u2 ú
     - xform u3 ù
