@@ -49,16 +49,16 @@ engine:
 
 speller:
   alphabet: əzyxwvutsrqpoŋnmlkjihgfedcba^
-  initials: zvtsqpŋnmlkjgdcb
+  initials: zxvtsqpŋnmlkjgdcb
   delimiter: " '"
   algebra:
     - derive/ŋ/v/
     - derive/ə/w/
-    - abbrev/^([bcdfgjklmnŋpqstvz]).+$/$1/
+    - abbrev/^([bcdgjklmnŋpqstvxz]).+$/$1/
     - abbrev/^([ptkcszqg]h).+$/$1/
     - abbrev/^([d]z).+$/$1
-    - derive/g([aeouə])/g$1/
-    - derive/gr([aeouə])/gr$1/
+    - derive/g([aeouə])/x$1/
+    - derive/gr([aeouə])/xr$1/
     - derive/dî/di/
     - derive/dî/dih/
     - derive/dî/dee/
@@ -70,11 +70,10 @@ speller:
     - derive/zhi/zh/
     - derive/iəŋ/iv/
     - derive/iək/ik/
-    - derive/ou/wu/
-    - derive/ou/u/
+    - derive/u/ou/
     - derive/r([iy])/$1/
     - derive/^([a-z]+)[1-3]$/$1/
-    - xlit 123 rxh
+    - xlit 123 rfh
     - derive/([ptk])4/$1/
 #    - 'xlit 1234 -/\'
 
@@ -86,31 +85,31 @@ translator:
     - xform dee dî
     - xform v ŋ
     - xform w ə
-    - xform ([aeoə])([iu])([rxh]) $1$3$2
-    - xform ([uy])([i])([rxh]) $1$3$2
-    - xform ([i])([u])([rxh]) $1$3$2
-    - xform ([aeiouyə])([mnptk])([rxh]) $1$3$2
-    - xform ([aeiouyə])ŋ([rxh]) $1$2ŋ
+    - xform ([aeoə])([iu])([rfh]) $1$3$2
+    - xform ([uy])([i])([rfh]) $1$3$2
+    - xform ([i])([u])([rfh]) $1$3$2
+    - xform ([aeiouyə])([mnptk])([rfh]) $1$3$2
+    - xform ([aeiouyə])ŋ([rfh]) $1$2ŋ
     - xform ar a
-    - xform ax á
+    - xform af á
     - xform ah à
     - xform er e
-    - xform ex é
+    - xform ef é
     - xform eh è
     - xform or o
-    - xform ox ó
+    - xform of ó
     - xform oh ò
     - xform yr y
-    - xform yx ý
+    - xform yf ý
     - xform yh ỳ
     - xform ər ə
-    - xform əx ə́
+    - xform əf ə́
     - xform əh ə̀
     - xform ir i
-    - xform ix í
+    - xform if í
     - xform ih ì
     - xform ur u
-    - xform ux ú
+    - xform uf ú
     - xform uh ù
   comment_format:
     - xform ([aeoə])([iu])([123]) $1$3$2
@@ -150,6 +149,34 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform ([aeoə])([iu])([123]) $1$3$2
+    - xform ([uy])([i])([123]) $1$3$2
+    - xform ([i])([u])([123]) $1$3$2
+    - xform ([aeiouyə])([mnptk])([123]) $1$3$2
+    - xform ([aeiouyə])ŋ([123]) $1$2ŋ
+    - xform a1 a
+    - xform a2 á
+    - xform a3 à
+    - xform e1 e
+    - xform e2 é
+    - xform e3 è
+    - xform o1 o
+    - xform o2 ó
+    - xform o3 ò
+    - xform y1 y
+    - xform y2 ý
+    - xform y3 ỳ
+    - xform ə1 ə
+    - xform ə2 ə́
+    - xform ə3 ə̀
+    - xform i1 i
+    - xform i2 í
+    - xform i3 ì
+    - xform u1 u
+    - xform u2 ú
+    - xform u3 ù
+    - xform ([ptk])4 $1
 
 punctuator:
   import_preset: default
