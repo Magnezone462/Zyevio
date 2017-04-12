@@ -399,7 +399,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 28,
+        "form" : "khiò"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 28,
@@ -408,9 +414,6 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "去る", "離れていく", "行く", "向かう" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "去った時間", "過去" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -448,7 +451,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "",
+      "title" : "被略語",
       "entry" : {
         "id" : 23,
         "form" : "Nitpún"
@@ -499,10 +502,16 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "",
+      "title" : "被略語",
       "entry" : {
         "id" : 32,
         "form" : "Tryuŋkuək"
+      }
+    }, {
+      "title" : "被略語",
+      "entry" : {
+        "id" : 51,
+        "form" : "Tryuŋxrua"
       }
     } ]
   }, {
@@ -593,13 +602,10 @@
     },
     "translations" : [ {
       "title" : "代詞",
-      "forms" : [ "あなた", "対称の一つ", "第二人称代名詞の一つ" ]
+      "forms" : [ "あなた", "第二人称代名詞の一つ" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "尊称の一つ" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "軍", "軍隊" ]
+      "forms" : [ "尊称の一つ", "軍", "軍隊" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -641,10 +647,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "充軍刑にする", "辺境で兵役刑にする" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "流罪にする" ]
+      "forms" : [ "充軍刑にする", "辺境で兵役刑にする", "流罪にする" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -658,6 +661,254 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "東", "東方" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "nəm"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "南", "南方", "男", "男性" ]
+    }, {
+      "title" : "",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "pək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "北", "北方" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "逃げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "khiònen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "去年", "前の年" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 48,
+        "form" : "ləinen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "ləinen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "来年", "次の年" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 47,
+        "form" : "khiònen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "thiəŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "称る", "はかる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "thiə̀ŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "秤", "はかり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "Tryuŋxrua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "中華" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "Qhànŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "漢語", "中国語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "Toŋkrieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "東京" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "kràujiaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "教養" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "qhiaŋpyop"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "憲法" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "nipmun"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "入門する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "入門" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "króŋŋriè"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "講義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "tyòqiə̀"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "注意する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "注意" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "dzriə̀xróŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "事項" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "dieŋcek"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "成績" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "brieŋkrà"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "評価する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "評価" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
