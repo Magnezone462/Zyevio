@@ -674,9 +674,6 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "南", "南方", "男", "男性" ]
-    }, {
-      "title" : "",
-      "forms" : [ "" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -791,7 +788,7 @@
   }, {
     "entry" : {
       "id" : 53,
-      "form" : "Toŋkrieŋ"
+      "form" : "Tuŋkrieŋ"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -817,7 +814,7 @@
   }, {
     "entry" : {
       "id" : 55,
-      "form" : "qhiaŋpyop"
+      "form" : "qhiàŋpyop"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -909,6 +906,22 @@
     }, {
       "title" : "名詞",
       "forms" : [ "評価" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "jiə́"
+    },
+    "translations" : [ {
+      "title" : "介詞",
+      "forms" : [ "……をもって", "……によって", "……を使って" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "……した", "完結相を表す" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
