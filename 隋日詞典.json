@@ -198,8 +198,8 @@
       "form" : "Qhànmyun"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "漢文", "文言文" ]
+      "title" : "専有名詞",
+      "forms" : [ "漢文", "文言文，漢語の文語たる古典漢語" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -211,7 +211,7 @@
       "form" : "Qhàn"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "専有名詞",
       "forms" : [ "漢江", "漢王朝", "中国" ]
     } ],
     "tags" : [ ],
@@ -265,19 +265,6 @@
     "translations" : [ {
       "title" : "代詞",
       "forms" : [ "彼", "彼女", "第三人称代名詞の一つ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 18,
-      "form" : "Túwytter"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ツイッター", "Twitter" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -341,7 +328,7 @@
       "form" : "Nitpún"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "専有名詞",
       "forms" : [ "日本" ]
     } ],
     "tags" : [ ],
@@ -355,10 +342,19 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "月" ]
+      "forms" : [ "月（天体）" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "月（時間）" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "隋文詞釈",
+      "text" : "単独では直接天体の月を指すことはなく，複合詞に於いて月に関する形態素として用いる。"
+    }, {
+      "title" : "漢文詞釈",
+      "text" : "天体の月，および月に関する形態素の両方で用いる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -431,38 +427,7 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 30,
-        "form" : "Nit"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 30,
-      "form" : "Nit"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "Nitpún の略" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "被略語",
-      "entry" : {
-        "id" : 23,
-        "form" : "Nitpún"
-      }
-    }, {
-      "title" : "",
-      "entry" : {
-        "id" : 29,
-        "form" : "nit"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 31,
@@ -482,7 +447,7 @@
       "form" : "Tryuŋkuək"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "専有名詞",
       "forms" : [ "中国" ]
     } ],
     "tags" : [ ],
@@ -495,8 +460,11 @@
       "form" : "Tryuŋ"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "専有名詞",
       "forms" : [ "Tryuŋkuək の略", "Tryuŋxrua の略" ]
+    }, {
+      "title" : "専有名詞",
+      "forms" : [ "姓氏の 1 つ，中姓" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -673,7 +641,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "南", "南方", "男", "男性" ]
+      "forms" : [ "南", "南方" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "男", "男性" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -765,7 +736,7 @@
       "form" : "Tryuŋxrua"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "専有名詞",
       "forms" : [ "中華" ]
     } ],
     "tags" : [ ],
@@ -775,7 +746,7 @@
   }, {
     "entry" : {
       "id" : 52,
-      "form" : "Qhànŋió"
+      "form" : "qhànŋió"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -791,7 +762,7 @@
       "form" : "Tuŋkrieŋ"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "専有名詞",
       "forms" : [ "東京" ]
     } ],
     "tags" : [ ],
@@ -927,9 +898,78 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "krokttək"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "気がする，の様に思える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "cuàigiə́n"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "最近，近頃" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "dyè"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "寝る，睡眠をとる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "khùn"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "眠い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "xiə́"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "……した，……になった" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "詞釈",
+      "text" : "現代中国語に於ける「語末の了」と同等で，事態の変化が発生したことを指す助詞。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : null,
+    "punctuations" : [ ",", "、" ],
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
     "defaultWord" : {

@@ -54,8 +54,8 @@ speller:
   algebra:
     - derive/ŋ/v/
     - derive/ə/w/
-    - abbrev/^([bcdgjklmnŋpqstvxz]).+$/$1/
-    - abbrev/^([ptkcszqg]h).+$/$1/
+    - abbrev/^([bcdgjklmnŋpqstxz]).+$/$1/
+    - abbrev/^([ptkcszq]h).+$/$1/
     - abbrev/^([d]z).+$/$1
     - derive/g([aeouə])/x$1/
     - derive/gr([aeouə])/xr$1/
