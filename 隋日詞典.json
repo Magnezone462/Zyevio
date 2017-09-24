@@ -2,14 +2,11 @@
   "words" : [ {
     "entry" : {
       "id" : -1,
-      "form" : "qit"
+      "form" : "Qit"
     },
     "translations" : [ {
       "title" : "数詞",
       "forms" : [ "一", "1" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "とある" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -18,14 +15,11 @@
   }, {
     "entry" : {
       "id" : 0,
-      "form" : "nì"
+      "form" : "Nì"
     },
     "translations" : [ {
       "title" : "数詞",
       "forms" : [ "二", "2" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "次の" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -34,7 +28,7 @@
   }, {
     "entry" : {
       "id" : 1,
-      "form" : "sam"
+      "form" : "Sam"
     },
     "translations" : [ {
       "title" : "数詞",
@@ -47,7 +41,7 @@
   }, {
     "entry" : {
       "id" : 2,
-      "form" : "sì"
+      "form" : "Sì"
     },
     "translations" : [ {
       "title" : "数詞",
@@ -60,7 +54,7 @@
   }, {
     "entry" : {
       "id" : 3,
-      "form" : "ŋó"
+      "form" : "Ŋó"
     },
     "translations" : [ {
       "title" : "数詞",
@@ -73,14 +67,14 @@
   }, {
     "entry" : {
       "id" : 4,
-      "form" : "lyuk"
+      "form" : "Lyuk"
     },
     "translations" : [ {
       "title" : "数詞",
       "forms" : [ "六", "6" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "陸", "丘", "大地" ]
+      "forms" : [ "陸", "おか" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -89,11 +83,11 @@
   }, {
     "entry" : {
       "id" : 5,
-      "form" : "chit"
+      "form" : "Chit"
     },
     "translations" : [ {
       "title" : "数詞",
-      "forms" : [ "七", "8" ]
+      "forms" : [ "七", "7" ]
     }, {
       "title" : "名詞",
       "forms" : [ "漆", "黒" ]
@@ -105,7 +99,7 @@
   }, {
     "entry" : {
       "id" : 6,
-      "form" : "pret"
+      "form" : "Pret"
     },
     "translations" : [ {
       "title" : "数詞",
@@ -118,14 +112,11 @@
   }, {
     "entry" : {
       "id" : 7,
-      "form" : "kyú"
+      "form" : "Kyú"
     },
     "translations" : [ {
       "title" : "数詞",
       "forms" : [ "九", "9" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "久しい", "永久" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -134,11 +125,11 @@
   }, {
     "entry" : {
       "id" : 8,
-      "form" : "dip"
+      "form" : "Dip"
     },
     "translations" : [ {
       "title" : "数詞",
-      "forms" : [ "十", "10", "10 の倍数を表す単位" ]
+      "forms" : [ "十", "10" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -147,14 +138,11 @@
   }, {
     "entry" : {
       "id" : 9,
-      "form" : "prak"
+      "form" : "Prak"
     },
     "translations" : [ {
       "title" : "数詞",
-      "forms" : [ "百", "100", "100の倍数を表す単位" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "数の大きなことを表す" ]
+      "forms" : [ "百", "100" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -163,14 +151,11 @@
   }, {
     "entry" : {
       "id" : 10,
-      "form" : "chen"
+      "form" : "Chen"
     },
     "translations" : [ {
       "title" : "数詞",
-      "forms" : [ "千", "1000", "1000 の倍数を表す単位" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "数の大きなことを表す" ]
+      "forms" : [ "千", "1000" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -179,14 +164,11 @@
   }, {
     "entry" : {
       "id" : 11,
-      "form" : "myòn"
+      "form" : "Myòn"
     },
     "translations" : [ {
       "title" : "数詞",
-      "forms" : [ "万", "10000", "10000の倍数を表す単位" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "数の大きなことを表す" ]
+      "forms" : [ "萬", "10000" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -198,8 +180,8 @@
       "form" : "Qhànmyun"
     },
     "translations" : [ {
-      "title" : "専有名詞",
-      "forms" : [ "漢文", "文言文，漢語の文語たる古典漢語" ]
+      "title" : "名詞",
+      "forms" : [ "漢文" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -211,8 +193,8 @@
       "form" : "Qhàn"
     },
     "translations" : [ {
-      "title" : "専有名詞",
-      "forms" : [ "漢江", "漢王朝", "中国" ]
+      "title" : "名詞",
+      "forms" : [ "漢" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -221,11 +203,11 @@
   }, {
     "entry" : {
       "id" : 14,
-      "form" : "myun"
+      "form" : "Myun"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "文", "文章", "学問" ]
+      "forms" : [ "文", "文章" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -238,7 +220,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "写す", "書く" ]
+      "forms" : [ "寫", "書く" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -251,7 +233,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "見る", "会う", "読む" ]
+      "forms" : [ "看", "見る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -260,11 +242,11 @@
   }, {
     "entry" : {
       "id" : 17,
-      "form" : "qi"
+      "form" : "Qi"
     },
     "translations" : [ {
       "title" : "代詞",
-      "forms" : [ "彼", "彼女", "第三人称代名詞の一つ" ]
+      "forms" : [ "伊", "かれ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -273,11 +255,11 @@
   }, {
     "entry" : {
       "id" : 19,
-      "form" : "phietxàu"
+      "form" : "Phietxàu"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "アポストロフィ", "apostrophe" ]
+      "forms" : [ "撇號", "アポストロフィ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -286,11 +268,11 @@
   }, {
     "entry" : {
       "id" : 20,
-      "form" : "then"
+      "form" : "Then"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "天", "空", "天国", "神" ]
+      "forms" : [ "天", "空" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -299,11 +281,11 @@
   }, {
     "entry" : {
       "id" : 21,
-      "form" : "dî"
+      "form" : "Dî"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "地面", "大地", "地球" ]
+      "forms" : [ "地", "大地" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -312,11 +294,11 @@
   }, {
     "entry" : {
       "id" : 22,
-      "form" : "qhrua"
+      "form" : "Qhruatuá"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "花" ]
+      "forms" : [ "花朵", "はな" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -328,7 +310,7 @@
       "form" : "Nitpún"
     },
     "translations" : [ {
-      "title" : "専有名詞",
+      "title" : "名詞",
       "forms" : [ "日本" ]
     } ],
     "tags" : [ ],
@@ -338,33 +320,11 @@
   }, {
     "entry" : {
       "id" : 24,
-      "form" : "ŋyot"
+      "form" : "Ŋyot"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "月（天体）" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "月（時間）" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "隋文詞釈",
-      "text" : "単独では直接天体の月を指すことはなく，複合詞に於いて月に関する形態素として用いる。"
-    }, {
-      "title" : "漢文詞釈",
-      "text" : "天体の月，および月に関する形態素の両方で用いる。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 25,
-      "form" : "krim"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "金", "こがね", "Au", "原子番号 79", "金属。" ]
+      "forms" : [ "月" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -373,11 +333,11 @@
   }, {
     "entry" : {
       "id" : 26,
-      "form" : "thyn"
+      "form" : "Thyn"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "春", "季節の一つ" ]
+      "forms" : [ "春", "はる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -390,7 +350,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "来る", "近づく" ]
+      "forms" : [ "來", "来る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -409,7 +369,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "去る", "離れていく", "行く", "向かう" ]
+      "forms" : [ "去", "行く" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -418,7 +378,7 @@
   }, {
     "entry" : {
       "id" : 29,
-      "form" : "nit"
+      "form" : "Nit"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -431,7 +391,7 @@
   }, {
     "entry" : {
       "id" : 31,
-      "form" : "shýi"
+      "form" : "Shýi"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -447,8 +407,8 @@
       "form" : "Tryuŋkuək"
     },
     "translations" : [ {
-      "title" : "専有名詞",
-      "forms" : [ "中国" ]
+      "title" : "名詞",
+      "forms" : [ "中國", "中国" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -460,36 +420,21 @@
       "form" : "Tryuŋ"
     },
     "translations" : [ {
-      "title" : "専有名詞",
-      "forms" : [ "Tryuŋkuək の略", "Tryuŋxrua の略" ]
-    }, {
-      "title" : "専有名詞",
-      "forms" : [ "姓氏の 1 つ，中姓" ]
+      "title" : "名詞",
+      "forms" : [ "中", "なか" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "被略語",
-      "entry" : {
-        "id" : 32,
-        "form" : "Tryuŋkuək"
-      }
-    }, {
-      "title" : "被略語",
-      "entry" : {
-        "id" : 51,
-        "form" : "Tryuŋxrua"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 34,
-      "form" : "xa"
+      "form" : "Xa"
     },
     "translations" : [ {
       "title" : "代詞",
-      "forms" : [ "何", "疑問詞の一つ" ]
+      "forms" : [ "何", "どれ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -502,12 +447,18 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "買う", "購入する" ]
+      "forms" : [ "買", "買う" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 36,
+        "form" : "mrè"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 36,
@@ -515,12 +466,18 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "売る", "鬻ぐ", "販売する" ]
+      "forms" : [ "賣", "売る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 35,
+        "form" : "mré"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 37,
@@ -528,10 +485,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "良い", "好ましい" ]
-    }, {
-      "title" : "副詞",
-      "forms" : [ "とても", "程度が大きい" ]
+      "forms" : [ "好", "良い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -544,7 +498,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "好む", "好ましいと考える" ]
+      "forms" : [ "好", "好む" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -553,11 +507,11 @@
   }, {
     "entry" : {
       "id" : 39,
-      "form" : "ŋá"
+      "form" : "Ŋá"
     },
     "translations" : [ {
       "title" : "代詞",
-      "forms" : [ "私", "第一人称代名詞の一つ" ]
+      "forms" : [ "我", "わたし" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -566,14 +520,14 @@
   }, {
     "entry" : {
       "id" : 40,
-      "form" : "kyun"
+      "form" : "Kyun"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "あなた", "第二人称代名詞の一つ" ]
+      "title" : "名詞",
+      "forms" : [ "君", "あなた" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "尊称の一つ", "軍", "軍隊" ]
+      "forms" : [ "軍", "軍隊" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -582,14 +536,11 @@
   }, {
     "entry" : {
       "id" : 41,
-      "form" : "khrieŋ"
+      "form" : "Khrieŋ"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "きみ", "第二人称代名詞の一つ" ]
-    }, {
       "title" : "名詞",
-      "forms" : [ "尊称の一つ" ]
+      "forms" : [ "卿", "きみ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -598,11 +549,11 @@
   }, {
     "entry" : {
       "id" : 42,
-      "form" : "nió"
+      "form" : "Nió"
     },
     "translations" : [ {
       "title" : "代詞",
-      "forms" : [ "おまえ", "貴様", "第二人称代名詞の一つ" ]
+      "forms" : [ "汝", "おまえ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -615,7 +566,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "充軍刑にする", "辺境で兵役刑にする", "流罪にする" ]
+      "forms" : [ "充軍", "流罪にする" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -624,11 +575,11 @@
   }, {
     "entry" : {
       "id" : 44,
-      "form" : "tuŋ"
+      "form" : "Tuŋ"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "東", "東方" ]
+      "forms" : [ "東", "ひがし" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -637,14 +588,14 @@
   }, {
     "entry" : {
       "id" : 45,
-      "form" : "nəm"
+      "form" : "Nəm"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "南", "南方" ]
+      "forms" : [ "南", "みなみ" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "男", "男性" ]
+      "forms" : [ "男", "おとこ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -653,14 +604,11 @@
   }, {
     "entry" : {
       "id" : 46,
-      "form" : "pək"
+      "form" : "Pək"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "北", "北方" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "逃げる" ]
+      "forms" : [ "北", "きた" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -669,11 +617,11 @@
   }, {
     "entry" : {
       "id" : 47,
-      "form" : "khiònen"
+      "form" : "Dzaknen"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "去年", "前の年" ]
+      "forms" : [ "昨年", "前の年" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -682,17 +630,17 @@
       "title" : "対義語",
       "entry" : {
         "id" : 48,
-        "form" : "ləinen"
+        "form" : "Ləinen"
       }
     } ]
   }, {
     "entry" : {
       "id" : 48,
-      "form" : "ləinen"
+      "form" : "Ləinen"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "来年", "次の年" ]
+      "forms" : [ "來年", "次の年" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -701,7 +649,7 @@
       "title" : "対義語",
       "entry" : {
         "id" : 47,
-        "form" : "khiònen"
+        "form" : "Dzaknen"
       }
     } ]
   }, {
@@ -711,7 +659,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "称る", "はかる" ]
+      "forms" : [ "稱", "はかる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -720,11 +668,11 @@
   }, {
     "entry" : {
       "id" : 50,
-      "form" : "thiə̀ŋ"
+      "form" : "Thiə̀ŋ"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "秤", "はかり" ]
+      "forms" : [ "稱", "はかり" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -736,7 +684,7 @@
       "form" : "Tryuŋxrua"
     },
     "translations" : [ {
-      "title" : "専有名詞",
+      "title" : "名詞",
       "forms" : [ "中華" ]
     } ],
     "tags" : [ ],
@@ -746,7 +694,7 @@
   }, {
     "entry" : {
       "id" : 52,
-      "form" : "qhànŋió"
+      "form" : "Qhànŋió"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -762,7 +710,7 @@
       "form" : "Tuŋkrieŋ"
     },
     "translations" : [ {
-      "title" : "専有名詞",
+      "title" : "名詞",
       "forms" : [ "東京" ]
     } ],
     "tags" : [ ],
@@ -772,7 +720,7 @@
   }, {
     "entry" : {
       "id" : 54,
-      "form" : "kràujiaŋ"
+      "form" : "Kràujiaŋ"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -785,7 +733,7 @@
   }, {
     "entry" : {
       "id" : 55,
-      "form" : "qhiàŋpyop"
+      "form" : "Qhiàŋpyop"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -802,10 +750,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "入門する" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "入門" ]
+      "forms" : [ "入門", "入門する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -814,7 +759,7 @@
   }, {
     "entry" : {
       "id" : 57,
-      "form" : "króŋŋriè"
+      "form" : "Króŋŋriè"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -831,10 +776,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "注意する" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "注意" ]
+      "forms" : [ "注意", "注意する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -843,7 +785,7 @@
   }, {
     "entry" : {
       "id" : 59,
-      "form" : "dzriə̀xróŋ"
+      "form" : "Dzriə̀xróŋ"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -856,7 +798,7 @@
   }, {
     "entry" : {
       "id" : 60,
-      "form" : "dieŋcek"
+      "form" : "Dieŋcek"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -873,10 +815,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "評価する" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "評価" ]
+      "forms" : [ "評價", "評価する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -889,10 +828,10 @@
     },
     "translations" : [ {
       "title" : "介詞",
-      "forms" : [ "……をもって", "……によって", "……を使って" ]
+      "forms" : [ "以", "……によって" ]
     }, {
       "title" : "助詞",
-      "forms" : [ "……した", "完結相を表す" ]
+      "forms" : [ "已", "……した" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -905,7 +844,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "気がする，の様に思える" ]
+      "forms" : [ "覺得", "気がする" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -914,11 +853,11 @@
   }, {
     "entry" : {
       "id" : 64,
-      "form" : "cuàigiə́n"
+      "form" : "Cuàigiə́n"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "最近，近頃" ]
+      "forms" : [ "最近", "近頃" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -931,7 +870,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "寝る，睡眠をとる" ]
+      "forms" : [ "睡", "寝る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -944,7 +883,10 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "眠い" ]
+      "forms" : [ "困", "眠い" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "困", "苦しむ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -957,19 +899,941 @@
     },
     "translations" : [ {
       "title" : "助詞",
-      "forms" : [ "……した，……になった" ]
+      "forms" : [ "矣", "……になった" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "詞釈",
-      "text" : "現代中国語に於ける「語末の了」と同等で，事態の変化が発生したことを指す助詞。"
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "Krim"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "金" ]
     } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 69,
+      "form" : "xakò"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "何故", "どうして" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 70,
+      "form" : "Chroŋciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "窗子", "窓" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 71,
+      "form" : "Nàiciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "奈子", "リンゴ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 72,
+      "form" : "Khiéŋa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "企鵝", "ペンギン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 73,
+      "form" : "phrau"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "拋", "捨てる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 74,
+      "form" : "pyàŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "放", "放る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 75,
+      "form" : "Dryuŋciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "蟲", "昆虫の類" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 76,
+      "form" : "dieŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "成", "なる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 77,
+      "form" : "Xatə́i"
+    },
+    "translations" : [ {
+      "title" : "代詞",
+      "forms" : [ "何等", "なに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 78,
+      "form" : "shyet"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "說", "言う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "Xèndzə́i"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "現在", "今" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 80,
+      "form" : "ciək"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "即", "すぐに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 81,
+      "form" : "cək"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "則", "つまり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 82,
+      "form" : "dím"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "甚", "とても" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 83,
+      "form" : "khiə́"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "起", "おきる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 84,
+      "form" : "siáŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "想", "思う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 85,
+      "form" : "Qiəsrieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "醫生", "医者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 86,
+      "form" : "tié"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "只", "ただ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 87,
+      "form" : "Cáudin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "早晨", "あさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88,
+      "form" : "Kuŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "公", "あなた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 89,
+      "form" : "Dyi"
+    },
+    "translations" : [ {
+      "title" : "代詞",
+      "forms" : [ "誰" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 90,
+      "form" : "Xyódryù"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "宇宙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 91,
+      "form" : "Xyódryùnin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "宇宙人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92,
+      "form" : "Xathiò"
+    },
+    "translations" : [ {
+      "title" : "代詞",
+      "forms" : [ "何處", "どこ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 93,
+      "form" : "Solien"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "蘇聯", "ソ連" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 94,
+      "form" : "Ninmin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人民" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 95,
+      "form" : "Tyóziek"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "主席", "議長" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 96,
+      "form" : "Nitpúnnin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "日本人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 97,
+      "form" : "Dènnáu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電腦", "コンピュータ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98,
+      "form" : "kyùi"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "貴", "高い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99,
+      "form" : "Chié"
+    },
+    "translations" : [ {
+      "title" : "代詞",
+      "forms" : [ "此", "これ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 100,
+      "form" : "Prié"
+    },
+    "translations" : [ {
+      "title" : "代詞",
+      "forms" : [ "彼", "あれ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 101,
+      "form" : "niéqheŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "爾馨", "その様な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 102,
+      "form" : "neŋqheŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "寧馨", "この様な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 103,
+      "form" : "xanio"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "何如", "どの様な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 104,
+      "form" : "Shio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ " 書", "本" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 105,
+      "form" : "Mrýikuək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "美國", "アメリカ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 106,
+      "form" : "Xroksrieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "學生", "学生" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 107,
+      "form" : "Xankuək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "韓國", "韓国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 108,
+      "form" : "Cúŋthòŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "總統", "大統領" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 109,
+      "form" : "Ciaŋkyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "將軍", "将軍" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 110,
+      "form" : "Sensrieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "先生" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 111,
+      "form" : "Tiènthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "戰車", "戦車" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 112,
+      "form" : "Dàixrok"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "大學", "大学" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 113,
+      "form" : "Dènqriéŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電影", "映画" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 114,
+      "form" : "Bəŋxyú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "朋友", "ともだち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 115,
+      "form" : "Shiəka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "詩歌", "詩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 116,
+      "form" : "Pràushiək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "豹式", "パンター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 117,
+      "form" : "Criaŋkrap"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "裝甲", "装甲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 118,
+      "form" : "qhryé"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "毀", "壊す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 119,
+      "form" : "kiə̀tək"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "記得", "おぼえる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 120,
+      "form" : "Nùijyoŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "内容" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 121,
+      "form" : "dzyen"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "全", "すべて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 122,
+      "form" : "Shièunrió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "少女" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 123,
+      "form" : "chyò"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "趣", "おもしろい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 124,
+      "form" : "Ŋódzen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "午前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 125,
+      "form" : "Ŋóxú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "午後" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 126,
+      "form" : "Tièŋŋó"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "正午", "ひる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 127,
+      "form" : "Jiàmyón"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "夜晚", "よる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 128,
+      "form" : "Krimnit"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "今日", "きょう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 129,
+      "form" : "Mrieŋnit"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "明日", "あした" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 130,
+      "form" : "Xúnit"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "後日", "あさって" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 131,
+      "form" : "Dzaknit"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "昨日", "きのう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 132,
+      "form" : "Krimtyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "今周", "今週" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 133,
+      "form" : "Mrieŋtyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "明周", "来週" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 134,
+      "form" : "Xútyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "後周", "再来週" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 135,
+      "form" : "Xúnen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "後年", "再来年" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 136,
+      "form" : "Thiòsrió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "處所", "ところ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 137,
+      "form" : "khánəŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "可能", "……かもしれない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 138,
+      "form" : "syo"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "須", "……しなければならない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
   "zpdic" : {
-    "alphabetOrder" : null,
-    "punctuations" : [ ",", "、" ],
+    "alphabetOrder" : "AaBbCcDdEeFfGgHhIiJjKkLlMmNnŊŋOoPpQqRrSsTtUuVvWwXxYyZzƏə",
+    "alphabetOrderType" : "CUSTOM",
+    "punctuations" : [ ",", "，" ],
+    "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
     "defaultWord" : {
