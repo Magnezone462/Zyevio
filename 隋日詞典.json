@@ -336,11 +336,11 @@
   }, {
     "entry" : {
       "id" : 26,
-      "form" : "Thyn"
+      "form" : "Thynkỳi"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "春", "はる" ]
+      "forms" : [ "春季", "はる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -675,7 +675,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "稱", "はかり" ]
+      "forms" : [ "稱", "はかり", "秤" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1344,7 +1344,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "何如", "どの様な" ]
+      "forms" : [ "何如", "どの様であるか", "どうであるか" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1552,7 +1552,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "記得", "おぼえる" ]
+      "forms" : [ "記得", "おぼえている", "おぼえた" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2418,6 +2418,300 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "友善", "優しい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 184,
+      "form" : "Cìndò"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "進度", "進捗" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 185,
+      "form" : "Tyenkra"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "專家", "プロ", "エキスパート", "専門家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 186,
+      "form" : "khiə́dzriaŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "起牀", "起床する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 187,
+      "form" : "dièndriaŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "擅長", "上手である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 188,
+      "form" : "Briényok"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "被褥", "ふとん", "布団", "蒲団" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 189,
+      "form" : "Zhittit"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "實質", "実質" ]
+    }, {
+      "title" : "区別詞",
+      "forms" : [ "實質", "実質的" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 190,
+      "form" : "Jyukhrak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "游客", "旅行者", "ツーリスト", "tourist" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 191,
+      "form" : "Diədə̀i"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "時代" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 192,
+      "form" : "Saŋtyoŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "喪鐘", "終焉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 193,
+      "form" : "kok"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "告", "（上から下へ）告げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 194,
+      "form" : "kàu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "告", "（下から上へ）告げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 195,
+      "form" : "srieŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "生", "生む", "生まれる", "生きる（育つ）", "生存する" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "生", "なま", "未熟" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 196,
+      "form" : "xryè"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "爲", "ためである" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "爲", "ために" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 197,
+      "form" : "Nəmnin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "男人", "おとこ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 198,
+      "form" : "nriónin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "女人", "おんな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 199,
+      "form" : "Chyukỳi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "秋季", "あき" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 200,
+      "form" : "Xràkỳi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "夏季", "なつ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 201,
+      "form" : "Toŋkỳi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "冬季", "ふゆ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 202,
+      "form" : "brié"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "被", "おおう", "こうむる" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "被", "される" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "N1 brié (N2) V1 (N3)\nN1 が（N2 に）（N3 を）V1 される"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 203,
+      "form" : "sriə́"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "使", "つかう", "つかわす" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "使", "させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "N1 sriə́ (N2) V1 (N3)\nN1 が（N2 に）（N3 を）V1 させる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 204,
+      "form" : "brá"
+    },
+    "translations" : [ {
+      "title" : "語気詞",
+      "forms" : [ "罷", "……しましょう", "……しましょうか", "……でしょうか" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
