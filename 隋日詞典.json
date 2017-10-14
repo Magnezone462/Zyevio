@@ -633,17 +633,17 @@
       "title" : "対義語",
       "entry" : {
         "id" : 48,
-        "form" : "Ləinen"
+        "form" : "Mrieŋnen"
       }
     } ]
   }, {
     "entry" : {
       "id" : 48,
-      "form" : "Ləinen"
+      "form" : "Mrieŋnen"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "來年", "次の年" ]
+      "forms" : [ "明年", "次の年" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2228,11 +2228,11 @@
   }, {
     "entry" : {
       "id" : 169,
-      "form" : "báudryò"
+      "form" : "báudriak"
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "抱住", "しがみつく" ]
+      "forms" : [ "抱著", "しがみつく" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2711,7 +2711,308 @@
     },
     "translations" : [ {
       "title" : "語気詞",
-      "forms" : [ "罷", "……しましょう", "……しましょうか", "……でしょうか" ]
+      "forms" : [ "罷", "……しましょう（か？）", "……でしょう（か？）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 205,
+      "form" : "Mènprau"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "麪包", "パン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 206,
+      "form" : "dzyoŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "從", "したがう", "言うことをきく" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "從", "……から" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "N1 dzyoŋ N2 V1 (N3)\nN1 が N2 から（N3 を）V1 する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 207,
+      "form" : "xruan"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "還", "なお", "やはり", "依然として", "まずまず" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 208,
+      "form" : "Tuŋpyaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "東方", "ひがし" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 209,
+      "form" : "Seipyaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "西方", "にし" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 210,
+      "form" : "xyáŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "往", "向かう" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "往", "……に向かって" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "N1 xyáŋ N2 V1 (N3)\nN1 は N2 へ向かって（N3）を V1 する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 211,
+      "form" : "Dzìxraŋthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "自行車", "自転車" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 212,
+      "form" : "Luizhià"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "雷射", "鐳射", "レーザー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 213,
+      "form" : "kháupài"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "拷貝", "コピーする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 214,
+      "form" : "Tanthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "單車", "自転車" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 215,
+      "form" : "Kiəithia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "機車", "モーターバイク" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 216,
+      "form" : "Khiə̀ithia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "汽車", "自動車" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 217,
+      "form" : "Phráuthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "跑車", "スポーツカー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 218,
+      "form" : "Qhuàthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "貨車", "トラック" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 219,
+      "form" : "Kuŋthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "公車", "バス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 220,
+      "form" : "Qhuáthia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "火車", "列車" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 221,
+      "form" : "Teksì"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "taxi", "タクシー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "英語 “taxi /ˈtæk.si/” と粤語「的士 /dik1.si6/」の合成"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 222,
+      "form" : "Srieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "生", "（学問の徒に対して）……さん", "あなた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 223,
+      "form" : "ŋauziaŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "翱翔", "飛び回る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 224,
+      "form" : "shim"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "深", "深い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 225,
+      "form" : "sin"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "新", "新しい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 226,
+      "form" : "shin"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "伸", "のびる", "のばす" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
