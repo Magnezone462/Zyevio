@@ -205,19 +205,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 14,
-      "form" : "Myun"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "文", "文章" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 15,
       "form" : "siá"
     },
@@ -577,19 +564,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 44,
-      "form" : "Tuŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "東", "ひがし" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 45,
       "form" : "Nəm"
     },
@@ -597,21 +571,8 @@
       "title" : "名詞",
       "forms" : [ "南", "みなみ" ]
     }, {
-      "title" : "名詞",
-      "forms" : [ "男", "おとこ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 46,
-      "form" : "Pək"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "北", "きた" ]
+      "title" : "区別詞",
+      "forms" : [ "男", "おとこの" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -701,10 +662,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "漢語", "中国語" ]
+      "forms" : [ "漢語", "中国語（注釈を見よ）" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "Qhànŋió は「全時代、全地域の中国語」を指す。現代標準中国語は Xruaŋió という。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -835,6 +799,9 @@
     }, {
       "title" : "助詞",
       "forms" : [ "已", "……した" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "已", "止まる", "やめる", "終わる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1175,7 +1142,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "公", "あなた" ]
+      "forms" : [ "公", "あなた", "……さん" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1245,7 +1212,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 245,
+        "form" : "Soviet Diáxuàityóŋriè Gyòŋxuakuək Lienmrieŋ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 94,
@@ -1370,7 +1343,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "美國", "アメリカ" ]
+      "forms" : [ "美國", "アメリカ（国）" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1577,8 +1550,11 @@
       "form" : "dzyen"
     },
     "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "全", "すべての", "完全である" ]
+    }, {
       "title" : "副詞",
-      "forms" : [ "全", "すべて" ]
+      "forms" : [ "全", "すべて", "みな" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2263,7 +2239,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "N1 xyot V1 (N2) xyot V2\nN1 は V1 すればするほど（N2は）V2 する"
+      "text" : "“N1 xyot V1 (N2) xyot V2”「N1 は V1 すればするほど（N2は）V2 する」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2676,12 +2652,12 @@
       "forms" : [ "被", "おおう", "こうむる" ]
     }, {
       "title" : "介詞",
-      "forms" : [ "被", "される" ]
+      "forms" : [ "被", "……される" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "N1 brié (N2) V1 (N3)\nN1 が（N2 に）（N3 を）V1 される"
+      "text" : "“N1 brié (N2) V1”「N1 が（N2 に）V1 される」\n被動用法で，N1 が V1 を受ける意味を表す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2695,12 +2671,12 @@
       "forms" : [ "使", "つかう", "つかわす" ]
     }, {
       "title" : "介詞",
-      "forms" : [ "使", "させる" ]
+      "forms" : [ "使", "……させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "N1 sriə́ (N2) V1 (N3)\nN1 が（N2 に）（N3 を）V1 させる"
+      "text" : "“N1 sriə́ (N2) V1”「N1 が（N2 に）V1 させる」\n使役用法。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2740,12 +2716,12 @@
       "forms" : [ "從", "したがう", "言うことをきく" ]
     }, {
       "title" : "介詞",
-      "forms" : [ "從", "……から" ]
+      "forms" : [ "從", "……から「" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "N1 dzyoŋ N2 V1 (N3)\nN1 が N2 から（N3 を）V1 する"
+      "text" : "“N1 dzyoŋ N2 V1”「N1 が N2 から V1 する」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2803,21 +2779,8 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "N1 xyáŋ N2 V1 (N3)\nN1 は N2 へ向かって（N3）を V1 する"
+      "text" : "“N1 xyáŋ N2 V1”「N1 は N2 へ向かって V1 する」"
     } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 211,
-      "form" : "Dzìxraŋthia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "自行車", "自転車" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2949,7 +2912,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "英語 “taxi /ˈtæk.si/” と粤語「的士 /dik1.si6/」の合成"
+      "text" : "英語 “taxi /ˈtæk.si/” と粤語「的士 /dik1.si6/」の合成から"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3013,6 +2976,1424 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "伸", "のびる", "のばす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 227,
+      "form" : "Qrieŋkuək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "英國", "イギリス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 301,
+        "form" : "Bryitànnijia"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 228,
+      "form" : "Qrieŋŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "英語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 229,
+      "form" : "Qrieŋmyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "英文", "英語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 230,
+      "form" : "Nitmyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "日文", "日本語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 231,
+      "form" : "Myundziə̀"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "文字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 232,
+      "form" : "Kyòciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "句子", "文", "センテンス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 233,
+      "form" : "Myuntiaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "文章" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 234,
+      "form" : "nié"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "爾", "……は（どうであるか）？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 235,
+      "form" : "Mrá-Liettyóŋriè"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "馬列主義", "マルクス・レーニン主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "華語「馬列主義 /Mǎ-Lièzhǔyì/」からの字訳。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 236,
+      "form" : "Mau Draktuŋ Siəsiáŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "毛澤東思想", "毛沢東思想", "毛沢東主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 237,
+      "form" : "Myosrén Kreikrip"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "無産階級", "プロレタリアート" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 238,
+      "form" : "Tyentièi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "專制", "専制", "独裁" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 239,
+      "form" : "Myosrén Kreikrip Tyentièi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "無産階級專制", "プロレタリアート独裁" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 240,
+      "form" : "Cipúntyóŋriè"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "資本主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 241,
+      "form" : "Cipún Kreikrip"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "資本階級", "ブルジョワジー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 242,
+      "form" : "Mintyó Dziptryuŋtièi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "民主集中制" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 243,
+      "form" : "Kuŋ-Noŋ Xuŋkyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "工農紅軍", "労農赤軍" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 244,
+      "form" : "Diáxuàityóŋriè"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "社會主義", "社会主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 245,
+      "form" : "Soviet Diáxuàityóŋriè Gyòŋxuakuək Lienmrieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "Soviet 社會主義共和國聯盟", "ソビエト社会主義共和国連邦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "偉大なる万国の革命的労働者の祖国。1922〜。漢名は Solien。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 93,
+        "form" : "Solien"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 246,
+      "form" : "Ninmin Qryéxryenxuài"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人民委員會", "人民委員会議" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "ソビエト連邦政府のおよびソビエト共和国政府の執行機関。〜 1946。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 247,
+      "form" : "Crekà"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ČK", "チェーカー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "ロシア語 «ЧК» から。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 248,
+        "form" : "Dzyenŋa Syukchieŋ Pyónkrekmrièŋ Grip Də́ikuŋ Pyuidiaŋ Qryéxryenxuài"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 248,
+      "form" : "Dzyenŋa Syukchieŋ Pyónkrekmrièŋ Grip Də́ikuŋ Pyuidiaŋ Qryéxryenxuài"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "全俄肅清反革命及怠工非常委員會", "反革命・サボタージュ取締全ロシア非常委員会" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "略称は Crekà。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 247,
+        "form" : "Crekà"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 249,
+      "form" : "Ŋakuək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "俄国", "ロシア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 261,
+        "form" : "Luthènijia"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 250,
+      "form" : "Nəmpyaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "南方", "みなみ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 251,
+      "form" : "Pəkpyaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "北方", "きた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 252,
+      "form" : "syukchieŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "肅清", "粛清する", "一掃する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 253,
+      "form" : "Pyónkrekmrièŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "反革命", "革命を覆す運動" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 254,
+      "form" : "də́ikuŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "怠工", "怠業する", "サボタージュする", "サボる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 255,
+      "form" : "pyuidiaŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "非常", "非常の", "普段と違う" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "非常", "非常に", "この上なく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 256,
+      "form" : "to"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "都", "全て", "いづれも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 257,
+      "form" : "prá"
+    },
+    "translations" : [ {
+      "title" : "介詞",
+      "forms" : [ "把", "……させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "“N1 prá N2 V1 (N3)”「N1 が N2 を（N3 へ）V1 させる」\n使役ではなく，N2 へ対し状態の変化を生じさせた意味を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 258,
+      "form" : "grip"
+    },
+    "translations" : [ {
+      "title" : "連詞",
+      "forms" : [ "及", "……と", "および" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "少々文語的。jió と違い介詞用法はなく，純粋な並列を表す。また，動詞や形容詞などの並列も可能。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 260,
+        "form" : "jió"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 259,
+      "form" : "xuək"
+    },
+    "translations" : [ {
+      "title" : "連詞",
+      "forms" : [ "或", "あるいは", "または" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 260,
+      "form" : "jió"
+    },
+    "translations" : [ {
+      "title" : "連詞",
+      "forms" : [ "與", "……と" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "與", "……と", "……とともに", "……とは" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "grip と比べて口語的。また，介詞用法はこちらのみ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 258,
+        "form" : "grip"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 261,
+      "form" : "Luthènijia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "Ruthenia", "ロシア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "ラテン語 “RVTHENIA” より。漢名は Ŋakuək，形態素は Ŋa。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 249,
+        "form" : "Ŋakuək"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 262,
+      "form" : "Wukràina"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "Ucraina", "ウクライナ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "ラテン語 “VCRAINA” から。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 263,
+      "form" : "Brakluthènijia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "白 Ruthenia", "白ロシア", "ベラルーシ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "漢語「白」とラテン語 “LVTHENIA” の合成から。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 264,
+      "form" : "Pək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "北", "きた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 265,
+      "form" : "Sei"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "西", "にし" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 266,
+      "form" : "Tuŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "東", "ひがし" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 267,
+      "form" : "Tryuŋsim"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "中心", "真ん中", "中核", "センター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 268,
+      "form" : "Kuŋnin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "工人", "労働者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 269,
+      "form" : "Noŋmin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "農民" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 270,
+      "form" : "Dèndí"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電視", "テレビ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 271,
+      "form" : "Dènxruài"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電話" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "téŋ Dènxruài で「電話をかける」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 272,
+      "form" : "Mieŋziə"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 273,
+      "form" : "Dúŋziə"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 274,
+      "form" : "Ŋúziáŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "偶像", "アイドル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 275,
+      "form" : "Tièicaknin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "製作人", "プロデューサ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 276,
+      "form" : "Kuanpyaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "官方", "公式" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 277,
+      "form" : "Jyi"
+    },
+    "translations" : [ {
+      "title" : "嘆詞",
+      "forms" : [ "唯", "（応答の言葉）はい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 278,
+      "form" : "Nriónin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "女人", "おんな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 279,
+      "form" : "Nrió"
+    },
+    "translations" : [ {
+      "title" : "区別詞",
+      "forms" : [ "女", "おんなの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 280,
+      "form" : "Qrapliək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "壓力", "圧力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 281,
+      "form" : "Thieksriək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "赤色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "\t"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 282,
+      "form" : "thiek"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "赤", "赤い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "xuŋ に同じ。通常は主にこちらを用いるが，固有名詞などにつく場合は華語にならい xuŋ を使う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 283,
+        "form" : "xuŋ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 283,
+      "form" : "xuŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "紅", "赤い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 282,
+        "form" : "thiek"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 284,
+      "form" : "Lyoksriək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "緑色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 285,
+      "form" : "lyok"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "緑", "緑の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 286,
+      "form" : "lam"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "藍", "青い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 287,
+      "form" : "Lamsriək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "藍色", "青" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 288,
+      "form" : "qhək"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "黑", "黒い", "暗い", "悪い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 289,
+      "form" : "brak"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "白", "白い", "口語的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 290,
+      "form" : "Léulam"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "蓼藍", "（植物の）アイ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 291,
+      "form" : "Qhəksriək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "黑色", "黒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 292,
+      "form" : "Braksriək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "白色", "白" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 293,
+      "form" : "Jyuqhriè"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "遊戲", "遊戯", "ゲーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "ŋuàn Jyuqhriè で「ゲームをする/ゲームで遊ぶ」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 294,
+      "form" : "Jyuqhrièkiəi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "遊戲機", "ゲーム機" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 295,
+      "form" : "ŋuàn"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "玩", "遊ぶ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 296,
+      "form" : "Tryuŋqiaŋ Thióliə́khrì"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "中央處理器", "中央処理装置", "CPU" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 297,
+      "form" : "thióliə́"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "處理", "処理する", "解決する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 298,
+      "form" : "Ziətén"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "詞典", "辭典", "辞典" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 299,
+      "form" : "Ziəshio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "辭書", "辞書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "Ziətén と比べて意味が広く，その他の “dictionary” 的書物をも含む。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 300,
+      "form" : "Ŋióxyùi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "語彙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 301,
+      "form" : "Bryitànnijia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "Britannia", "イギリス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "ラテン語 “BRITANNIA” から。漢名は Qrieŋkuək，形態素は Qrieŋ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 227,
+        "form" : "Qrieŋkuək"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 302,
+      "form" : "Qamèlika"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "America", "アメリカ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "ラテン語 “AMERICA” から。漢名は Mrýikuək（国），Mrýityu（大陸），形態素は Mrýi。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 303,
+      "form" : "Xanŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "韓語", "韓国語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 304,
+      "form" : "Xanmyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "韓文", "韓国語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 305,
+      "form" : "Tryuŋmyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "中文", "Xruamyun に同じ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 310,
+        "form" : "Xruamyun"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 306,
+      "form" : "Ŋamyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "俄文", "ロシア語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 307,
+      "form" : "Zyemyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "隋文", "隋語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 308,
+      "form" : "Ŋaŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "俄語", "ロシア語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 309,
+      "form" : "Zyeŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "隋語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 310,
+      "form" : "Xruamyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "華文", "現代中国語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 305,
+        "form" : "Tryuŋmyun"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 311,
+      "form" : "Xruaŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "華語", "現代中国語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 312,
+      "form" : "Xyotŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "粵語", "粤語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "特に現代標準粤語（広州話、広東語）を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 313,
+      "form" : "Xyotmyun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "粵文", "粤語文" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "越文", "越南語文", "ベトナム語文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 314,
+      "form" : "Mrýityu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "美洲", "（南北）アメリカ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 315,
+      "form" : "Qràtyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "亞洲", "アジア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 316,
+      "form" : "Qutyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "歐洲", "ヨーロッパ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 317,
+      "form" : "Pyuityu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "非洲", "アフリカ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 318,
+      "form" : "sauniéu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "騷擾", "かき乱す", "騒がす", "ハラスメント行為をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 319,
+      "form" : "Dryóŋliək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "重力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 320,
+      "form" : "Grieŋŋio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鯨魚", "クジラ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 321,
+      "form" : "Shieŋmú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "聲母", "声母", "漢語音節の頭子音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "Xrỳnmú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "韻母", "漢語音節の頭子音を除いた部分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 323,
+      "form" : "Krèiqrim"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "介音", "漢語音節の頭子音と主母音との間にくる半母音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 324,
+      "form" : "XrỳnmyúiXrnmyi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "韻尾", "漢語音節の末子韻および上昇二重母音の後半部" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
