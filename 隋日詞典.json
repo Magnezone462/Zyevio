@@ -226,7 +226,10 @@
       "forms" : [ "看", "見る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "動詞フレーズの後につけると「V（して）みる」"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -476,19 +479,6 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "好", "良い" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 38,
-      "form" : "qhàu"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "好", "好む" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -810,11 +800,11 @@
   }, {
     "entry" : {
       "id" : 63,
-      "form" : "kroktək"
+      "form" : "krok"
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "覺得", "気がした", "気がしている" ]
+      "forms" : [ "覺", "気がする" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1028,7 +1018,10 @@
       "forms" : [ "現在", "今" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "副詞としては krim を用いる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1520,19 +1513,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 119,
-      "form" : "kiə̀tək"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "記得", "おぼえた", "おぼえている" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 120,
       "form" : "Nùijyoŋ"
     },
@@ -1937,19 +1917,6 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "樹木", "木" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 150,
-      "form" : "qə̀i"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "愛", "愛する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3545,7 +3512,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "漢語「白」とラテン語 “LVTHENIA” の合成から。漢語名 Brakŋa。"
+      "text" : "漢語「白」とラテン語 “LVTHENIA” の合成から。漢名 Brakŋa。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3826,7 +3793,7 @@
       "form" : "xuŋ"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "形容詞",
       "forms" : [ "紅", "赤い" ]
     } ],
     "tags" : [ ],
@@ -4533,19 +4500,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 334,
-      "form" : "trietək"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "知得", "知った", "知っている" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 335,
       "form" : "kiə̀"
     },
@@ -4564,7 +4518,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "了解", "ハッキリと知っている" ]
+      "forms" : [ "了解", "ハッキリと知る", "分かる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6424,33 +6378,30 @@
   }, {
     "entry" : {
       "id" : 484,
-      "form" : "Put"
+      "form" : "Pò"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "鈈", "プルトニウム", "Pu" ]
+      "forms" : [ "鈽", "プルトニウム", "Pu" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "本音は Pyut だが，本音同士が衝突する Fut と Put の識別のために使わない。"
+      "text" : "Pyut（鈈）を代わりに使う方言もあるが，Pyut（氟）と衝突してしまうため，標準的には使われない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
       "id" : 485,
-      "form" : "Fut"
+      "form" : "Pyut"
     },
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "氟", "フッ素", "F" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "本音は Pyut だが，本音同士が衝突する Fut と Put の識別のために使わない。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6737,6 +6688,327 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "部首" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 508,
+      "form" : "thiàŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "唱", "（歌を）歌う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 509,
+      "form" : "xryèŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "詠", "（詩を）作る", "（詩を）詠む" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 510,
+      "form" : "Nietdzieŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "熱情", "情熱", "パッション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 511,
+      "form" : "qhiə́"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "喜", "喜ぶ" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "喜", "好む", "好きである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 514,
+        "form" : "qièm"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 512,
+      "form" : "qhàu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "好", "好む", "……したがる" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "好", "よく……する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 515,
+        "form" : "qò"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 513,
+      "form" : "qə̀i"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "愛", "愛する", "好む", "好きである", "気に入る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 514,
+      "form" : "qièm"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "厭", "嫌う", "いとう", "避けたがる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 511,
+        "form" : "qhiə́"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 515,
+      "form" : "qò"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "惡", "嫌う", "憎む" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 512,
+        "form" : "qhàu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 516,
+      "form" : "xem"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "嫌", "嫌い", "嫌がる", "嫌である", "気に入らない" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "嫌", "……すぎる様である", "嫌いがある" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 517,
+      "form" : "krim"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "今", "いま", "現在" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "名詞としては Xèndzə́i を用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 518,
+      "form" : "xré"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "解", "ハッキリと知る", "分かる" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "了解", "（習得して）できる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "N1 xré V1 で「N1 は V1 （を分かっていて）できる」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 519,
+        "form" : "nəŋ"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 520,
+        "form" : "khá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 519,
+      "form" : "nəŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "能", "能力がある", "才能がある" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "能", "（能力があって）できる", "（条件が揃って）できる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 518,
+        "form" : "xré"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 520,
+        "form" : "khá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 520,
+      "form" : "khá"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "可", "よい", "ちょうどいい" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "可", "（許されて）できる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 518,
+        "form" : "xré"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 519,
+        "form" : "nəŋ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "jyok"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "欲", "欲しいと思う", "欲する" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "欲", "……したい（と思う）", "……するつもりである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 522,
+      "form" : "Qhiaŋŋio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "香魚", "アユ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 523,
+      "form" : "Nemŋio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鮎魚", "ナマズ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "Tyùŋnin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "眾人", "みんな", "みなさん", "一般群衆" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "jiek"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "亦", "……も V する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
