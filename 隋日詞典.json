@@ -3263,7 +3263,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "略称は Crekà。"
+      "text" : "略称は Tiəkà。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7009,6 +7009,84 @@
     "translations" : [ {
       "title" : "副詞",
       "forms" : [ "亦", "……も V する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 526,
+      "form" : "nioxa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "如何", "どの様に V するか", "どう V するか" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 527,
+      "form" : "kràŋ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "更", "もっと", "さらに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 528,
+      "form" : "cə̀itià"
+    },
+    "translations" : [ {
+      "title" : "連詞",
+      "forms" : [ "再者", "なお", "また", "さらに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 529,
+      "form" : "Qhyaciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "靴", "鞾", "ながぐつ", "長靴", "ブーツ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 530,
+      "form" : "Phalie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "玻璃", "ガラス", "硝子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 531,
+      "form" : "ŋrièlun"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "議論", "議論する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
