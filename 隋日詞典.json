@@ -7092,6 +7092,58 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 532,
+      "form" : "Ŋyuciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "牛子", "全般的なウシ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 533,
+      "form" : "Kraŋyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "家牛", "家畜としてのウシ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 534,
+      "form" : "Jiáŋyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "野牛", "バイソン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 535,
+      "form" : "Shýiyu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "水牛", "スイギュウ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aáàBbCcDdeéèFfGgHiïíǐìîJjKkLlMmNnŊŋoóòPpQqrSsTtuúùVvWwXxyÿýy̌ỳŷZzəə́ə̀h",
