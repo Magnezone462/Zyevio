@@ -238,11 +238,14 @@
       "form" : "Qi"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "伊", "かれ" ]
+      "title" : "名詞",
+      "forms" : [ "伊", "かれ", "三人称代名詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "一般的な三人称代名詞。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -426,7 +429,7 @@
       "form" : "Xa"
     },
     "translations" : [ {
-      "title" : "代詞",
+      "title" : "名詞",
       "forms" : [ "何", "どれ" ]
     } ],
     "tags" : [ ],
@@ -490,13 +493,22 @@
       "form" : "Ŋá"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "我", "わたし" ]
+      "title" : "名詞",
+      "forms" : [ "我", "わたし", "一人称代名詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "最も一般的な一人称代名詞。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 153,
+        "form" : "Ŋo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 40,
@@ -532,13 +544,22 @@
       "form" : "Nió"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "汝", "おまえ" ]
+      "title" : "名詞",
+      "forms" : [ "汝", "おまえ", "二人称代名詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "一般的な二人称代名詞だが，かなり尊大。目上には厳禁。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 153,
+        "form" : "Ŋo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 43,
@@ -652,7 +673,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "漢語", "中国語（注釈を見よ）" ]
+      "forms" : [ "漢語", "中国語" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -867,19 +888,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 68,
-      "form" : "Krim"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "金", "Au" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 69,
       "form" : "xakò"
     },
@@ -988,7 +996,7 @@
       "form" : "Xatə́i"
     },
     "translations" : [ {
-      "title" : "代詞",
+      "title" : "名詞",
       "forms" : [ "何等", "なに" ]
     } ],
     "tags" : [ ],
@@ -1006,22 +1014,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 79,
-      "form" : "Xèndzə́i"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "現在", "今" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用法",
-      "text" : "副詞としては krim を用いる。"
-    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1147,8 +1139,8 @@
       "form" : "Dyi"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "誰" ]
+      "title" : "名詞",
+      "forms" : [ "誰", "だれ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1186,7 +1178,7 @@
       "form" : "Xathiò"
     },
     "translations" : [ {
-      "title" : "代詞",
+      "title" : "名詞",
       "forms" : [ "何處", "どこ" ]
     } ],
     "tags" : [ ],
@@ -1209,7 +1201,7 @@
       "title" : "",
       "entry" : {
         "id" : 245,
-        "form" : "Soviet Diáxuàityóŋriè Gyòŋxuakuək Lienmrieŋ"
+        "form" : "Sojyiqəi Diáxuàityóŋriè Gyòŋxuakuək Lienmrieŋ"
       }
     } ]
   }, {
@@ -1283,7 +1275,7 @@
       "form" : "Chié"
     },
     "translations" : [ {
-      "title" : "代詞",
+      "title" : "名詞",
       "forms" : [ "此", "これ" ]
     } ],
     "tags" : [ ],
@@ -1296,8 +1288,8 @@
       "form" : "Prié"
     },
     "translations" : [ {
-      "title" : "代詞",
-      "forms" : [ "彼", "あれ" ]
+      "title" : "名詞",
+      "forms" : [ "彼", "あれ", "それ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1310,7 +1302,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "何如", "どの様であるか", "どうであるか" ]
+      "forms" : [ "何如", "どうか", "どの様であるか", "どうであるか" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1955,12 +1947,27 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "吾", "わたし" ]
+      "forms" : [ "吾", "わたし", "一人称代名詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "一般的な一人称代名詞だが，やや尊大。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 39,
+        "form" : "Ŋá"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 42,
+        "form" : "Nió"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 154,
@@ -2493,20 +2500,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "告", "（上から下へ）告げる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 194,
-      "form" : "kàu"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "告", "（下から上へ）告げる" ]
+      "forms" : [ "告", "告げる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2870,16 +2864,16 @@
   }, {
     "entry" : {
       "id" : 221,
-      "form" : "Teksì"
+      "form" : "Tekdzriə́"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "taxi", "タクシー" ]
+      "forms" : [ "的士", "タクシー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "英語 “taxi /ˈtæk.si/” と粤語「的士 /dik1.si6/」の合成から"
+      "text" : "粤語「的士 /dik1.si6/」から"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2960,13 +2954,7 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 301,
-        "form" : "Bryitànnijia"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 228,
@@ -3068,10 +3056,7 @@
       "forms" : [ "馬列主義", "マルクス・レーニン主義" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "華語「馬列主義 /Mǎ-Lièzhǔyì/」からの字訳。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3194,16 +3179,16 @@
   }, {
     "entry" : {
       "id" : 245,
-      "form" : "Soviet Diáxuàityóŋriè Gyòŋxuakuək Lienmrieŋ"
+      "form" : "Sojyiqəi Diáxuàityóŋriè Gyòŋxuakuək Lienmrieŋ"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "Soviet 社會主義共和國聯盟", "ソビエト社会主義共和国連邦" ]
+      "forms" : [ "蘇維埃社會主義共和國聯盟", "ソビエト社会主義共和国連邦" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "偉大なる万国の革命的労働者の祖国。1922〜。漢名は Solien。"
+      "text" : "偉大なる万国の革命的労働者の祖国。1922〜。通名は Solien。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3231,50 +3216,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 247,
-      "form" : "Tiəkà"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ČK", "チェーカー" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ロシア語 «ЧК /t͡ɕɪˈka/» から。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 248,
-        "form" : "Dzyenŋa Syukchieŋ Pyónkrekmrièŋ Grip Də́ikuŋ Pyuidiaŋ Qryéxryenxuài"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 248,
-      "form" : "Dzyenŋa Syukchieŋ Pyónkrekmrièŋ Grip Də́ikuŋ Pyuidiaŋ Qryéxryenxuài"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "全俄肅清反革命及怠工非常委員會", "反革命・サボタージュ取締全ロシア非常委員会" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "略称は Tiəkà。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 247,
-        "form" : "Tiəkà"
-      }
-    } ]
-  }, {
-    "entry" : {
       "id" : 249,
       "form" : "Ŋakuək"
     },
@@ -3285,13 +3226,7 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 261,
-        "form" : "Luthènijia"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 250,
@@ -3464,64 +3399,30 @@
     } ]
   }, {
     "entry" : {
-      "id" : 261,
-      "form" : "Luthènijia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "Ruthenia", "ロシア" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “RVTHENIA” より。漢名は Ŋakuək，形態素は Ŋa。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 249,
-        "form" : "Ŋakuək"
-      }
-    } ]
-  }, {
-    "entry" : {
       "id" : 262,
-      "form" : "Wuklàina"
+      "form" : "Qokhəklan"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "Ucraina", "ウクライナ" ]
+      "forms" : [ "烏克蘭", "ウクライナ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “VCRAINA” から。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
       "id" : 263,
-      "form" : "Brakluthènijia"
+      "form" : "Brakŋalasie"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "白 Ruthenia", "白ロシア", "ベラルーシ" ]
+      "forms" : [ "白俄羅斯", "白ロシア", "ベラルーシ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "漢語「白」とラテン語 “LVTHENIA” の合成から。漢名 Brakŋa。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 325,
-        "form" : "Brakŋa"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 264,
@@ -3700,7 +3601,7 @@
   }, {
     "entry" : {
       "id" : 277,
-      "form" : "Jyi"
+      "form" : "jyi"
     },
     "translations" : [ {
       "title" : "嘆詞",
@@ -4035,44 +3936,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 301,
-      "form" : "Bryitànnijia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "Britannia", "イギリス" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “BRITANNIA” から。漢名は Qrieŋkuək，形態素は Qrieŋ。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 227,
-        "form" : "Qrieŋkuək"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 302,
-      "form" : "Qamèlika"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "America", "アメリカ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “AMERICA” から。漢名は Mrýikuək（国），Mrýityu（大陸），形態素は Mrýi。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 303,
       "form" : "Xanŋió"
     },
@@ -4377,25 +4240,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 325,
-      "form" : "Brakŋa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "白俄", "白ロシア", "ベラルーシ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 263,
-        "form" : "Brakluthènijia"
-      }
-    } ]
-  }, {
-    "entry" : {
       "id" : 326,
       "form" : "pyú"
     },
@@ -4568,22 +4412,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 340,
-      "form" : "Frànkijia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "Francia", "フランス" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “FRANCIA” から。漢語名は Pyopkuək，形態素は Pyop。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 341,
       "form" : "Pyopkuək"
     },
@@ -4619,22 +4447,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 344,
-      "form" : "Gelmànijia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "Germania", "ドイツ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “GERMANIA” から。漢語名は Təkkuək，形態素は Tək。"
-    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4679,17 +4491,14 @@
   }, {
     "entry" : {
       "id" : 348,
-      "form" : "Polònijia"
+      "form" : "Palan"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "Polonia", "ポーランド" ]
+      "forms" : [ "波蘭", "ポーランド" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "ラテン語 “POLONIA” から。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6387,7 +6196,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "Pyut（鈈）を代わりに使う方言もあるが，Pyut（氟）と衝突してしまうため，標準的には使われない。"
+      "text" : "Pyut（鈈）を代わりに使う方言もあるが，Pyut（氟）と衝突してしまうため，標準的には使わない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6399,6 +6208,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "氟", "フッ素", "F" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（一部方言）鈈", "プルトニウム", "Pu" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6846,17 +6658,17 @@
   }, {
     "entry" : {
       "id" : 517,
-      "form" : "krim"
+      "form" : "Krim"
     },
     "translations" : [ {
-      "title" : "副詞",
+      "title" : "名詞",
       "forms" : [ "今", "いま", "現在" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "金", "Au" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "用法",
-      "text" : "名詞としては Xèndzə́i を用いる。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -7144,6 +6956,253 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 536,
+      "form" : "Siéuluŋprau"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "小籠包" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 537,
+      "form" : "Ŋalasie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "俄羅斯", "ロシア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 538,
+      "form" : "Nəŋliàŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "能量", "エネルギー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 539,
+      "form" : "Bok"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "僕", "しもべ", "従僕", "つかい" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "僕", "ほく", "ぼく", "謙称の一人称名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 540,
+      "form" : "Chiep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "妾", "しょう", "しもべ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "妾", "しょう", "謙称の一人称名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 541,
+      "form" : "Jio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "予", "余", "わたし", "一人称代名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "魏晋以降は古典的な文学作品にのみ使われる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 542,
+      "form" : "Jiə"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "台", "わたし", "一人称代名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "漢代にはすでに死語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 543,
+      "form" : "Drím"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "朕", "わたし", "一人称代名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "天子（皇帝）専用の一人称代名詞。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 545,
+      "form" : "prié"
+    },
+    "translations" : [ {
+      "title" : "連詞",
+      "forms" : [ "彼", "それなら" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "彼", "そう（Vする）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 546,
+      "form" : "xa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "何", "どう（Vする）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 547,
+      "form" : "chié"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "此", "こう（Vする）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 548,
+      "form" : "Doshiokuàn"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "圖書館", "図書館", "ライブラリ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 549,
+      "form" : "tiə"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "之", "（N）の（N）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 550,
+      "form" : "téi"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "底", "（Vするところ）の（N）", "（Nであるところ）の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "現代標準漢語「的」に近いが，「NのN」という用法は無い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 551,
+      "form" : "Tiə"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "之", "これ", "それ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "目的語としてもちいる。英語の “it” や “that” に相当。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 552,
+        "form" : "Giə"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 552,
+      "form" : "Giə"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "其", "それ", "これ", "その", "この" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "主語と修飾語としてもちいる。英語の “it” や “that” に相当。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 551,
+        "form" : "Tiə"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aáàBbCcDdeéèFfGgHiïíǐìîJjKkLlMmNnŊŋoóòPpQqrSsTtuúùVvWwXxyÿýy̌ỳŷZzəə́ə̀h",
