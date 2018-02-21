@@ -7,6 +7,9 @@
     "translations" : [ {
       "title" : "数詞",
       "forms" : [ "一", "1" ]
+    }, {
+      "title" : "区別詞",
+      "forms" : [ "一", "ある一つのN" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -184,7 +187,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "漢文", "（特に）古典漢語文" ]
+      "forms" : [ "漢文", "（特に）古典漢語文", "文言文" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -223,12 +226,12 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "看", "見る" ]
+      "forms" : [ "看", "見る", "読む" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "動詞フレーズの後につけると「V（して）みる」"
+      "text" : "“V + N + khàn” で「N を V してみる」となる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -349,7 +352,10 @@
       "forms" : [ "來", "来る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "近づいてくる。"
+    } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "対義語",
@@ -368,9 +374,18 @@
       "forms" : [ "去", "行く" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "元の場所から離れてOへいく。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 210,
+        "form" : "xyáŋ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 29,
@@ -422,7 +437,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 564,
+        "form" : "Ŋuài"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 34,
@@ -689,12 +710,21 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "東京" ]
+      "forms" : [ "東京", "日本国東京", "東京市", "東京府", "東京都", "東京都市圏" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "東京", "越南国東京城", "ハノイの旧称" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 558,
+        "form" : "Xanùi"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 54,
@@ -797,7 +827,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "名詞化",
+      "form" : "Brieŋkrà"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -825,7 +858,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "覺", "気がする" ]
+      "forms" : [ "覺", "気がする", "感じる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -880,7 +913,7 @@
     },
     "translations" : [ {
       "title" : "助詞",
-      "forms" : [ "矣", "……になった" ]
+      "forms" : [ "矣", "Nになった", "Vした状態になった" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1015,7 +1048,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 573,
+        "form" : "ŋian"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 80,
@@ -1076,6 +1115,9 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "想", "思う" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "想", "Vしたいと思う" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1471,7 +1513,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "豹式", "パンター" ]
+      "forms" : [ "豹式", "五号戦車パンター" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2677,7 +2719,7 @@
       "forms" : [ "從", "したがう", "言うことをきく" ]
     }, {
       "title" : "介詞",
-      "forms" : [ "從", "……から「" ]
+      "forms" : [ "從", "……から" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2732,7 +2774,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "往", "向かう" ]
+      "forms" : [ "往", "いく", "向かう" ]
     }, {
       "title" : "介詞",
       "forms" : [ "往", "……に向かって" ]
@@ -2743,7 +2785,13 @@
       "text" : "“N1 xyáŋ N2 V1”「N1 は N2 へ向かって V1 する」"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 28,
+        "form" : "khiò"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 212,
@@ -2928,7 +2976,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 593,
+        "form" : "gyù"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 226,
@@ -3226,7 +3280,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 537,
+        "form" : "Ŋalasie"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 250,
@@ -3378,16 +3438,22 @@
       "form" : "jió"
     },
     "translations" : [ {
-      "title" : "連詞",
-      "forms" : [ "與", "……と" ]
+      "title" : "動詞",
+      "forms" : [ "與", "あたえる", "あげる" ]
     }, {
       "title" : "介詞",
-      "forms" : [ "與", "……と", "……とともに", "……とは" ]
+      "forms" : [ "與", "Nへ" ]
+    }, {
+      "title" : "連詞",
+      "forms" : [ "與", "Nと" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "與", "Nと", "Nとともに", "Nとは" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "grip と比べて口語的。また，介詞用法はこちらのみ。"
+      "text" : "“grip” と比べて口語的。また，介詞用法はこちらのみ。\n介詞用法は複数あり，動詞より前に置かれる場合は「N とともに V する」などの意味となり，動詞より後ろに置かれる場合は「N1 へ N2 を送る」などの意味となる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3444,9 +3510,6 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "西", "にし" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "硒", "セレン", "Se" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3618,7 +3681,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "女人", "おんな" ]
+      "forms" : [ "女人", "女性", "おんな" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3632,9 +3695,6 @@
     "translations" : [ {
       "title" : "区別詞",
       "forms" : [ "女", "おんなの" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "釹", "ネオジム", "Nd" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4228,7 +4288,7 @@
   }, {
     "entry" : {
       "id" : 324,
-      "form" : "XrỳnmyúiXrnmyi"
+      "form" : "Xrỳnmyúi"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -4271,7 +4331,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "開", "開く", "開ける", "（花が）咲く" ]
+      "forms" : [ "開", "開く", "開ける", "（花が）咲く", "開き分ける", "点ける" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4323,7 +4383,7 @@
     },
     "translations" : [ {
       "title" : "介詞",
-      "forms" : [ "於", "……に", "……へ" ]
+      "forms" : [ "於", "Nで", "Nにて", "Nに", "Nへ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4354,7 +4414,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 569,
+        "form" : "myàŋ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 336,
@@ -4795,350 +4861,12 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 372,
-      "form" : "Khieŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氫", "水素", "H" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 373,
-      "form" : "Xə́i"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氦", "ヘリウム", "He" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 374,
-      "form" : "Liə́"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋰", "リチウム", "Li" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 375,
-      "form" : "Phrie"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈹", "ベリリウム", "Be" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 376,
-      "form" : "Bəŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "硼", "ホウ素", "B" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 377,
-      "form" : "Thàn"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "碳", "炭素", "C" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 378,
-      "form" : "Dám"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氮", "窒素", "N" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 379,
-      "form" : "Jiáŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氧", "酸素", "O" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 381,
-      "form" : "Nə́i"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氖", "ネオン", "Ne" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 382,
-      "form" : "Nəp"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈉", "ナトリウム", "Na" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 383,
-      "form" : "Mrýi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎂", "マグネシウム", "Mg" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 384,
-      "form" : "Lió"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋁", "アルミニウム", "Al" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 385,
-      "form" : "Kuei"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "硅", "ケイ素", "Si" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 386,
-      "form" : "Lin"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "磷", "リン", "P" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 387,
-      "form" : "Lyu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "硫", "硫黄", "S" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 388,
-      "form" : "Lyok"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氯", "塩素", "Cl" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 389,
-      "form" : "Qrà"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氬", "アルゴン", "Ar" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 390,
-      "form" : "Krap"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉀", "カリウム", "K" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 391,
-      "form" : "Kài"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈣", "カルシウム", "Ca" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 392,
-      "form" : "Khàŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈧", "スカンジウム", "Sc" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 393,
-      "form" : "Thài"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈦", "チタン", "Ti" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 394,
-      "form" : "Byom"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釩", "バナジウム", "V" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 395,
-      "form" : "Kak"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉻", "クロム", "Cr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 396,
-      "form" : "Mráŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "錳", "マンガン", "Mn" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 397,
       "form" : "Thet"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "鐵", "鉄", "Fe" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 398,
-      "form" : "Kó"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈷", "コバルト", "Co" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 399,
-      "form" : "Ŋet"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎳", "ニッケル", "Ni" ]
+      "forms" : [ "鐵", "鉄", "くろがね" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5151,215 +4879,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "銅", "Cu" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 401,
-      "form" : "Sin"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋅", "亜鉛", "Zn" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 402,
-      "form" : "Kra"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎵", "ガリウム", "Ga" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 403,
-      "form" : "Tiá"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍺", "ゲルマニウム", "Ge" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 404,
-      "form" : "Shin"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "砷", "ヒ素", "As" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 406,
-      "form" : "Qhyù"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "溴", "臭素", "Br" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 407,
-      "form" : "Khək"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氪", "クリプトン", "Kr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 408,
-      "form" : "Nio"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銣", "ルビジウム", "Rb" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 409,
-      "form" : "Siə"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍶", "ストロンチウム", "Sr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 410,
-      "form" : "Qrit"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釔", "イットリウム", "Y" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 411,
-      "form" : "Kàu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋯", "ジルコニウム", "Zr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 412,
-      "form" : "Nri"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈮", "ニオブ", "Nb" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 413,
-      "form" : "Myuk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉬", "モリブデン", "Mo" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 414,
-      "form" : "Tək"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍀", "テクネチウム", "Tc" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 415,
-      "form" : "Léu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釕", "ルテニウム", "Ru" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 416,
-      "form" : "Láu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銠", "ロジウム", "Rh" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 417,
-      "form" : "Prá"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈀", "パラジウム", "Pd" ]
+      "forms" : [ "銅", "あかがね" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5372,33 +4892,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "銀", "Ag" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 419,
-      "form" : "Krek"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎘", "カドミウム", "Cd" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 420,
-      "form" : "Qin"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銦", "インジウム", "In" ]
+      "forms" : [ "銀", "しろがね" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5411,806 +4905,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "錫", "スズ", "Sn" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 422,
-      "form" : "Thei"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銻", "アンチモン", "Sb" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 423,
-      "form" : "Tèi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "碲", "テルル", "Te" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 424,
-      "form" : "Tén"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "碘", "ヨウ素", "I" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 425,
-      "form" : "Sien"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氙", "キセノン", "Xe" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 426,
-      "form" : "Sriək"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銫", "セシウム", "Cs" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 427,
-      "form" : "Pài"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋇", "バリウム", "Ba" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 428,
-      "form" : "Lan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鑭", "ランタン", "La" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 429,
-      "form" : "Diə́"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈰", "セリウム", "Ce" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 430,
-      "form" : "Phó"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐠", "プラセオジム", "Pr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 432,
-      "form" : "Phá"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉕", "プロメチウム", "Pm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 433,
-      "form" : "Sram"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釤", "サマリウム", "Sm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 434,
-      "form" : "Xyú"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銪", "ユウロピウム", "Eu" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 435,
-      "form" : "Kret"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釓", "ガドリニウム", "Gd" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 436,
-      "form" : "Thək"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋱", "テルビウム", "Tb" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 437,
-      "form" : "Tek"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鏑", "ジスプロシウム", "Dy" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 438,
-      "form" : "Qhuá"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈥", "ホルミウム", "Ho" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 439,
-      "form" : "Niə́"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉺", "エルビウム", "Er" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 440,
-      "form" : "Tïu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銩", "ツリウム", "Tm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 441,
-      "form" : "Qiə̀"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐿", "イッテルビウム", "Yb" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 442,
-      "form" : "Ló"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鑥", "ルテチウム", "Lu" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 443,
-      "form" : "Qhəp"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉿", "ハフニウム", "Hf" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 444,
-      "form" : "Thán"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉭", "タンタル", "Ta" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 445,
-      "form" : "Qo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎢", "タングステン", "W" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 446,
-      "form" : "Ləi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "錸", "レニウム", "Re" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 447,
-      "form" : "Ŋa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋨", "オスミウム", "Os" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 448,
-      "form" : "Qiəi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "銥", "イリジウム", "Ir" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 449,
-      "form" : "Bak"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉑", "白金", "Pt" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 451,
-      "form" : "Xúŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "汞", "水銀", "Hg" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 452,
-      "form" : "Tha"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉈", "タリウム", "Tl" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 453,
-      "form" : "Jyen"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉛", "Pb" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 454,
-      "form" : "Pit"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鉍", "ビスマス", "Bi" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 455,
-      "form" : "Puk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釙", "ポロニウム", "Po" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 456,
-      "form" : "Ŋài"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "砹", "アスタチン", "At" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 457,
-      "form" : "Toŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氡", "ラドン", "Rn" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 458,
-      "form" : "Pyaŋ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈁", "フランシウム", "Fr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 459,
-      "form" : "Lui"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐳", "ラジウム", "Ra" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 460,
-      "form" : "Qa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "錒", "アクチニウム", "Ac" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 461,
-      "form" : "Thó"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "釷", "トリウム", "Th" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 462,
-      "form" : "Buk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鏷", "プロトアクチニウム", "Pa" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 463,
-      "form" : "Jyu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈾", "ウラン", "U" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 464,
-      "form" : "Nra"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎿", "ネプツニウム", "Np" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 466,
-      "form" : "Mryi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎇", "アメリシウム", "Am" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 467,
-      "form" : "Gyok"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鋦", "キュリウム", "Cm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 468,
-      "form" : "Bui"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "錇", "バークリウム", "Bk" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 469,
-      "form" : "Khəi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐦", "カリホルニウム", "Cf" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 470,
-      "form" : "Qəi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎄", "アインスタイニウム", "Es" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 471,
-      "form" : "Phyùi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐨", "フェルミウム", "Fm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 472,
-      "form" : "Mun"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍆", "メンデレビウム", "Md" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 473,
-      "form" : "Nak"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍩", "ノーベリウム", "No" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 474,
-      "form" : "Lau"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐒", "ローレンシウム", "Lr" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 475,
-      "form" : "Lo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鑪", "ラザホージウム", "Rf" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 476,
-      "form" : "Dó"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "\uD862\uDDC0", "ドブニウム", "Db" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 477,
-      "form" : "Qhiə́"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "\uD862\uDF4E", "シーボーギウム", "Sg" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 478,
-      "form" : "Pa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "\uD862\uDE0F", "ボーリウム", "Bh" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 479,
-      "form" : "Qhək"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "\uD862\uDF46", "ハッシウム", "Hs" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 480,
-      "form" : "Mrek"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "䥑", "マイトネリウム", "Mt" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 481,
-      "form" : "Dat"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鐽", "ダームスタチウム", "Ds" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 482,
-      "form" : "Lun"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "錀", "レントゲニウム", "Rg" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 483,
-      "form" : "Ka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鎶", "コペルニシウム", "Cn" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 484,
-      "form" : "Pò"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鈽", "プルトニウム", "Pu" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "注釈",
-      "text" : "Pyut（鈈）を代わりに使う方言もあるが，Pyut（氟）と衝突してしまうため，標準的には使わない。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 485,
-      "form" : "Pyut"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "氟", "フッ素", "F" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "（一部方言）鈈", "プルトニウム", "Pu" ]
+      "forms" : [ "錫", "スズ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6665,7 +5360,7 @@
       "forms" : [ "今", "いま", "現在" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "金", "Au" ]
+      "forms" : [ "金", "こがね", "金属類" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6946,7 +5641,7 @@
   }, {
     "entry" : {
       "id" : 535,
-      "form" : "Shýiyu"
+      "form" : "Shýiŋyu"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -6981,7 +5676,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 249,
+        "form" : "Ŋakuək"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 538,
@@ -7203,12 +5904,741 @@
         "form" : "Tiə"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 553,
+      "form" : "Xrokxràu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "學校", "学校" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 554,
+      "form" : "Thàiméiniéŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "泰米爾語", "タミル語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 555,
+      "form" : "Palanŋió"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "波蘭語", "ポーランド語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 556,
+      "form" : "téŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "打", "叩く", "打つ", "戦う", "発する", "放つ", "活動する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 557,
+      "form" : "xrye"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "爲", "する", "なす", "みなす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 558,
+      "form" : "Xanùi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "河內", "越南国ハノイ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 53,
+        "form" : "Tuŋkrieŋ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 559,
+      "form" : "Byonnáu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "煩惱", "煩悩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 560,
+      "form" : "xui"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "回", "帰る", "戻る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 561,
+      "form" : "jièu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "要", "欲しい", "要る", "ねだる" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "要", "Vしたいと思う", "Vすることを要求する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "相手に対する要求の意が強いので，単に「欲しい」というときは “siáŋ jièu” の様にする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 562,
+      "form" : "Náuciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "腦子", "脳", "思考や智能の主体としての頭" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 563,
+      "form" : "Liə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "裏", "なか", "内側" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 564,
+        "form" : "Ŋuài"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 564,
+      "form" : "Ŋuài"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "外", "そと", "外側" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 33,
+        "form" : "Tryuŋ"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 563,
+        "form" : "Liə́"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 565,
+      "form" : "jieugyu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "要求", "要求する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "名詞化",
+      "form" : "Jieugyu"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 566,
+      "form" : "shit"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "失", "なくす", "失う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 567,
+      "form" : "dzə́i"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "在", "いる", "ある" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "在", "Vしている" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "在", "Nにて", "Nにいて", "Nで" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "動詞は，“N + dzə́i + L” で「N は L にある」の様に使う。\n助詞は，“V + N + dzə́i” で「N を V している」の様に使う。\n介詞は，“dzə́i + L + V + N” で「L にて N を V する」の様に使う。“qio” より「その場にいて」という意味が強い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 568,
+      "form" : "dzəi"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "才", "ついさっき" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 569,
+      "form" : "myàŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "忘", "忘れる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 335,
+        "form" : "kiə̀"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 570,
+      "form" : "tièŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "正", "正しい", "まっすぐ", "純正である", "ちょうど" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "正", "正す", "正しくする" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "正", "ちょうどVしている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 571,
+      "form" : "ciaŋ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "將", "Vしようとする", "もうすぐ", "きっと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 572,
+      "form" : "Nəmciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "男子", "男性", "おとこ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 573,
+      "form" : "ŋian"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "言", "言う", "話す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "“shyet” と比べると改まった言いかた。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 78,
+        "form" : "shyet"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 574,
+      "form" : "Nin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人", "ひと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 575,
+      "form" : "tàu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "到", "つく", "到着する", "至る" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "到", "Nへ", "Nに", "Nまで" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 576,
+      "form" : "Qhióta"
+    },
+    "translations" : [ {
+      "title" : "区別詞",
+      "forms" : [ "許多", "あまた", "たくさん", "多くの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 577,
+      "form" : "Diəkuaŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "時光", "とき", "時間", "年月" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 578,
+      "form" : "Chì"
+    },
+    "translations" : [ {
+      "title" : "量詞",
+      "forms" : [ "次", "回数", "次", "回", "遍" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 579,
+      "form" : "Xrá"
+    },
+    "translations" : [ {
+      "title" : "量詞",
+      "forms" : [ "下", "回数", "回", "次", "遍" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "ちょっとした，短い動作の回数。“V + Qitxrá” で「ちょっとVしてみる」の意味になる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 580,
+      "form" : "dài"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "大", "大きい", "広い", "強い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 581,
+      "form" : "kuáŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "廣", "広い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 582,
+      "form" : "zhiək"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "食", "食べる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 583,
+      "form" : "xasrió"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "何所", "どこで" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 584,
+      "form" : "Shyú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "手", "て" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 585,
+      "form" : "dí"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "視", "見る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 586,
+      "form" : "cak"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "作", "つくる", "する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 587,
+      "form" : "xəp"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "合", "合わせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "複数の物を合わせて一つの物にする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 588,
+      "form" : "Kra"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "家", "いえ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 589,
+      "form" : "kra"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "加", "くわえる", "たす" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "家", "家する", "住む" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 590,
+      "form" : "Diekciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "石子", "いし", "石" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 591,
+      "form" : "Mieŋdziə̀"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "名字", "なまえ", "名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "人名の場合，「名」または「姓＋名」。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 592,
+      "form" : "pyun"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "分", "わける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "gyù"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "舊", "古い", "以前からの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 225,
+        "form" : "sin"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 594,
+        "form" : "kó"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 594,
+      "form" : "kó"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "古", "昔の", "古い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 593,
+        "form" : "gyù"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 595,
+      "form" : "Nrióciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "女子", "女性", "おんな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 596,
+      "form" : "kə́m"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "感", "感じる", "感動する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 597,
+      "form" : "duŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "同", "おなじ" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "同", "同じく", "一緒に" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "同", "Nと同じくして", "Nと一緒に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 598,
+      "form" : "jyòŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "用", "つかう" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "用", "Nをつかって", "Nで" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 599,
+      "form" : "Khúŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "孔", "あな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 600,
+      "form" : "kruan"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "關", "しめる", "とざす", "消す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aáàBbCcDdeéèFfGgHiïíǐìîJjKkLlMmNnŊŋoóòPpQqrSsTtuúùVvWwXxyÿýy̌ỳŷZzəə́ə̀h",
     "alphabetOrderType" : "CUSTOM",
     "punctuations" : [ ",", "，" ],
-    "pronunciationTitle" : null,
+    "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
     "defaultWord" : {
