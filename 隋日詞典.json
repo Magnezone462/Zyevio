@@ -393,7 +393,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "日", "太陽" ]
+      "forms" : [ "日", "太陽", "ひ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -451,7 +451,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "何", "どれ" ]
+      "forms" : [ "何", "どれ", "どの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "河", "かわ", "川" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1994,7 +1997,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "注釈",
-      "text" : "一般的な一人称代名詞だが，やや尊大。"
+      "text" : "一般的な一人称代名詞だが，尊大。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2679,10 +2682,16 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "“N1 sriə́ (N2) V1”「N1 が（N2 に）V1 させる」\n使役用法。"
+      "text" : "“N1 sriə́ (N2) V1”「N1 が（N2 に）V1 させる」\n使役用法。kràu より文語的。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 644,
+        "form" : "kràu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 204,
@@ -3387,6 +3396,9 @@
       "form" : "prá"
     },
     "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "把", "（棒状のものを握って）持つ" ]
+    }, {
       "title" : "介詞",
       "forms" : [ "把", "……させる" ]
     } ],
@@ -6412,9 +6424,18 @@
       "forms" : [ "作", "つくる", "する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "現代語に従い，抽象的な動作に，また形態素として用いる。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 645,
+        "form" : "cò"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 587,
@@ -6628,14 +6649,652 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "關", "しめる", "とざす", "消す" ]
+    }, {
+      "title" : "介詞",
+      "forms" : [ "關", "(qio を伴って)Nについて" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 601,
+      "form" : "jyu"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "遊", "遊覧する", "行楽する", "泳ぐ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 602,
+      "form" : "Qhə́i"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "海", "うみ", "大きな湖" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 603,
+      "form" : "Xathyen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "河川", "かわ", "川" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 604,
+      "form" : "Xo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "湖", "みずうみ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 605,
+        "form" : "Xobak"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 605,
+      "form" : "Xobak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "湖泊", "みずうみ", "湖" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 604,
+        "form" : "Xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 606,
+      "form" : "Jiem"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鹽", "しお", "塩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 607,
+      "form" : "Pyuŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "風", "かぜ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 608,
+      "form" : "Nen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "年", "とし" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 609,
+      "form" : "Pryəŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "冰", "こおり", "氷" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 610,
+      "form" : "Xyú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "右", "みぎ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 611,
+      "form" : "Cá"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "左", "ひだり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 612,
+      "form" : "Khú"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "口", "くち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 613,
+      "form" : "xuaŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "黃", "きいろい", "黄色い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 615,
+      "form" : "tə́ŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "等", "ひとしい", "おなじ" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "等", "など" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "⟨等⟩ 字は，《切韻》以下の韻書においては tə́i と tə́ŋ の 2 音が収録されており，釈文においては特に違いが見られない。\nただし，《原本玉篇》系の《篆隷万象名義》においては tə́i のみが収録され，また結構助詞 téi の本字ともされること，声符の反映としてもより自然なことなどから，こちらのが「古来」のものである可能性がある。\nしかしながら，《宋本玉篇》においては tə́ŋ が第一音として追加され，また現代音では全方言において tə́ŋ 由来音が反映され，tə́i を以って字音となすものは無い。\nよって，本辞典においては ⟨等⟩ の tə́ŋ を基本とし，一部の慣習的な詞語に限って tə́i を用いることとするが，これはこれに反するものを非とするものではない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 643,
+        "form" : "tə́i"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 616,
+      "form" : "Liək"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "力", "ちから" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 617,
+      "form" : "Liəkliàŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "力量", "ちから", "フォース" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 618,
+      "form" : "sì"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "死", "死ぬ", "致命的自動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 619,
+      "form" : "sryó"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "數", "かぞえる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 620,
+        "form" : "Sryò"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 620,
+      "form" : "Sryò"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "數", "かず" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 619,
+        "form" : "sryó"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 621,
+      "form" : "Kuáciə́"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "果子", "くだもの", "フルーツ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 622,
+      "form" : "Qrim"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "音", "おと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 623,
+      "form" : "nra"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "拿", "もつ", "持つ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 624,
+      "form" : "Ŋio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "魚", "さかな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 625,
+      "form" : "Jyòŋxó"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "用戸", "（コンピュータ等の）ユーザ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 626,
+      "form" : "Kódə̀i"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "古代" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 627,
+      "form" : "Qiə̀siə"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "意思", "意味" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 628,
+      "form" : "Sièn"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "綫", "線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 629,
+      "form" : "jiètúŋ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "易懂", "わかりやすい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 630,
+      "form" : "shyetmrieŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "說明", "説明する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 631,
+      "form" : "Sòŋ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "宋", "宋朝", "宋代" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 632,
+      "form" : "nìmjyòŋ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "任用", "登用する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 633,
+      "form" : "duk"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "讀", "読む" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 634,
+      "form" : "təp"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "答", "答える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 635,
+      "form" : "Qiə̀pyún"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "意粉", "スパゲッティ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 636,
+      "form" : "Nəpdù"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "納豆" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 637,
+      "form" : "Khroŋkiəkŋio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "腔棘魚", "シーラカンス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 638,
+      "form" : "Xalankún"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "荷蘭滾", "ダッチロール" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 639,
+      "form" : "Xalan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "荷蘭", "オランダ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 640,
+      "form" : "Du"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "頭", "あたま" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 641,
+      "form" : "Qhə́itám"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "海膽", "うに", "ウニ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 642,
+      "form" : "Qiəibyuk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "衣服", "ころも", "服" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 643,
+      "form" : "tə́i"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "等", "人物複数形", "ら", "たち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "注釈",
+      "text" : "tə́ŋ を参照のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 615,
+        "form" : "tə́ŋ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 644,
+      "form" : "kràu"
+    },
+    "translations" : [ {
+      "title" : "介詞",
+      "forms" : [ "敎", "教", "……させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "“N1 kràu (N2) V1”「N1 が（N2 に）V1 させる」\n使役用法。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 203,
+        "form" : "sriə́"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 645,
+      "form" : "cò"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "作", "つくる", "する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "現代語に従い，具体的な動作に用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 586,
+        "form" : "cak"
+      }
+    } ]
   } ],
   "zpdic" : {
-    "alphabetOrder" : "aáàBbCcDdeéèFfGgHiïíǐìîJjKkLlMmNnŊŋoóòPpQqrSsTtuúùVvWwXxyÿýy̌ỳŷZzəə́ə̀h",
+    "alphabetOrder" : "aáàBbCcDdeéèəə́ə̀FfGgHiïíǐìîJjKkLlMmNnŊŋoóòPpQqrSsTtuúùVvWwXxyÿýy̌ỳŷZzh",
     "alphabetOrderType" : "CUSTOM",
     "punctuations" : [ ",", "，" ],
     "pronunciationTitle" : "発音",
