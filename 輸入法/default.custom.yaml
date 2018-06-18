@@ -6,4 +6,6 @@
 
 patch:
   schema_list:
-    - schema: zyepheng
+  - schema: zyepheng
+  - schema: luna_pinyin
+  - schema: cangjie5

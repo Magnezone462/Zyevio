@@ -4,9 +4,9 @@
 schema:
   schema_id: zyepheng
   name: 隋語拼音
-  version: “2016.05.01”
+  version: “2018.06.18”
   author:
-    - 磁界 <@Zyengrio.twitter.com>
+    - 磁界 <@Magnezone462.twitter.com>
 
   description: |
   dependencies:
@@ -57,21 +57,30 @@ speller:
     - abbrev/^([bcdgjklmnŋpqstxz]).+$/$1/
     - abbrev/^([ptkcszq]h).+$/$1/
     - abbrev/^([d]z).+$/$1
-    - derive/g([aeouə])/x$1/
-    - derive/gr([aeouə])/xr$1/
-    - derive/dî/di/
-    - derive/dî/dih/
-    - derive/dî/dee/
-    - derive/dî/deeh/
-    - derive/dz/zz/
-    - derive/ji/j/
-    - derive/ei/e/
-    - derive/shi/sh/
-    - derive/zhi/zh/
-    - derive/iəŋ/iv/
-    - derive/iək/ik/
-    - derive/u/ou/
-    - derive/r([iy])/$1/
+#    - derive/dî/di/
+#    - derive/dî/dih/
+    - derive/dî/dii/
+    - derive/dî/diih/
+#    - derive/ji/j/
+#    - derive/ei/e/
+#    - derive/shi/sh/
+#    - derive/zhi/zh/
+#    - derive/iəŋ/iv/
+#    - derive/iək/ik/
+#    - derive/u/ou/
+    - derive/([aeiouy])([mniu])1/$1r$2/
+    - derive/([aeiouy])([mniu])2/$1f$2/
+    - derive/([aeiouy])([mniu])3/$1h$2/
+    - derive/([aeiouy])ŋ1/$1rv/
+    - derive/([aeiouy])ŋ2/$1fv/
+    - derive/([aeiouy])ŋ3/$1hv/
+    - derive/ə([mniu])1/wr$2/
+    - derive/ə([mniu])2/wf$2/
+    - derive/ə([mniu])3/wh$2/
+    - derive/əŋ1/wrv/
+    - derive/əŋ2/wfv/
+    - derive/əŋ3/whv/
+#    - derive/r([iy])/$1/
     - derive/^([a-z]+)[1-3]$/$1/
     - xlit 123 rfh
     - derive/([ptk])4/$1/
@@ -79,10 +88,9 @@ speller:
 
 translator:
   dictionary: zyepheng
-  spelling_hints: 14
+  spelling_hints: 8
   preedit_format:
     - xform dii dî
-    - xform dee dî
     - xform v ŋ
     - xform w ə
     - xform ([aeoə])([iu])([rfh]) $1$3$2
