@@ -4,7 +4,7 @@
 schema:
   schema_id: zyepheng
   name: 隋語拼音
-  version: “2018.06.18”
+  version: “2018.06.21”
   author:
     - 磁界 <@Magnezone462.twitter.com>
 
@@ -74,9 +74,9 @@ speller:
     - derive/([aeiouy])ŋ1/$1rv/
     - derive/([aeiouy])ŋ2/$1fv/
     - derive/([aeiouy])ŋ3/$1hv/
-    - derive/ə([mniu])1/wr$2/
-    - derive/ə([mniu])2/wf$2/
-    - derive/ə([mniu])3/wh$2/
+    - derive/ə([mniu])1/wr$1/
+    - derive/ə([mniu])2/wf$1/
+    - derive/ə([mniu])3/wh$1/
     - derive/əŋ1/wrv/
     - derive/əŋ2/wfv/
     - derive/əŋ3/whv/

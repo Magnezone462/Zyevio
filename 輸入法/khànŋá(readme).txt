@@ -12,11 +12,11 @@ Download “Rime IME” from http://rime.im. Install it, then copy three .yaml f
 
 ２　How to start　使用開始方法
 
-Enter Ctrl + ` to choose the imput method. Enter Ctrl + Shift + ` to deploy the data if it is the first time or after an update.
+Enter Ctrl + ` to choose the imput method. Enter Ctrl + Alt + ` to deploy the data if it is the first time or after an update.
 
-「Ctrl + `」で入力方式を選択し，「Ctrl + Shift + `」でデータを更新します（初回および更新時のみ）。ただし，日本語キーボードに於いては「`」キーそのものの入力にシフトキーが必須（Shift + @）なため，そのままでは入力方式を選択することができません。
-Windows と Linux では F4 キーで「Ctrl + `」の代わりをすることが可能です。
-Mac の場合は何故かこれに対応していないので，Karabiner 等をつかい任意のキーを以って US キーボードの「grave accent and tilde」キーを代替せしむれば解決します。
+「Ctrl + `」または「F4」で入力方式を選択し，「Ctrl + Alt + `」でデータを更新します（初回および更新時のみ）。ただし，日本語キーボードの場合，うまくいかないことがあります。
+Windows の場合，「`」が半角全角キーに対応していることがあります。不思議ですね。
+Mac の場合，なぜか「Ctrl + `」がうまくいきませんが，Karabiner 等をつかい任意のキーを以って US キーボードの「grave accent and tilde」キーを代替せしめた上で「それ + Ctrl」で解決します。
 
 
 ３　How to input　入力法　
@@ -45,6 +45,7 @@ tavx→シフトキー＋スペースキー→táŋ
 
 ４　履歴
 
+2018.06.21　加油。
 2018.06.18　加機能。
 2017.02.02　改訂修正。
 2016.12.17　微修正。
