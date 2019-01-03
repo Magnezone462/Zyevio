@@ -4,9 +4,9 @@
 schema:
   schema_id: zyepheng
   name: 隋語拼音
-  version: “2018.06.21”
+  version: “2019.01.01”
   author:
-    - 磁界 <@Magnezone462.twitter.com>
+    - 綠靄跟 <@Magnezone462.twitter.com>
 
   description: |
   dependencies:
@@ -48,7 +48,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: əzyxwvutsrqpoŋnmlkjihgfedcba^
+  alphabet: əzyxwvutsrqpoŋnmlkjihgfedcba^ʼ
   initials: zxvtsqpŋnmlkjgdcb
   delimiter: " '"
   algebra:
@@ -57,10 +57,10 @@ speller:
     - abbrev/^([bcdgjklmnŋpqstxz]).+$/$1/
     - abbrev/^([ptkcszq]h).+$/$1/
     - abbrev/^([d]z).+$/$1
-#    - derive/dî/di/
-#    - derive/dî/dih/
-    - derive/dî/dii/
-    - derive/dî/diih/
+#    - derive/dʼî/di/
+#    - derive/dʼî/dih/
+    - derive/dʼî/dii/
+    - derive/dʼî/diih/
 #    - derive/ji/j/
 #    - derive/ei/e/
 #    - derive/shi/sh/
@@ -90,7 +90,7 @@ translator:
   dictionary: zyepheng
   spelling_hints: 8
   preedit_format:
-    - xform dii dî
+    - xform dii dʼî
     - xform v ŋ
     - xform w ə
     - xform ([aeoə])([iu])([rfh]) $1$3$2
@@ -100,25 +100,25 @@ translator:
     - xform ([aeiouyə])ŋ([rfh]) $1$2ŋ
     - xform ar a
     - xform af á
-    - xform ah à
+    - xform ah â
     - xform er e
     - xform ef é
-    - xform eh è
+    - xform eh ê
     - xform or o
     - xform of ó
-    - xform oh ò
+    - xform oh ô
     - xform yr y
     - xform yf ý
-    - xform yh ỳ
+    - xform yh ŷ
     - xform ər ə
     - xform əf ə́
-    - xform əh ə̀
+    - xform əh ə̂
     - xform ir i
     - xform if í
-    - xform ih ì
+    - xform ih î
     - xform ur u
     - xform uf ú
-    - xform uh ù
+    - xform uh û
   comment_format:
     - xform ([aeoə])([iu])([123]) $1$3$2
     - xform ([uy])([i])([123]) $1$3$2
@@ -127,25 +127,25 @@ translator:
     - xform ([aeiouyə])ŋ([123]) $1$2ŋ
     - xform a1 a
     - xform a2 á
-    - xform a3 à
+    - xform a3 â
     - xform e1 e
     - xform e2 é
-    - xform e3 è
+    - xform e3 ê
     - xform o1 o
     - xform o2 ó
-    - xform o3 ò
+    - xform o3 ô
     - xform y1 y
     - xform y2 ý
-    - xform y3 ỳ
+    - xform y3 ŷ
     - xform ə1 ə
     - xform ə2 ə́
-    - xform ə3 ə̀
+    - xform ə3 ə̂
     - xform i1 i
     - xform i2 í
-    - xform i3 ì
+    - xform i3 î
     - xform u1 u
     - xform u2 ú
-    - xform u3 ù
+    - xform u3 û
     - xform ([ptk])4 $1
 
 reverse_lookup:
@@ -165,25 +165,25 @@ reverse_lookup:
     - xform ([aeiouyə])ŋ([123]) $1$2ŋ
     - xform a1 a
     - xform a2 á
-    - xform a3 à
+    - xform a3 â
     - xform e1 e
     - xform e2 é
-    - xform e3 è
+    - xform e3 ê
     - xform o1 o
     - xform o2 ó
-    - xform o3 ò
+    - xform o3 ô
     - xform y1 y
     - xform y2 ý
-    - xform y3 ỳ
+    - xform y3 ŷ
     - xform ə1 ə
     - xform ə2 ə́
-    - xform ə3 ə̀
+    - xform ə3 ə̂
     - xform i1 i
     - xform i2 í
-    - xform i3 ì
+    - xform i3 î
     - xform u1 u
     - xform u2 ú
-    - xform u3 ù
+    - xform u3 û
     - xform ([ptk])4 $1
 
 punctuator:
