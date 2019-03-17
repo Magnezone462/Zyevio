@@ -10,7 +10,7 @@ qhə́i xrem xa dâm lin dziem xyó ziaŋ
 lyoŋ sri qhuá têi téu kuan nin xuaŋ
 shiə́ tiêi myun dziə̂ nə́i byuk qiəi diaŋ
 thui xrŷi niâŋ kuək xyú ŋyo dau daŋ
-têu min byot dzúi tyu pyot shiaŋ thaŋ
+têu min byot dzúi tyu pyot qiən thaŋ
 dzuá drieu myûn dáu dye kyóŋ bien tiaŋ
 qə̂i jyuk lei shyú di nbyuk nyuŋ khiaŋ
 xra nié qit théi sryt pin kyui xyaŋ
@@ -18,7 +18,7 @@ mrie ŋbyûŋ dzə́i dyô brak kyo zhiək driaŋ
 qhruâ brié cháu muk lâi grip myôn pyaŋ
 kâi chié shin pyot sî dâi ŋó diaŋ
 kyoŋ jyi kyuk jiáŋ khiə́i kám qhryé shiaŋ
-nrió mô trieŋ liet nəm xrâu dzəi liaŋ
+nrió mô trieŋ ket nəm xrâu dzəi liaŋ
 trie kuâ pit kə́i tək nəŋ mak myaŋ
 myáŋ dam prié tuán mrié diə́ kiə́ driaŋ
 sîn sriə́ khá phyuk khrî jyok nan liaŋ
@@ -137,7 +137,7 @@ xyûi ŋió dzriô tiá qrien cəi xo jiá
 龙 师 火 帝 鸟 官 人 皇
 始 制 文 字 乃 服 衣 裳
 推 位 让 国 有 虞 陶 唐
-弔 民 伐 罪 周 发 商 汤
+弔 民 伐 罪 周 发 殷 汤
 坐 朝 问 道 垂 拱 平 章
 爱 育 黎 首 臣 伏 戎 羌
 遐 迩 壹 体 率 宾 归 王
@@ -145,11 +145,11 @@ xyûi ŋió dzriô tiá qrien cəi xo jiá
 化 被 草 木 赖 及 万 方
 盖 此 身 发 四 大 五 常
 恭 惟 鞠 养 岂 敢 毁 伤
-女 慕 贞 烈 男 效 才 良
+女 慕 贞 洁 男 效 才 良
 知 过 必 改 得 能 莫 忘
 罔 谈 彼 短 靡 恃 己 长
 信 使 可 复 器 欲 难 量
-墨 悲 丝 染 诗 讃 羔 羊
+墨 悲 丝 染 诗 赞 羔 羊
 景 行 维 贤 克 念 作 圣
 德 建 名 立 形 端 表 正
 空 谷 传 声 虚 堂 习 听
@@ -229,7 +229,7 @@ xyûi ŋió dzriô tiá qrien cəi xo jiá
 饱 饫 烹 宰 饥 厌 糟 糠
 亲 戚 故 旧 老 少 异 粮
 妾 御 绩 纺 侍 巾 帷 房
-纨 扇 圆 絜 银 烛 炜 煌
+纨 扇 圆 洁 银 烛 炜 煌
 昼 眠 夕 寐 蓝 笋 象 床
 弦 歌 酒 讌 接 杯 举 觞
 矫 手 顿 足 悦 豫 且 康
@@ -264,7 +264,7 @@ xyûi ŋió dzriô tiá qrien cəi xo jiá
 龍 師 火 帝 鳥 官 人 皇
 始 制 文 字 乃 服 衣 裳
 推 位 讓 國 有 虞 陶 唐
-弔 民 伐 罪 周 發 商 湯
+弔 民 伐 罪 周 發 殷 湯
 坐 朝 問 道 垂 拱 平 章
 愛 育 黎 首 臣 伏 戎 羌
 遐 邇 壹 體 率 賓 歸 王
@@ -272,7 +272,7 @@ xyûi ŋió dzriô tiá qrien cəi xo jiá
 化 被 草 木 賴 及 萬 方
 蓋 此 身 髮 四 大 五 常
 恭 惟 鞠 養 豈 敢 毀 傷
-女 慕 貞 烈 男 效 才 良
+女 慕 貞 絜 男 效 才 良
 知 過 必 改 得 能 莫 忘
 罔 談 彼 短 靡 恃 己 長
 信 使 可 覆 器 欲 難 量
@@ -356,7 +356,7 @@ xyûi ŋió dzriô tiá qrien cəi xo jiá
 飽 飫 烹 宰 飢 厭 糟 糠
 親 戚 故 舊 老 少 異 糧
 妾 御 績 紡 侍 巾 帷 房
-紈 扇 圓 絜 銀 燭 煒 煌
+紈 扇 圓 潔 銀 燭 煒 煌
 晝 眠 夕 寐 藍 筍 象 床
 弦 歌 酒 讌 接 杯 舉 觴
 矯 手 頓 足 悅 豫 且 康
