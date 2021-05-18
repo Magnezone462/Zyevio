@@ -1,8 +1,8 @@
 １　How to install　インストール方法　
 
-Download “Rime IME” from http://rime.im. Install it, then copy three .yaml files (chetpheng.schema, chetpheng.dict, default.custom) to the settings folder.
+Download “Rime IME” from http://rime.im. Install it, then copy three .yaml files (zyepheng.schema, zyepheng.dict, default.custom) to the settings folder.
 
-「中州韻輸入法引擎」を http://rime.im からダウンロードしてインストールしたのち，設定フォルダへ３つの .yaml ファイル（chetpheng.schema、chetpheng.dict）をコピーしてください。
+「中州韻輸入法引擎」を http://rime.im からダウンロードしてインストールしたのち，設定フォルダへ３つの .yaml ファイル（zyepheng.schema、zyepheng.dict, default.custom）をコピーしてください。
 
 *the settings folder is at　設定フォルダの場所は
 (Mac) ~/Library/Rime
@@ -12,7 +12,7 @@ Download “Rime IME” from http://rime.im. Install it, then copy three .yaml f
 
 ２　How to start　使用開始方法
 
-Enter Ctrl + ` to choose the imput method. Enter Ctrl + Alt + ` to deploy the data if it is the first time or after an update.
+Enter Ctrl + ` to choose the input method. Enter Ctrl + Alt + ` to deploy the data if it is the first time or after an update.
 
 「Ctrl + `」または「F4」で入力方式を選択し，「Ctrl + Alt + `」でデータを更新します（初回および更新時のみ）。ただし，日本語キーボードの場合，うまくいかないことがあります。
 Windows の場合，「`」が半角全角キーに対応していることがあります。不思議ですね。
@@ -45,6 +45,7 @@ tavx→シフトキー＋スペースキー→táŋ
 
 ４　履歴
 
+2021.05.19　更新自述文件。 
 2019.01.01　對應隋拼v20190101。
 2018.06.21　加油。
 2018.06.18　加機能。
