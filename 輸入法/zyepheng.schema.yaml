@@ -6,7 +6,7 @@ schema:
   name: 隋語拼音
   version: “2019.01.01”
   author:
-    - 綠靄跟 <@Magnezone462.twitter.com>
+    - 橘盧伽 <@Magnezone462.twitter.com>
 
   description: |
   dependencies:
@@ -54,49 +54,39 @@ speller:
   algebra:
     - derive/ŋ/v/
     - derive/ə/w/
-    - abbrev/^([bcdgjklmnŋpqstxz]).+$/$1/
+    - abbrev/^([bcdgjklmnvpqstxz]).+$/$1/
     - abbrev/^([ptkcszq]h).+$/$1/
     - abbrev/^([d]z).+$/$1
-#    - derive/dʼî/di/
-#    - derive/dʼî/dih/
     - derive/dʼî/dii/
     - derive/dʼî/diih/
-#    - derive/ji/j/
-#    - derive/ei/e/
-#    - derive/shi/sh/
-#    - derive/zhi/zh/
-#    - derive/iəŋ/iv/
-#    - derive/iək/ik/
-#    - derive/u/ou/
     - derive/([aeiouy])([mniu])1/$1r$2/
     - derive/([aeiouy])([mniu])2/$1f$2/
     - derive/([aeiouy])([mniu])3/$1h$2/
-    - derive/([aeiouy])ŋ1/$1rv/
-    - derive/([aeiouy])ŋ2/$1fv/
-    - derive/([aeiouy])ŋ3/$1hv/
+    - derive/([aeiouy])v1/$1rv/
+    - derive/([aeiouy])v2/$1fv/
+    - derive/([aeiouy])v3/$1hv/
     - derive/ə([mniu])1/wr$1/
     - derive/ə([mniu])2/wf$1/
     - derive/ə([mniu])3/wh$1/
     - derive/əŋ1/wrv/
     - derive/əŋ2/wfv/
     - derive/əŋ3/whv/
-#    - derive/r([iy])/$1/
     - derive/^([a-z]+)[1-3]$/$1/
     - xlit 123 rfh
     - derive/([ptk])4/$1/
-#    - 'xlit 1234 -/\'
 
 translator:
   dictionary: zyepheng
   spelling_hints: 8
   preedit_format:
     - xform dii dʼî
+    - xform diih dʼî
     - xform v ŋ
     - xform w ə
     - xform ([aeoə])([iu])([rfh]) $1$3$2
     - xform ([uy])([i])([rfh]) $1$3$2
     - xform ([i])([u])([rfh]) $1$3$2
-    - xform ([aeiouyə])([mnptk])([rfh]) $1$3$2
+    - xform ([aeiouyə])([mnptkv])([rfh]) $1$3$2
     - xform ([aeiouyə])ŋ([rfh]) $1$2ŋ
     - xform ar a
     - xform af á
@@ -123,8 +113,9 @@ translator:
     - xform ([aeoə])([iu])([123]) $1$3$2
     - xform ([uy])([i])([123]) $1$3$2
     - xform ([i])([u])([123]) $1$3$2
-    - xform ([aeiouyə])([mnptk])([123]) $1$3$2
+    - xform ([aeiouyə])([mnptkv])([123]) $1$3$2
     - xform ([aeiouyə])ŋ([123]) $1$2ŋ
+    - xform v ŋ
     - xform a1 a
     - xform a2 á
     - xform a3 â
@@ -161,8 +152,9 @@ reverse_lookup:
     - xform ([aeoə])([iu])([123]) $1$3$2
     - xform ([uy])([i])([123]) $1$3$2
     - xform ([i])([u])([123]) $1$3$2
-    - xform ([aeiouyə])([mnptk])([123]) $1$3$2
+    - xform ([aeiouyə])([mnptkv])([123]) $1$3$2
     - xform ([aeiouyə])ŋ([123]) $1$2ŋ
+    - xform v ŋ
     - xform a1 a
     - xform a2 á
     - xform a3 â
