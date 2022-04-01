@@ -44,7 +44,7 @@
 43,潘,潘,Phan,Pān,Pun1,Ban,Han,ㄆㄢ,반,ハン
 44,葛,葛,Kat,Gě,Got3,Gal,Katu,ㄍㄜˇ,갈,カツ
 45,奚,奚,Xei,Xī,Hai4,Hae,Kei,ㄒㄧ,해,ケイ
-46,范,范,Byóm,Fàn,Faan6,Beom,Han,ㄈㄢˋ,범,ハン
+46,范,范,Byám,Fàn,Faan6,Beom,Han,ㄈㄢˋ,범,ハン
 47,彭,彭,Braŋ,Péng,Paang4,Paeng,Hô,ㄆㄥˊ,팽,ホウ
 48,郎,郎,Laŋ,Láng,Long4,Rang,Rô,ㄌㄤˊ,랑,ロウ
 49,魯,鲁,Ló,Lǔ,Lou5,Ro,Ro,ㄌㄨˇ,로,ロ
@@ -57,7 +57,7 @@
 56,方,方,Pyaŋ,Fāng,Fong1,Bang,Hô,ㄈㄤ,방,ホウ
 57,兪,俞,Jyo,Yú,Jyu4,Yu,Yu,ㄩˊ,유,ユ
 58,任,任,Nim,Rén,Jam4,Im,Zin,ㄖㄣˊ,임,ジン
-59,袁,袁,Xyon,Yuán,Jyun4,Won,En,ㄩㄢˊ,원,エン
+59,袁,袁,Xyan,Yuán,Jyun4,Won,En,ㄩㄢˊ,원,エン
 60,柳,柳,Lyú,Liǔ,Lau5,Ryu,Ryû,ㄌㄧㄡˇ,류,リュウ
 61,酆,酆,Phyuŋ,Fēng,Fung1,Pung,Hô,ㄈㄥ,풍,ホウ
 62,鮑,鲍,Bráu,Bào,Baau1,Po,Hô,ㄅㄠˋ,포,ホウ
@@ -89,7 +89,7 @@
 88,康,康,Khaŋ,Kāng,Hong1,Gang,Kô,ㄎㄤ,강,コウ
 89,伍,伍,Ŋó,Wǔ,Ng5,O,Go,ㄨˇ,오,ゴ
 90,余,余,Jio,Yú,Jyu4,Yeo,Yo,ㄩˊ,여,ヨ
-91,元,元,Ŋyon,Yuán,Jyun4,Won,Gen,ㄩㄢˊ,원,ゲン
+91,元,元,Ŋyan,Yuán,Jyun4,Won,Gen,ㄩㄢˊ,원,ゲン
 92,卜,卜,Puk,Bǔ,Buk1,Bok,Hoku,ㄅㄨˇ,복,ホク
 93,顧,顾,Kô,Gù,Gu3,Go,Ko,ㄍㄨˋ,고,コ
 94,孟,孟,Mrâŋ,Mèng,Maang6,Maeng,Bô,ㄇㄥˋ,맹,ボウ
@@ -128,7 +128,7 @@
 127,董,董,Túŋ,Dǒng,Dung2,Dong,Tô,ㄉㄨㄥˇ,동,トウ
 128,梁,梁,Liaŋ,Liáng,Loeng4,Ryang,Ryô,ㄌㄧㄤˊ,량,リョウ
 129,杜,杜,Dó,Dù,Dou6,Du,To,ㄉㄨˋ,두,ト
-130,阮,阮,Ŋyón,Ruǎn,Jyun2,Wan,Gen,ㄖㄨㄢˇ,완,ゲン
+130,阮,阮,Ŋyán,Ruǎn,Jyun2,Wan,Gen,ㄖㄨㄢˇ,완,ゲン
 131,藍,蓝,Lam,Lán,Laam4,Ram,Ran,ㄌㄢˊ,람,ラン
 132,閔,闵,Mrýn,Mǐn,Man5,Min,Bin,ㄇㄧㄣˇ,민,ビン
 133,席,席,Ziek,Xí,Zik6,Seok,Seki,ㄒㄧˊ,석,セキ
@@ -155,12 +155,12 @@
 154,夏,夏,Xrá,Xià,Haa6,Ha,Ka,ㄒㄧㄚˋ,하,カ
 155,蔡,蔡,Châi,Cài,Coi3,Chae,Sai,ㄘㄞˋ,채,サイ
 156,田,田,Den,Tián,Tin4,Jeon,Ten,ㄊㄧㄢˊ,전,テン
-157,樊,樊,Byon,Fán,Faan4,Beon,Han,ㄈㄢˊ,번,ハン
+157,樊,樊,Byan,Fán,Faan4,Beon,Han,ㄈㄢˊ,번,ハン
 158,胡,胡,Xo,Hú,Wu4,Ho,Ko,ㄏㄨˊ,호,コ
 159,凌,凌,Liəŋ,Líng,Ling4,Reung,Ryô,ㄌㄧㄥˊ,릉,リョウ
 160,霍,霍,Qhuak,Huò,Fok3,Gwak,Kaku,ㄏㄨㄛˋ,곽,カク
 161,虞,虞,Ŋyo,Yú,Jyu4,U,Gu,ㄩˊ,우,グ
-162,萬,万,Myôn,Wàn,Maan6,Man,Ban,ㄨㄢˋ,만,バン
+162,萬,万,Myân,Wàn,Maan6,Man,Ban,ㄨㄢˋ,만,バン
 163,支,支,Tie,Zhī,Zi1,Ji,Si,ㄓ,지,シ
 164,柯,柯,Ka,Kē,O1,Ga,Ka,ㄎㄜ,가,カ
 165,昝,昝,Cə́m,Zǎn,Zaan2,Jam,San,ㄗㄢˇ,잠,サン
@@ -357,14 +357,14 @@
 356,寇,寇,Khû,Kòu,Kau3,Gu,Kô,ㄎㄡˋ,구,コウ
 357,廣,广,Kuáŋ,Guǎng,Gwong2,Gwang,Kô,ㄍㄨㄤˇ,광,コウ
 358,祿,禄,Luk,Lù,Luk6,Rok,Roku,ㄌㄨˋ,록,ロク
-359,闕,阙,Khyot,Quē,Kyut3,Gwol,Ketu,ㄑㄩㄝ,궐,ケツ
+359,闕,阙,Khyat,Quē,Kyut3,Gwol,Ketu,ㄑㄩㄝ,궐,ケツ
 360,東,东,Tuŋ,Dōng,Dung1,Dong,Tô,ㄉㄨㄥ,동,トウ
 361,歐,欧,Qu,Ōu,Au1,Gu,Ô,ㄡ,구,オウ
 362,殳,殳,Dyo,Shū,Syu4,Su,Syu,ㄕㄨ,수,シュ
 363,沃,沃,Qok,Wò,Juk1,Ok,Oku,ㄨㄛˋ,옥,オク
 364,利,利,Lî,Lì,Lei6,Ri,Ri,ㄌㄧˋ,리,リ
 365,蔚,蔚,Qyut,Wèi,Wat1,Ul,Utu,ㄨㄟˋ,울,ウツ
-366,越,越,Xyot,Yuè,Jyut6,Wol,Etu,ㄩㄝˋ,월,エツ
+366,越,越,Xyat,Yuè,Jyut6,Wol,Etu,ㄩㄝˋ,월,エツ
 367,夔,夔,Gryi,Kuí,Kwai4,Gi,Ki,ㄎㄨㄟˊ,기,キ
 368,隆,隆,Lyuŋ,Lóng,Lung4,Ryung,Ryû,ㄌㄨㄥˊ,륭,リュウ
 369,師,师,Sri,Shī,Si1,Sa,Si,ㄕ,사,シ
@@ -429,7 +429,7 @@
 428,申屠,申屠,Shindo,Shēntú,San1-tou4,Sindo,Sinto,ㄕㄣㄊㄨˊ,신도,シント
 429,公孫,公孙,Kuŋsun,Gōngsūn,Gung1-syun1,Gongson,Kôson,ㄍㄨㄥㄙㄨㄣ,공손,コウソン
 430,仲孫,仲孙,Dryûŋsun,Zhòngsūn,Zung6-syun1,Jungson,Tyûson,ㄓㄨㄥˋㄙㄨㄣ,중손,チュウソン
-431,軒轅,轩辕,Qhianxyon,Xuānyuán,Hin1-jyun4,Heonwon,Ken’en,ㄒㄩㄢㄩㄢˊ,헌원,ケンエン
+431,軒轅,轩辕,Qhianxyan,Xuānyuán,Hin1-jyun4,Heonwon,Ken’en,ㄒㄩㄢㄩㄢˊ,헌원,ケンエン
 432,令狐,令狐,Leŋxo,Línghú,Ling4-wu4,Ryeongho,Reiko,ㄌㄧㄥˊㄏㄨˊ,령호,レイコ
 433,鍾離,钟离,Tyoŋlie,Zhōnglí,Zung1-lei4,Jongri,Syôri,ㄓㄨㄥㄌㄧˊ,종리,ショウリ
 434,宇文,宇文,Xyómyun,Yǔwén,Jyu5-man4,Umun,Ubun,ㄩˇㄨㄣˊ,우문,ウブン
@@ -459,7 +459,7 @@
 458,晉,晋,Cîn,Jìn,Zeon3,Jin,Sin,ㄐㄧㄣˋ,진,シン
 459,楚,楚,Chrió,Chǔ,Co2,Cho,So,ㄔㄨˇ,초,ソ
 460,閆,闫,Jiem,Yán,Jim4,Yeom,En,ㄧㄢˊ,염,エン
-461,法,法,Pyop,Fǎ,Faat3,Beop,Hô,ㄈㄚˇ,법,ホウ
+461,法,法,Pyap,Fǎ,Faat3,Beop,Hô,ㄈㄚˇ,법,ホウ
 462,汝,汝,Nió,Rǔ,Jyu5,Yeo,Zyo,ㄖㄨˇ,여,ジョ
 463,鄢,鄢,Qrien,Yān,Jin1,Eon,En,ㄧㄢ,언,エン
 464,涂,涂,Do,Tú,Tou4,Do,To,ㄊㄨˊ,도,ト
